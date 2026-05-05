@@ -1,0 +1,52 @@
+Confectioner
+Chocolatier Barrel
+Chocolate Truffles
+Image	Name	Description	Ingredients	Processing Time	Sell Price	Energy / Health
+Dark Chocolate Truffles.png	Dark Chocolate Truffles	A bite-sized confection made with dark chocolate and cream.	Dark Chocolate.png Dark Chocolate (1)
+Cream.png Cream (1) ✶	Time Icon.png 1000m (≈17h)	
+Gold.png
+650g
+Energy.png
+65	
+Health.png
+29
+Floral Chocolate Truffles.png	Floral Chocolate Truffles	A bite-sized confection made with white chocolate and edible flowers.	Any Edible Flower (1) ✶
+White Chocolate.png White Chocolate (1)	Time Icon.png 1000m (≈17h)	
+Gold.png
+347g
+Energy.png
+65	
+Health.png
+29
+Fruity Chocolate Truffles.png	Fruity Chocolate Truffles	A bite-sized confection made with dark chocolate and fruit.	Any Fruit (1) ✶
+Dark Chocolate.png Dark Chocolate (1)	Time Icon.png 1000m (≈17h)	
+Gold.png
+210g
+Energy.png
+65	
+Health.png
+29
+Milk Chocolate Truffles.png	Milk Chocolate Truffles	A bite-sized confection made with milk chocolate and cream.	Milk Chocolate.png Milk Chocolate (1)
+Cream.png Cream (1) ✶	Time Icon.png 1000m (≈17h)	
+Gold.png
+650g
+Energy.png
+65	
+Health.png
+29
+Nutty Chocolate Truffles.png	Nutty Chocolate Truffles	A bite-sized confection made with milk chocolate and nuts.	Any Nut item (1) ✶
+Milk Chocolate.png Milk Chocolate (1)	Time Icon.png 1000m (≈17h)	
+Gold.png
+787g
+Energy.png
+65	
+Health.png
+29
+White Chocolate Truffles.png	White Chocolate Truffles	A bite-sized confection made with white chocolate and cream.	White Chocolate.png White Chocolate (1)
+Cream.png Cream (1) ✶	Time Icon.png 1000m (≈17h)	
+Gold.png
+650g
+Energy.png
+65	
+Health.png
+29

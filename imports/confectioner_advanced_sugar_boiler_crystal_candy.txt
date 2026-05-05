@@ -1,0 +1,52 @@
+Confectioner
+Sugar Boiler
+Crystal Candy
+Image	Name	Description	Ingredients	Processing Time	Sell Price	Energy / Health
+Amethyst Peaks Crystal Candy.png	Amethyst Peaks Crystal Candy	Bright purple rock candy.	Amethyst.png Amethyst (1)
+Sugar.png Sugar (1)	Time Icon.png 480m (≈8h)	
+Gold.png
+350g
+Energy.png
+65	
+Health.png
+29
+Aquamarine Seas Crystal Candy.png	Aquamarine Seas Crystal Candy	Bright blue rock candy.	Aquamarine.png Aquamarine (1)
+Sugar.png Sugar (1)	Time Icon.png 480m (≈8h)	
+Gold.png
+590g
+Energy.png
+65	
+Health.png
+29
+Emerald Valley Crystal Candy.png	Emerald Valley Crystal Candy	Bright green rock candy.	Emerald.png Emerald (1)
+Sugar.png Sugar (1)	Time Icon.png 480m (≈8h)	
+Gold.png
+350g
+Energy.png
+65	
+Health.png
+29
+Ruby Sands Crystal Candy.png	Ruby Sands Crystal Candy	Bright red rock candy.	Ruby.png Ruby (1)
+Sugar.png Sugar (1)	Time Icon.png 480m (≈8h)	
+Gold.png
+800g
+Energy.png
+65	
+Health.png
+29
+Starry Skies Crystal Candy.png	Starry Skies Crystal Candy	Bright pink rock candy.	Star Shards.png Star Shards (1)
+Sugar.png Sugar (1)	Time Icon.png 480m (≈8h)	
+Gold.png
+1,550g
+Energy.png
+65	
+Health.png
+29
+Topaz Shores Crystal Candy.png	Topaz Shores Crystal Candy	Bright yellow rock candy.	Topaz.png Topaz (1)
+Sugar.png Sugar (1)	Time Icon.png 480m (≈8h)	
+Gold.png
+290g
+Energy.png
+65	
+Health.png
+29

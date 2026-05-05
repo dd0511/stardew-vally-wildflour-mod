@@ -1,0 +1,68 @@
+Confectioner
+Marshmallow Mixer
+Marshmallows
+Image	Name	Description	Ingredients	Processing Time	Sell Price	Energy / Health
+Apple Pickin' Marshmallows.png	Apple Pickin' Marshmallows	Fluffy marshmallows flavored with apples and maple syrup.	Apple.png Apple (1)
+Maple Syrup.png Maple Syrup (1)	Time Icon.png 1000m (≈17h)	
+Gold.png
+856g
+Energy.png
+65	
+Health.png
+29
+Berry Mania Marshmallows.png	Berry Mania Marshmallows	Fluffy marshmallows flavored with fresh berries.	Blueberry.png Blueberry (1)
+Any Berry item (1) ✶	Time Icon.png 1000m (≈17h)	
+Gold.png
+413g
+Energy.png
+65	
+Health.png
+29
+Chocoberry Marshmallows.png	Chocoberry Marshmallows	Fluffy marshmallows flavored with strawberries and cocoa.	Strawberry.png Strawberry (1)
+Wild Cacao Pod.png Wild Cacao Pod (1) ✶	Time Icon.png 1000m (≈17h)	
+Gold.png
+876g
+Energy.png
+65	
+Health.png
+29
+Choco Lovers Marshmallows.png	Choco Lovers Marshmallows	Fluffy marshmallows flavored with TONS of chocolate!,	Dark Chocolate.png Dark Chocolate (1)
+White Chocolate.png White Chocolate (1)	Time Icon.png 1000m (≈17h)	
+Gold.png
+756g
+Energy.png
+65	
+Health.png
+29
+Mint Mocha Marshmallows.png	Mint Mocha Marshmallows	Festive, fluffy marshmallows flavored with mint and cocoa for the Feast of the Winter Star.	Pelican Mint.png Pelican Mint (1) ✶
+Wild Cacao Pod.png Wild Cacao Pod (1) ✶	Time Icon.png 1000m (≈17h)	
+Gold.png
+330g
+Energy.png
+65	
+Health.png
+29
+Rainbow Marshmallows.png	Rainbow Marshmallows	Fluffy marshmallows in every color of the rainbow!	Rainbow Sprinkles.png Rainbow Sprinkles (1)
+Sugar.png Sugar (1)	Time Icon.png 1000m (≈17h)	
+Gold.png
+706g
+Energy.png
+65	
+Health.png
+29
+Sun Kissed Marshmallows.png	Sun Kissed Marshmallows	Fluffy marshmallows flavored with lemon and vanilla.	Petite Lemon.png Petite Lemon (1) ✶
+Calico Vanilla.png Calico Vanilla (1) ✶	Time Icon.png 1000m (≈17h)	
+Gold.png
+555g
+Energy.png
+65	
+Health.png
+29
+Tea Time Marshmallows.png	Tea Time Marshmallows	Fluffy, floral-inspired marshmallows flavored with rose and matcha powder.	Fairy Rose.png Fairy Rose (1)
+Matcha Powder.png Matcha Powder (1)	Time Icon.png 1000m (≈17h)	
+Gold.png
+1,753g
+Energy.png
+65	
+Health.png
+29

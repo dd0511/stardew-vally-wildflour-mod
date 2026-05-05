@@ -1,0 +1,841 @@
+{
+  "items": [
+    {
+      "id": "beach_party_mead",
+      "name": "Beach Party Mead",
+      "zh": "",
+      "category": "Brewer Product",
+      "categoryZh": "酿酒师成品",
+      "subcategory": "Artisan Mead Keg",
+      "subcategoryZh": "蜂蜜酒",
+      "basePrice": 1585,
+      "tags": [
+        "brewer",
+        "advanced",
+        "artisan_mead_keg",
+        "mead",
+        "crafted_output",
+        "product"
+      ],
+      "description": "It's hard not to have a beach party if this starfruit and jasmine-flavored mead is around.",
+      "descriptionZh": "",
+      "energy": 50,
+      "health": 22
+    },
+    {
+      "id": "gem_isle_jasmine",
+      "name": "Gem Isle Jasmine",
+      "zh": "",
+      "category": "Ingredient",
+      "categoryZh": "原料",
+      "basePrice": 0,
+      "tags": [
+        "ingredient",
+        "basic_material",
+        "used_as_input"
+      ]
+    },
+    {
+      "id": "falling_petals_mead",
+      "name": "Falling Petals Mead",
+      "zh": "",
+      "category": "Brewer Product",
+      "categoryZh": "酿酒师成品",
+      "subcategory": "Artisan Mead Keg",
+      "subcategoryZh": "蜂蜜酒",
+      "basePrice": 210,
+      "tags": [
+        "brewer",
+        "advanced",
+        "artisan_mead_keg",
+        "mead",
+        "crafted_output",
+        "product"
+      ],
+      "description": "A springtime specialty, mead brewed with strawberries and blue jazz.",
+      "descriptionZh": "",
+      "energy": 50,
+      "health": 22
+    },
+    {
+      "id": "strawberry",
+      "name": "Strawberry",
+      "zh": "",
+      "category": "Ingredient",
+      "categoryZh": "原料",
+      "basePrice": 0,
+      "tags": [
+        "ingredient",
+        "basic_material",
+        "used_as_input",
+        "fruit"
+      ]
+    },
+    {
+      "id": "farmhouse_cider_mead",
+      "name": "Farmhouse Cider Mead",
+      "zh": "",
+      "category": "Brewer Product",
+      "categoryZh": "酿酒师成品",
+      "subcategory": "Artisan Mead Keg",
+      "subcategoryZh": "蜂蜜酒",
+      "basePrice": 280,
+      "tags": [
+        "brewer",
+        "advanced",
+        "artisan_mead_keg",
+        "mead",
+        "crafted_output",
+        "product"
+      ],
+      "description": "Mead brewed with apples and ginger, best enjoyed on a crisp, autumn evening.",
+      "descriptionZh": "",
+      "energy": 50,
+      "health": 22
+    },
+    {
+      "id": "ginger",
+      "name": "Ginger",
+      "zh": "",
+      "category": "Ingredient",
+      "categoryZh": "原料",
+      "basePrice": 0,
+      "tags": [
+        "ingredient",
+        "basic_material",
+        "used_as_input",
+        "spice_or_herb"
+      ]
+    },
+    {
+      "id": "fireworks_mead",
+      "name": "Fireworks Mead",
+      "zh": "",
+      "category": "Brewer Product",
+      "categoryZh": "酿酒师成品",
+      "subcategory": "Artisan Mead Keg",
+      "subcategoryZh": "蜂蜜酒",
+      "basePrice": 160,
+      "tags": [
+        "brewer",
+        "advanced",
+        "artisan_mead_keg",
+        "mead",
+        "crafted_output",
+        "product"
+      ],
+      "description": "Blueberries and raspberries come together for this flavorful, summer mead.",
+      "descriptionZh": "",
+      "energy": 50,
+      "health": 22
+    },
+    {
+      "id": "wild_raspberry",
+      "name": "Wild Raspberry",
+      "zh": "",
+      "category": "Ingredient",
+      "categoryZh": "原料",
+      "basePrice": 0,
+      "tags": [
+        "ingredient",
+        "basic_material",
+        "used_as_input",
+        "fruit"
+      ]
+    },
+    {
+      "id": "gentle_breeze_mead",
+      "name": "Gentle Breeze Mead",
+      "zh": "",
+      "category": "Brewer Product",
+      "categoryZh": "酿酒师成品",
+      "subcategory": "Artisan Mead Keg",
+      "subcategoryZh": "蜂蜜酒",
+      "basePrice": 152,
+      "tags": [
+        "brewer",
+        "advanced",
+        "artisan_mead_keg",
+        "mead",
+        "crafted_output",
+        "product"
+      ],
+      "description": "Mead flavored with dandelions and chamomile, for a delicate, floral flavor.",
+      "descriptionZh": "",
+      "energy": 50,
+      "health": 22
+    },
+    {
+      "id": "forest_chamomile",
+      "name": "Forest Chamomile",
+      "zh": "",
+      "category": "Ingredient",
+      "categoryZh": "原料",
+      "basePrice": 0,
+      "tags": [
+        "ingredient",
+        "basic_material",
+        "used_as_input"
+      ]
+    },
+    {
+      "id": "leaf_pile_mead",
+      "name": "Leaf Pile Mead",
+      "zh": "",
+      "category": "Brewer Product",
+      "categoryZh": "酿酒师成品",
+      "subcategory": "Artisan Mead Keg",
+      "subcategoryZh": "蜂蜜酒",
+      "basePrice": 460,
+      "tags": [
+        "brewer",
+        "advanced",
+        "artisan_mead_keg",
+        "mead",
+        "crafted_output",
+        "product"
+      ],
+      "description": "This mead has an added sweetness from maple syrup and a tart finish from freshly-foraged blackberries.",
+      "descriptionZh": "",
+      "energy": 50,
+      "health": 22
+    },
+    {
+      "id": "blackberry",
+      "name": "Blackberry",
+      "zh": "",
+      "category": "Ingredient",
+      "categoryZh": "原料",
+      "basePrice": 0,
+      "tags": [
+        "ingredient",
+        "basic_material",
+        "used_as_input",
+        "fruit"
+      ]
+    },
+    {
+      "id": "picnic_basket_mead",
+      "name": "Picnic Basket Mead",
+      "zh": "",
+      "category": "Brewer Product",
+      "categoryZh": "酿酒师成品",
+      "subcategory": "Artisan Mead Keg",
+      "subcategoryZh": "蜂蜜酒",
+      "basePrice": 895,
+      "tags": [
+        "brewer",
+        "advanced",
+        "artisan_mead_keg",
+        "mead",
+        "crafted_output",
+        "product"
+      ],
+      "description": "This mead is flavored with elderberries and almonds, perfect for a romantic summer picnic in the forest.",
+      "descriptionZh": "",
+      "energy": 50,
+      "health": 22
+    },
+    {
+      "id": "elderberry_blossoms",
+      "name": "Elderberry Blossoms",
+      "zh": "",
+      "category": "Ingredient",
+      "categoryZh": "原料",
+      "basePrice": 0,
+      "tags": [
+        "ingredient",
+        "basic_material",
+        "used_as_input"
+      ]
+    },
+    {
+      "id": "st_cannoli_almond",
+      "name": "St Cannoli Almond",
+      "zh": "",
+      "category": "Ingredient",
+      "categoryZh": "原料",
+      "basePrice": 0,
+      "tags": [
+        "ingredient",
+        "basic_material",
+        "used_as_input",
+        "nut"
+      ]
+    },
+    {
+      "id": "spellbound_mead",
+      "name": "Spellbound Mead",
+      "zh": "",
+      "category": "Brewer Product",
+      "categoryZh": "酿酒师成品",
+      "subcategory": "Artisan Mead Keg",
+      "subcategoryZh": "蜂蜜酒",
+      "basePrice": 358,
+      "tags": [
+        "brewer",
+        "advanced",
+        "artisan_mead_keg",
+        "mead",
+        "crafted_output",
+        "product"
+      ],
+      "description": "The combination of crystal fruit and mint yields a mead that tastes almost...magical.",
+      "descriptionZh": "",
+      "energy": 50,
+      "health": 22
+    },
+    {
+      "id": "pelican_mint",
+      "name": "Pelican Mint",
+      "zh": "",
+      "category": "Ingredient",
+      "categoryZh": "原料",
+      "basePrice": 0,
+      "tags": [
+        "ingredient",
+        "basic_material",
+        "used_as_input",
+        "spice_or_herb"
+      ]
+    },
+    {
+      "id": "sunny_daze_mead",
+      "name": "Sunny Daze Mead",
+      "zh": "",
+      "category": "Brewer Product",
+      "categoryZh": "酿酒师成品",
+      "subcategory": "Artisan Mead Keg",
+      "subcategoryZh": "蜂蜜酒",
+      "basePrice": 207,
+      "tags": [
+        "brewer",
+        "advanced",
+        "artisan_mead_keg",
+        "mead",
+        "crafted_output",
+        "product"
+      ],
+      "description": "Mead brewed with lemon and basil for an herbal, citrus kick.",
+      "descriptionZh": "",
+      "energy": 50,
+      "health": 22
+    },
+    {
+      "id": "sweet_basil",
+      "name": "Sweet Basil",
+      "zh": "",
+      "category": "Ingredient",
+      "categoryZh": "原料",
+      "basePrice": 0,
+      "tags": [
+        "ingredient",
+        "basic_material",
+        "used_as_input",
+        "spice_or_herb"
+      ]
+    },
+    {
+      "id": "petite_lemon",
+      "name": "Petite Lemon",
+      "zh": "",
+      "category": "Ingredient",
+      "categoryZh": "原料",
+      "basePrice": 0,
+      "tags": [
+        "ingredient",
+        "basic_material",
+        "used_as_input",
+        "fruit"
+      ]
+    },
+    {
+      "id": "twinkle_mead",
+      "name": "Twinkle Mead",
+      "zh": "",
+      "category": "Brewer Product",
+      "categoryZh": "酿酒师成品",
+      "subcategory": "Artisan Mead Keg",
+      "subcategoryZh": "蜂蜜酒",
+      "basePrice": 315,
+      "tags": [
+        "brewer",
+        "advanced",
+        "artisan_mead_keg",
+        "mead",
+        "crafted_output",
+        "product"
+      ],
+      "description": "Crocus and Fairy Rose petals provide both flavor and color to this floral mead.",
+      "descriptionZh": "",
+      "energy": 50,
+      "health": 22
+    },
+    {
+      "id": "fairy_rose",
+      "name": "Fairy Rose",
+      "zh": "",
+      "category": "Ingredient",
+      "categoryZh": "原料",
+      "basePrice": 0,
+      "tags": [
+        "ingredient",
+        "basic_material",
+        "used_as_input"
+      ]
+    },
+    {
+      "id": "wyrd_sisters_mead",
+      "name": "Wyrd Sisters Mead",
+      "zh": "",
+      "category": "Brewer Product",
+      "categoryZh": "酿酒师成品",
+      "subcategory": "Artisan Mead Keg",
+      "subcategoryZh": "蜂蜜酒",
+      "basePrice": 225,
+      "tags": [
+        "brewer",
+        "advanced",
+        "artisan_mead_keg",
+        "mead",
+        "crafted_output",
+        "product"
+      ],
+      "description": "The addition of wormwood makes this rosey mead rather potent. Best left to more magically inclined to enjoy amongst their covens.",
+      "descriptionZh": "",
+      "energy": 50,
+      "health": 22
+    },
+    {
+      "id": "wormwood",
+      "name": "Wormwood",
+      "zh": "",
+      "category": "Ingredient",
+      "categoryZh": "原料",
+      "basePrice": 0,
+      "tags": [
+        "ingredient",
+        "basic_material",
+        "used_as_input"
+      ]
+    },
+    {
+      "id": "yule_log_mead",
+      "name": "Yule Log Mead",
+      "zh": "",
+      "category": "Brewer Product",
+      "categoryZh": "酿酒师成品",
+      "subcategory": "Artisan Mead Keg",
+      "subcategoryZh": "蜂蜜酒",
+      "basePrice": 710,
+      "tags": [
+        "brewer",
+        "advanced",
+        "artisan_mead_keg",
+        "mead",
+        "crafted_output",
+        "product"
+      ],
+      "description": "Mead flavored with cinnamon and spices to keep you cozy and warm on cold winter nights.",
+      "descriptionZh": "",
+      "energy": 50,
+      "health": 22
+    },
+    {
+      "id": "cindersap_cinnamon",
+      "name": "Cindersap Cinnamon",
+      "zh": "",
+      "category": "Ingredient",
+      "categoryZh": "原料",
+      "basePrice": 0,
+      "tags": [
+        "ingredient",
+        "basic_material",
+        "used_as_input",
+        "spice_or_herb"
+      ]
+    },
+    {
+      "id": "star_anise",
+      "name": "Star Anise",
+      "zh": "",
+      "category": "Ingredient",
+      "categoryZh": "原料",
+      "basePrice": 0,
+      "tags": [
+        "ingredient",
+        "basic_material",
+        "used_as_input"
+      ]
+    }
+  ],
+  "machines": [
+    {
+      "id": "artisan_mead_keg",
+      "name": "Artisan Mead Keg",
+      "zh": "手工蜂蜜酒桶",
+      "defaultMinutes": 1600,
+      "module": "brewer",
+      "moduleZh": "酿酒师",
+      "tags": [
+        "brewer",
+        "artisan_mead_keg",
+        "mead"
+      ]
+    }
+  ],
+  "recipes": [
+    {
+      "id": "brewer_advanced_artisan_mead_keg_beach_party_mead",
+      "name": "Beach Party Mead",
+      "nameEn": "Beach Party Mead",
+      "machineId": "artisan_mead_keg",
+      "inputs": [
+        {
+          "itemId": "gem_isle_jasmine",
+          "qty": 1
+        }
+      ],
+      "output": {
+        "itemId": "beach_party_mead",
+        "qty": 1
+      },
+      "minutes": 1600,
+      "module": "brewer",
+      "moduleZh": "酿酒师",
+      "mode": "advanced",
+      "modeZh": "高级",
+      "subcategory": "Artisan Mead Keg",
+      "subcategoryZh": "蜂蜜酒",
+      "source": "Wildflour wiki pasted English table",
+      "description": "It's hard not to have a beach party if this starfruit and jasmine-flavored mead is around.",
+      "descriptionZh": "",
+      "energy": 50,
+      "health": 22
+    },
+    {
+      "id": "brewer_advanced_artisan_mead_keg_falling_petals_mead",
+      "name": "Falling Petals Mead",
+      "nameEn": "Falling Petals Mead",
+      "machineId": "artisan_mead_keg",
+      "inputs": [
+        {
+          "itemId": "strawberry",
+          "qty": 1
+        }
+      ],
+      "output": {
+        "itemId": "falling_petals_mead",
+        "qty": 1
+      },
+      "minutes": 1600,
+      "module": "brewer",
+      "moduleZh": "酿酒师",
+      "mode": "advanced",
+      "modeZh": "高级",
+      "subcategory": "Artisan Mead Keg",
+      "subcategoryZh": "蜂蜜酒",
+      "source": "Wildflour wiki pasted English table",
+      "description": "A springtime specialty, mead brewed with strawberries and blue jazz.",
+      "descriptionZh": "",
+      "energy": 50,
+      "health": 22
+    },
+    {
+      "id": "brewer_advanced_artisan_mead_keg_farmhouse_cider_mead",
+      "name": "Farmhouse Cider Mead",
+      "nameEn": "Farmhouse Cider Mead",
+      "machineId": "artisan_mead_keg",
+      "inputs": [
+        {
+          "itemId": "ginger",
+          "qty": 1
+        }
+      ],
+      "output": {
+        "itemId": "farmhouse_cider_mead",
+        "qty": 1
+      },
+      "minutes": 1600,
+      "module": "brewer",
+      "moduleZh": "酿酒师",
+      "mode": "advanced",
+      "modeZh": "高级",
+      "subcategory": "Artisan Mead Keg",
+      "subcategoryZh": "蜂蜜酒",
+      "source": "Wildflour wiki pasted English table",
+      "description": "Mead brewed with apples and ginger, best enjoyed on a crisp, autumn evening.",
+      "descriptionZh": "",
+      "energy": 50,
+      "health": 22
+    },
+    {
+      "id": "brewer_advanced_artisan_mead_keg_fireworks_mead",
+      "name": "Fireworks Mead",
+      "nameEn": "Fireworks Mead",
+      "machineId": "artisan_mead_keg",
+      "inputs": [
+        {
+          "itemId": "wild_raspberry",
+          "qty": 1
+        }
+      ],
+      "output": {
+        "itemId": "fireworks_mead",
+        "qty": 1
+      },
+      "minutes": 1600,
+      "module": "brewer",
+      "moduleZh": "酿酒师",
+      "mode": "advanced",
+      "modeZh": "高级",
+      "subcategory": "Artisan Mead Keg",
+      "subcategoryZh": "蜂蜜酒",
+      "source": "Wildflour wiki pasted English table",
+      "description": "Blueberries and raspberries come together for this flavorful, summer mead.",
+      "descriptionZh": "",
+      "energy": 50,
+      "health": 22
+    },
+    {
+      "id": "brewer_advanced_artisan_mead_keg_gentle_breeze_mead",
+      "name": "Gentle Breeze Mead",
+      "nameEn": "Gentle Breeze Mead",
+      "machineId": "artisan_mead_keg",
+      "inputs": [
+        {
+          "itemId": "forest_chamomile",
+          "qty": 1
+        }
+      ],
+      "output": {
+        "itemId": "gentle_breeze_mead",
+        "qty": 1
+      },
+      "minutes": 1600,
+      "module": "brewer",
+      "moduleZh": "酿酒师",
+      "mode": "advanced",
+      "modeZh": "高级",
+      "subcategory": "Artisan Mead Keg",
+      "subcategoryZh": "蜂蜜酒",
+      "source": "Wildflour wiki pasted English table",
+      "description": "Mead flavored with dandelions and chamomile, for a delicate, floral flavor.",
+      "descriptionZh": "",
+      "energy": 50,
+      "health": 22
+    },
+    {
+      "id": "brewer_advanced_artisan_mead_keg_leaf_pile_mead",
+      "name": "Leaf Pile Mead",
+      "nameEn": "Leaf Pile Mead",
+      "machineId": "artisan_mead_keg",
+      "inputs": [
+        {
+          "itemId": "blackberry",
+          "qty": 1
+        }
+      ],
+      "output": {
+        "itemId": "leaf_pile_mead",
+        "qty": 1
+      },
+      "minutes": 1600,
+      "module": "brewer",
+      "moduleZh": "酿酒师",
+      "mode": "advanced",
+      "modeZh": "高级",
+      "subcategory": "Artisan Mead Keg",
+      "subcategoryZh": "蜂蜜酒",
+      "source": "Wildflour wiki pasted English table",
+      "description": "This mead has an added sweetness from maple syrup and a tart finish from freshly-foraged blackberries.",
+      "descriptionZh": "",
+      "energy": 50,
+      "health": 22
+    },
+    {
+      "id": "brewer_advanced_artisan_mead_keg_picnic_basket_mead",
+      "name": "Picnic Basket Mead",
+      "nameEn": "Picnic Basket Mead",
+      "machineId": "artisan_mead_keg",
+      "inputs": [
+        {
+          "itemId": "elderberry_blossoms",
+          "qty": 1
+        },
+        {
+          "itemId": "st_cannoli_almond",
+          "qty": 1
+        }
+      ],
+      "output": {
+        "itemId": "picnic_basket_mead",
+        "qty": 1
+      },
+      "minutes": 1600,
+      "module": "brewer",
+      "moduleZh": "酿酒师",
+      "mode": "advanced",
+      "modeZh": "高级",
+      "subcategory": "Artisan Mead Keg",
+      "subcategoryZh": "蜂蜜酒",
+      "source": "Wildflour wiki pasted English table",
+      "description": "This mead is flavored with elderberries and almonds, perfect for a romantic summer picnic in the forest.",
+      "descriptionZh": "",
+      "energy": 50,
+      "health": 22
+    },
+    {
+      "id": "brewer_advanced_artisan_mead_keg_spellbound_mead",
+      "name": "Spellbound Mead",
+      "nameEn": "Spellbound Mead",
+      "machineId": "artisan_mead_keg",
+      "inputs": [
+        {
+          "itemId": "pelican_mint",
+          "qty": 1
+        }
+      ],
+      "output": {
+        "itemId": "spellbound_mead",
+        "qty": 1
+      },
+      "minutes": 1600,
+      "module": "brewer",
+      "moduleZh": "酿酒师",
+      "mode": "advanced",
+      "modeZh": "高级",
+      "subcategory": "Artisan Mead Keg",
+      "subcategoryZh": "蜂蜜酒",
+      "source": "Wildflour wiki pasted English table",
+      "description": "The combination of crystal fruit and mint yields a mead that tastes almost...magical.",
+      "descriptionZh": "",
+      "energy": 50,
+      "health": 22
+    },
+    {
+      "id": "brewer_advanced_artisan_mead_keg_sunny_daze_mead",
+      "name": "Sunny Daze Mead",
+      "nameEn": "Sunny Daze Mead",
+      "machineId": "artisan_mead_keg",
+      "inputs": [
+        {
+          "itemId": "sweet_basil",
+          "qty": 1
+        },
+        {
+          "itemId": "petite_lemon",
+          "qty": 1
+        }
+      ],
+      "output": {
+        "itemId": "sunny_daze_mead",
+        "qty": 1
+      },
+      "minutes": 1600,
+      "module": "brewer",
+      "moduleZh": "酿酒师",
+      "mode": "advanced",
+      "modeZh": "高级",
+      "subcategory": "Artisan Mead Keg",
+      "subcategoryZh": "蜂蜜酒",
+      "source": "Wildflour wiki pasted English table",
+      "description": "Mead brewed with lemon and basil for an herbal, citrus kick.",
+      "descriptionZh": "",
+      "energy": 50,
+      "health": 22
+    },
+    {
+      "id": "brewer_advanced_artisan_mead_keg_twinkle_mead",
+      "name": "Twinkle Mead",
+      "nameEn": "Twinkle Mead",
+      "machineId": "artisan_mead_keg",
+      "inputs": [
+        {
+          "itemId": "fairy_rose",
+          "qty": 1
+        }
+      ],
+      "output": {
+        "itemId": "twinkle_mead",
+        "qty": 1
+      },
+      "minutes": 1600,
+      "module": "brewer",
+      "moduleZh": "酿酒师",
+      "mode": "advanced",
+      "modeZh": "高级",
+      "subcategory": "Artisan Mead Keg",
+      "subcategoryZh": "蜂蜜酒",
+      "source": "Wildflour wiki pasted English table",
+      "description": "Crocus and Fairy Rose petals provide both flavor and color to this floral mead.",
+      "descriptionZh": "",
+      "energy": 50,
+      "health": 22
+    },
+    {
+      "id": "brewer_advanced_artisan_mead_keg_wyrd_sisters_mead",
+      "name": "Wyrd Sisters Mead",
+      "nameEn": "Wyrd Sisters Mead",
+      "machineId": "artisan_mead_keg",
+      "inputs": [
+        {
+          "itemId": "wormwood",
+          "qty": 1
+        },
+        {
+          "itemId": "fairy_rose",
+          "qty": 1
+        }
+      ],
+      "output": {
+        "itemId": "wyrd_sisters_mead",
+        "qty": 1
+      },
+      "minutes": 1600,
+      "module": "brewer",
+      "moduleZh": "酿酒师",
+      "mode": "advanced",
+      "modeZh": "高级",
+      "subcategory": "Artisan Mead Keg",
+      "subcategoryZh": "蜂蜜酒",
+      "source": "Wildflour wiki pasted English table",
+      "description": "The addition of wormwood makes this rosey mead rather potent. Best left to more magically inclined to enjoy amongst their covens.",
+      "descriptionZh": "",
+      "energy": 50,
+      "health": 22
+    },
+    {
+      "id": "brewer_advanced_artisan_mead_keg_yule_log_mead",
+      "name": "Yule Log Mead",
+      "nameEn": "Yule Log Mead",
+      "machineId": "artisan_mead_keg",
+      "inputs": [
+        {
+          "itemId": "cindersap_cinnamon",
+          "qty": 1
+        },
+        {
+          "itemId": "star_anise",
+          "qty": 1
+        }
+      ],
+      "output": {
+        "itemId": "yule_log_mead",
+        "qty": 1
+      },
+      "minutes": 1600,
+      "module": "brewer",
+      "moduleZh": "酿酒师",
+      "mode": "advanced",
+      "modeZh": "高级",
+      "subcategory": "Artisan Mead Keg",
+      "subcategoryZh": "蜂蜜酒",
+      "source": "Wildflour wiki pasted English table",
+      "description": "Mead flavored with cinnamon and spices to keep you cozy and warm on cold winter nights.",
+      "descriptionZh": "",
+      "energy": 50,
+      "health": 22
+    }
+  ]
+}

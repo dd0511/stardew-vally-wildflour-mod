@@ -1,0 +1,649 @@
+{
+  "items": [
+    {
+      "id": "apple_butter",
+      "name": "Apple Butter",
+      "zh": "",
+      "category": "Gourmand Product",
+      "categoryZh": "美食家成品",
+      "subcategory": "Butters Curds and Cream",
+      "subcategoryZh": "黄油凝乳与奶油",
+      "basePrice": 275,
+      "tags": [
+        "gourmand",
+        "advanced",
+        "mayonnaise_machine",
+        "butters_curds_and_cream",
+        "dairy_product",
+        "crafted_output",
+        "product"
+      ],
+      "description": "Made with the farmer's secret family recipe - warm and sweet and perfect for morning toast or slathered on the side of a muffin.",
+      "descriptionZh": "",
+      "energy": 38,
+      "health": 17
+    },
+    {
+      "id": "apple",
+      "name": "Apple",
+      "zh": "",
+      "category": "Ingredient",
+      "categoryZh": "原料",
+      "basePrice": 0,
+      "tags": [
+        "ingredient",
+        "basic_material",
+        "used_as_input",
+        "fruit"
+      ]
+    },
+    {
+      "id": "butter",
+      "name": "Butter",
+      "zh": "",
+      "category": "Gourmand Product",
+      "categoryZh": "美食家成品",
+      "subcategory": "Butters Curds and Cream",
+      "subcategoryZh": "黄油凝乳与奶油",
+      "basePrice": 343,
+      "tags": [
+        "gourmand",
+        "advanced",
+        "mayonnaise_machine",
+        "butters_curds_and_cream",
+        "dairy_product",
+        "crafted_output",
+        "product"
+      ],
+      "description": "Milk churned by hand into glorious butter.",
+      "descriptionZh": "",
+      "energy": 38,
+      "health": 17
+    },
+    {
+      "id": "any_milk",
+      "name": "Any Milk",
+      "zh": "",
+      "category": "Ingredient",
+      "categoryZh": "原料",
+      "basePrice": 0,
+      "tags": [
+        "ingredient",
+        "basic_material",
+        "used_as_input",
+        "generic_input",
+        "milk",
+        "dairy"
+      ],
+      "isGeneric": true,
+      "acceptedTags": [
+        "generic_input",
+        "milk",
+        "dairy"
+      ]
+    },
+    {
+      "id": "buttermilk",
+      "name": "Buttermilk",
+      "zh": "",
+      "category": "Gourmand Product",
+      "categoryZh": "美食家成品",
+      "subcategory": "Butters Curds and Cream",
+      "subcategoryZh": "黄油凝乳与奶油",
+      "basePrice": 155,
+      "tags": [
+        "gourmand",
+        "advanced",
+        "mayonnaise_machine",
+        "butters_curds_and_cream",
+        "dairy_product",
+        "crafted_output",
+        "product"
+      ],
+      "description": "Although it smells a bit unpleasant, this ingredient helps create tender cornbread and fluffy pancakes.",
+      "descriptionZh": "",
+      "energy": 13,
+      "health": 5
+    },
+    {
+      "id": "cream",
+      "name": "Cream",
+      "zh": "",
+      "category": "Gourmand Product",
+      "categoryZh": "美食家成品",
+      "subcategory": "Butters Curds and Cream",
+      "subcategoryZh": "黄油凝乳与奶油",
+      "basePrice": 185,
+      "tags": [
+        "gourmand",
+        "advanced",
+        "mayonnaise_machine",
+        "butters_curds_and_cream",
+        "dairy_product",
+        "crafted_output",
+        "product"
+      ],
+      "description": "Cream is essential to baking certain pastries and whipping up soft, fluffy frostings!",
+      "descriptionZh": "",
+      "energy": 25,
+      "health": 11
+    },
+    {
+      "id": "honey_butter",
+      "name": "Honey Butter",
+      "zh": "",
+      "category": "Gourmand Product",
+      "categoryZh": "美食家成品",
+      "subcategory": "Butters Curds and Cream",
+      "subcategoryZh": "黄油凝乳与奶油",
+      "basePrice": 275,
+      "tags": [
+        "gourmand",
+        "advanced",
+        "mayonnaise_machine",
+        "butters_curds_and_cream",
+        "dairy_product",
+        "crafted_output",
+        "product"
+      ],
+      "description": "Made with the farmer's secret family recipe and the help of some lovely bumblebees.",
+      "descriptionZh": "",
+      "energy": 38,
+      "health": 17
+    },
+    {
+      "id": "honey",
+      "name": "Honey",
+      "zh": "",
+      "category": "Ingredient",
+      "categoryZh": "原料",
+      "basePrice": 0,
+      "tags": [
+        "ingredient",
+        "basic_material",
+        "used_as_input",
+        "sweetener"
+      ]
+    },
+    {
+      "id": "lemon_curd",
+      "name": "Lemon Curd ♣",
+      "zh": "",
+      "category": "Gourmand Product",
+      "categoryZh": "美食家成品",
+      "subcategory": "Butters Curds and Cream",
+      "subcategoryZh": "黄油凝乳与奶油",
+      "basePrice": 151,
+      "tags": [
+        "gourmand",
+        "advanced",
+        "mayonnaise_machine",
+        "butters_curds_and_cream",
+        "dairy_product",
+        "crafted_output",
+        "product"
+      ],
+      "description": "Its luscious, creamy texture is due to high quality egg yolks from very happy chickens.",
+      "descriptionZh": "",
+      "energy": 38,
+      "health": 17
+    },
+    {
+      "id": "petite_lemon",
+      "name": "Petite Lemon",
+      "zh": "",
+      "category": "Ingredient",
+      "categoryZh": "原料",
+      "basePrice": 0,
+      "tags": [
+        "ingredient",
+        "basic_material",
+        "used_as_input",
+        "fruit"
+      ]
+    },
+    {
+      "id": "lime_curd",
+      "name": "Lime Curd ♣",
+      "zh": "",
+      "category": "Gourmand Product",
+      "categoryZh": "美食家成品",
+      "subcategory": "Butters Curds and Cream",
+      "subcategoryZh": "黄油凝乳与奶油",
+      "basePrice": 151,
+      "tags": [
+        "gourmand",
+        "advanced",
+        "mayonnaise_machine",
+        "butters_curds_and_cream",
+        "dairy_product",
+        "crafted_output",
+        "product"
+      ],
+      "description": "Its luscious, creamy texture is due to high quality egg yolks from very happy chickens.",
+      "descriptionZh": "",
+      "energy": 38,
+      "health": 17
+    },
+    {
+      "id": "petite_lime",
+      "name": "Petite Lime",
+      "zh": "",
+      "category": "Ingredient",
+      "categoryZh": "原料",
+      "basePrice": 0,
+      "tags": [
+        "ingredient",
+        "basic_material",
+        "used_as_input",
+        "fruit"
+      ]
+    },
+    {
+      "id": "maple_butter",
+      "name": "Maple Butter",
+      "zh": "",
+      "category": "Gourmand Product",
+      "categoryZh": "美食家成品",
+      "subcategory": "Butters Curds and Cream",
+      "subcategoryZh": "黄油凝乳与奶油",
+      "basePrice": 550,
+      "tags": [
+        "gourmand",
+        "advanced",
+        "mayonnaise_machine",
+        "butters_curds_and_cream",
+        "dairy_product",
+        "crafted_output",
+        "product"
+      ],
+      "description": "Made with the farmer's secret family recipe and locally sourced maple syrup.",
+      "descriptionZh": "",
+      "energy": 38,
+      "health": 17
+    },
+    {
+      "id": "maple_syrup",
+      "name": "Maple Syrup",
+      "zh": "",
+      "category": "Ingredient",
+      "categoryZh": "原料",
+      "basePrice": 0,
+      "tags": [
+        "ingredient",
+        "basic_material",
+        "used_as_input",
+        "sweetener"
+      ]
+    },
+    {
+      "id": "orange_curd",
+      "name": "Orange Curd",
+      "zh": "",
+      "category": "Gourmand Product",
+      "categoryZh": "美食家成品",
+      "subcategory": "Butters Curds and Cream",
+      "subcategoryZh": "黄油凝乳与奶油",
+      "basePrice": 275,
+      "tags": [
+        "gourmand",
+        "advanced",
+        "mayonnaise_machine",
+        "butters_curds_and_cream",
+        "dairy_product",
+        "crafted_output",
+        "product"
+      ],
+      "description": "Its luscious, creamy texture is due to high quality egg yolks from very happy chickens.",
+      "descriptionZh": "",
+      "energy": 38,
+      "health": 17
+    },
+    {
+      "id": "orange",
+      "name": "Orange",
+      "zh": "",
+      "category": "Ingredient",
+      "categoryZh": "原料",
+      "basePrice": 0,
+      "tags": [
+        "ingredient",
+        "basic_material",
+        "used_as_input",
+        "fruit"
+      ]
+    },
+    {
+      "id": "pumpkin_butter",
+      "name": "Pumpkin Butter",
+      "zh": "",
+      "category": "Gourmand Product",
+      "categoryZh": "美食家成品",
+      "subcategory": "Butters Curds and Cream",
+      "subcategoryZh": "黄油凝乳与奶油",
+      "basePrice": 880,
+      "tags": [
+        "gourmand",
+        "advanced",
+        "mayonnaise_machine",
+        "butters_curds_and_cream",
+        "dairy_product",
+        "crafted_output",
+        "product"
+      ],
+      "description": "Made with the farmer's secret family recipe - perfect for the pumpkin spice lover in all of us.",
+      "descriptionZh": "",
+      "energy": 38,
+      "health": 17
+    },
+    {
+      "id": "pumpkin",
+      "name": "Pumpkin",
+      "zh": "",
+      "category": "Ingredient",
+      "categoryZh": "原料",
+      "basePrice": 0,
+      "tags": [
+        "ingredient",
+        "basic_material",
+        "used_as_input",
+        "fruit"
+      ]
+    }
+  ],
+  "machines": [
+    {
+      "id": "mayonnaise_machine",
+      "name": "Mayonnaise Machine",
+      "zh": "蛋黄酱机",
+      "defaultMinutes": 180,
+      "module": "gourmand",
+      "moduleZh": "美食家",
+      "tags": [
+        "gourmand",
+        "mayonnaise_machine",
+        "dairy_product",
+        "butters_curds_and_cream"
+      ]
+    }
+  ],
+  "recipes": [
+    {
+      "id": "gourmand_advanced_mayonnaise_machine_apple_butter",
+      "name": "Apple Butter",
+      "nameEn": "Apple Butter",
+      "machineId": "mayonnaise_machine",
+      "inputs": [
+        {
+          "itemId": "apple",
+          "qty": 2
+        }
+      ],
+      "output": {
+        "itemId": "apple_butter",
+        "qty": 1
+      },
+      "minutes": 180,
+      "module": "gourmand",
+      "moduleZh": "美食家",
+      "mode": "advanced",
+      "modeZh": "高级",
+      "subcategory": "Butters Curds and Cream",
+      "subcategoryZh": "黄油凝乳与奶油",
+      "source": "Wildflour wiki pasted English table",
+      "description": "Made with the farmer's secret family recipe - warm and sweet and perfect for morning toast or slathered on the side of a muffin.",
+      "descriptionZh": "",
+      "energy": 38,
+      "health": 17
+    },
+    {
+      "id": "gourmand_advanced_mayonnaise_machine_butter",
+      "name": "Butter",
+      "nameEn": "Butter",
+      "machineId": "mayonnaise_machine",
+      "inputs": [
+        {
+          "tag": "dairy",
+          "itemId": "any_milk",
+          "qty": 2,
+          "isGeneric": true,
+          "acceptedTags": [
+            "generic_input",
+            "milk",
+            "dairy"
+          ]
+        }
+      ],
+      "output": {
+        "itemId": "butter",
+        "qty": 1
+      },
+      "minutes": 180,
+      "module": "gourmand",
+      "moduleZh": "美食家",
+      "mode": "advanced",
+      "modeZh": "高级",
+      "subcategory": "Butters Curds and Cream",
+      "subcategoryZh": "黄油凝乳与奶油",
+      "source": "Wildflour wiki pasted English table",
+      "description": "Milk churned by hand into glorious butter.",
+      "descriptionZh": "",
+      "energy": 38,
+      "health": 17
+    },
+    {
+      "id": "gourmand_advanced_mayonnaise_machine_buttermilk",
+      "name": "Buttermilk",
+      "nameEn": "Buttermilk",
+      "machineId": "mayonnaise_machine",
+      "inputs": [],
+      "output": {
+        "itemId": "buttermilk",
+        "qty": 1
+      },
+      "minutes": 180,
+      "module": "gourmand",
+      "moduleZh": "美食家",
+      "mode": "advanced",
+      "modeZh": "高级",
+      "subcategory": "Butters Curds and Cream",
+      "subcategoryZh": "黄油凝乳与奶油",
+      "source": "Wildflour wiki pasted English table",
+      "description": "Although it smells a bit unpleasant, this ingredient helps create tender cornbread and fluffy pancakes.",
+      "descriptionZh": "",
+      "energy": 13,
+      "health": 5
+    },
+    {
+      "id": "gourmand_advanced_mayonnaise_machine_cream",
+      "name": "Cream",
+      "nameEn": "Cream",
+      "machineId": "mayonnaise_machine",
+      "inputs": [],
+      "output": {
+        "itemId": "cream",
+        "qty": 1
+      },
+      "minutes": 180,
+      "module": "gourmand",
+      "moduleZh": "美食家",
+      "mode": "advanced",
+      "modeZh": "高级",
+      "subcategory": "Butters Curds and Cream",
+      "subcategoryZh": "黄油凝乳与奶油",
+      "source": "Wildflour wiki pasted English table",
+      "description": "Cream is essential to baking certain pastries and whipping up soft, fluffy frostings!",
+      "descriptionZh": "",
+      "energy": 25,
+      "health": 11
+    },
+    {
+      "id": "gourmand_advanced_mayonnaise_machine_honey_butter",
+      "name": "Honey Butter",
+      "nameEn": "Honey Butter",
+      "machineId": "mayonnaise_machine",
+      "inputs": [
+        {
+          "itemId": "honey",
+          "qty": 2
+        }
+      ],
+      "output": {
+        "itemId": "honey_butter",
+        "qty": 1
+      },
+      "minutes": 180,
+      "module": "gourmand",
+      "moduleZh": "美食家",
+      "mode": "advanced",
+      "modeZh": "高级",
+      "subcategory": "Butters Curds and Cream",
+      "subcategoryZh": "黄油凝乳与奶油",
+      "source": "Wildflour wiki pasted English table",
+      "description": "Made with the farmer's secret family recipe and the help of some lovely bumblebees.",
+      "descriptionZh": "",
+      "energy": 38,
+      "health": 17
+    },
+    {
+      "id": "gourmand_advanced_mayonnaise_machine_lemon_curd",
+      "name": "Lemon Curd ♣",
+      "nameEn": "Lemon Curd ♣",
+      "machineId": "mayonnaise_machine",
+      "inputs": [
+        {
+          "itemId": "petite_lemon",
+          "qty": 2
+        }
+      ],
+      "output": {
+        "itemId": "lemon_curd",
+        "qty": 1
+      },
+      "minutes": 180,
+      "module": "gourmand",
+      "moduleZh": "美食家",
+      "mode": "advanced",
+      "modeZh": "高级",
+      "subcategory": "Butters Curds and Cream",
+      "subcategoryZh": "黄油凝乳与奶油",
+      "source": "Wildflour wiki pasted English table",
+      "description": "Its luscious, creamy texture is due to high quality egg yolks from very happy chickens.",
+      "descriptionZh": "",
+      "energy": 38,
+      "health": 17
+    },
+    {
+      "id": "gourmand_advanced_mayonnaise_machine_lime_curd",
+      "name": "Lime Curd ♣",
+      "nameEn": "Lime Curd ♣",
+      "machineId": "mayonnaise_machine",
+      "inputs": [
+        {
+          "itemId": "petite_lime",
+          "qty": 2
+        }
+      ],
+      "output": {
+        "itemId": "lime_curd",
+        "qty": 1
+      },
+      "minutes": 180,
+      "module": "gourmand",
+      "moduleZh": "美食家",
+      "mode": "advanced",
+      "modeZh": "高级",
+      "subcategory": "Butters Curds and Cream",
+      "subcategoryZh": "黄油凝乳与奶油",
+      "source": "Wildflour wiki pasted English table",
+      "description": "Its luscious, creamy texture is due to high quality egg yolks from very happy chickens.",
+      "descriptionZh": "",
+      "energy": 38,
+      "health": 17
+    },
+    {
+      "id": "gourmand_advanced_mayonnaise_machine_maple_butter",
+      "name": "Maple Butter",
+      "nameEn": "Maple Butter",
+      "machineId": "mayonnaise_machine",
+      "inputs": [
+        {
+          "itemId": "maple_syrup",
+          "qty": 2
+        }
+      ],
+      "output": {
+        "itemId": "maple_butter",
+        "qty": 1
+      },
+      "minutes": 180,
+      "module": "gourmand",
+      "moduleZh": "美食家",
+      "mode": "advanced",
+      "modeZh": "高级",
+      "subcategory": "Butters Curds and Cream",
+      "subcategoryZh": "黄油凝乳与奶油",
+      "source": "Wildflour wiki pasted English table",
+      "description": "Made with the farmer's secret family recipe and locally sourced maple syrup.",
+      "descriptionZh": "",
+      "energy": 38,
+      "health": 17
+    },
+    {
+      "id": "gourmand_advanced_mayonnaise_machine_orange_curd",
+      "name": "Orange Curd",
+      "nameEn": "Orange Curd",
+      "machineId": "mayonnaise_machine",
+      "inputs": [
+        {
+          "itemId": "orange",
+          "qty": 2
+        }
+      ],
+      "output": {
+        "itemId": "orange_curd",
+        "qty": 1
+      },
+      "minutes": 180,
+      "module": "gourmand",
+      "moduleZh": "美食家",
+      "mode": "advanced",
+      "modeZh": "高级",
+      "subcategory": "Butters Curds and Cream",
+      "subcategoryZh": "黄油凝乳与奶油",
+      "source": "Wildflour wiki pasted English table",
+      "description": "Its luscious, creamy texture is due to high quality egg yolks from very happy chickens.",
+      "descriptionZh": "",
+      "energy": 38,
+      "health": 17
+    },
+    {
+      "id": "gourmand_advanced_mayonnaise_machine_pumpkin_butter",
+      "name": "Pumpkin Butter",
+      "nameEn": "Pumpkin Butter",
+      "machineId": "mayonnaise_machine",
+      "inputs": [
+        {
+          "itemId": "pumpkin",
+          "qty": 2
+        }
+      ],
+      "output": {
+        "itemId": "pumpkin_butter",
+        "qty": 1
+      },
+      "minutes": 180,
+      "module": "gourmand",
+      "moduleZh": "美食家",
+      "mode": "advanced",
+      "modeZh": "高级",
+      "subcategory": "Butters Curds and Cream",
+      "subcategoryZh": "黄油凝乳与奶油",
+      "source": "Wildflour wiki pasted English table",
+      "description": "Made with the farmer's secret family recipe - perfect for the pumpkin spice lover in all of us.",
+      "descriptionZh": "",
+      "energy": 38,
+      "health": 17
+    }
+  ]
+}

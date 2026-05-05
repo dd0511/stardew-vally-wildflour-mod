@@ -1,0 +1,580 @@
+{
+  "items": [
+    {
+      "id": "apple_pickin_marshmallows",
+      "name": "Apple Pickin' Marshmallows",
+      "zh": "",
+      "category": "Confectioner Product",
+      "categoryZh": "糖果师成品",
+      "subcategory": "Marshmallows",
+      "subcategoryZh": "棉花糖",
+      "basePrice": 856,
+      "tags": [
+        "confectioner",
+        "advanced",
+        "marshmallow_mixer",
+        "marshmallows",
+        "marshmallow",
+        "crafted_output",
+        "product"
+      ],
+      "description": "Fluffy marshmallows flavored with apples and maple syrup.",
+      "descriptionZh": "",
+      "energy": 65,
+      "health": 29
+    },
+    {
+      "id": "maple_syrup",
+      "name": "Maple Syrup",
+      "zh": "",
+      "category": "Ingredient",
+      "categoryZh": "原料",
+      "basePrice": 0,
+      "tags": [
+        "ingredient",
+        "basic_material",
+        "used_as_input",
+        "sweetener"
+      ]
+    },
+    {
+      "id": "berry_mania_marshmallows",
+      "name": "Berry Mania Marshmallows",
+      "zh": "",
+      "category": "Confectioner Product",
+      "categoryZh": "糖果师成品",
+      "subcategory": "Marshmallows",
+      "subcategoryZh": "棉花糖",
+      "basePrice": 413,
+      "tags": [
+        "confectioner",
+        "advanced",
+        "marshmallow_mixer",
+        "marshmallows",
+        "marshmallow",
+        "crafted_output",
+        "product"
+      ],
+      "description": "Fluffy marshmallows flavored with fresh berries.",
+      "descriptionZh": "",
+      "energy": 65,
+      "health": 29
+    },
+    {
+      "id": "blueberry",
+      "name": "Blueberry",
+      "zh": "",
+      "category": "Ingredient",
+      "categoryZh": "原料",
+      "basePrice": 0,
+      "tags": [
+        "ingredient",
+        "basic_material",
+        "used_as_input",
+        "fruit"
+      ]
+    },
+    {
+      "id": "any_berry_item",
+      "name": "Any Berry item",
+      "zh": "",
+      "category": "Ingredient",
+      "categoryZh": "原料",
+      "basePrice": 0,
+      "tags": [
+        "ingredient",
+        "basic_material",
+        "used_as_input"
+      ]
+    },
+    {
+      "id": "chocoberry_marshmallows",
+      "name": "Chocoberry Marshmallows",
+      "zh": "",
+      "category": "Confectioner Product",
+      "categoryZh": "糖果师成品",
+      "subcategory": "Marshmallows",
+      "subcategoryZh": "棉花糖",
+      "basePrice": 876,
+      "tags": [
+        "confectioner",
+        "advanced",
+        "marshmallow_mixer",
+        "marshmallows",
+        "marshmallow",
+        "crafted_output",
+        "product"
+      ],
+      "description": "Fluffy marshmallows flavored with strawberries and cocoa.",
+      "descriptionZh": "",
+      "energy": 65,
+      "health": 29
+    },
+    {
+      "id": "wild_cacao_pod",
+      "name": "Wild Cacao Pod",
+      "zh": "",
+      "category": "Ingredient",
+      "categoryZh": "原料",
+      "basePrice": 0,
+      "tags": [
+        "ingredient",
+        "basic_material",
+        "used_as_input",
+        "cacao"
+      ]
+    },
+    {
+      "id": "choco_lovers_marshmallows",
+      "name": "Choco Lovers Marshmallows",
+      "zh": "",
+      "category": "Confectioner Product",
+      "categoryZh": "糖果师成品",
+      "subcategory": "Marshmallows",
+      "subcategoryZh": "棉花糖",
+      "basePrice": 756,
+      "tags": [
+        "confectioner",
+        "advanced",
+        "marshmallow_mixer",
+        "marshmallows",
+        "marshmallow",
+        "crafted_output",
+        "product"
+      ],
+      "description": "Fluffy marshmallows flavored with TONS of chocolate!,",
+      "descriptionZh": "",
+      "energy": 65,
+      "health": 29
+    },
+    {
+      "id": "white_chocolate",
+      "name": "White Chocolate",
+      "zh": "",
+      "category": "Ingredient",
+      "categoryZh": "原料",
+      "basePrice": 0,
+      "tags": [
+        "ingredient",
+        "basic_material",
+        "used_as_input",
+        "cacao"
+      ]
+    },
+    {
+      "id": "mint_mocha_marshmallows",
+      "name": "Mint Mocha Marshmallows",
+      "zh": "",
+      "category": "Confectioner Product",
+      "categoryZh": "糖果师成品",
+      "subcategory": "Marshmallows",
+      "subcategoryZh": "棉花糖",
+      "basePrice": 330,
+      "tags": [
+        "confectioner",
+        "advanced",
+        "marshmallow_mixer",
+        "marshmallows",
+        "marshmallow",
+        "crafted_output",
+        "product"
+      ],
+      "description": "Festive, fluffy marshmallows flavored with mint and cocoa for the Feast of the Winter Star.",
+      "descriptionZh": "",
+      "energy": 65,
+      "health": 29
+    },
+    {
+      "id": "pelican_mint",
+      "name": "Pelican Mint",
+      "zh": "",
+      "category": "Ingredient",
+      "categoryZh": "原料",
+      "basePrice": 0,
+      "tags": [
+        "ingredient",
+        "basic_material",
+        "used_as_input",
+        "spice_or_herb"
+      ]
+    },
+    {
+      "id": "rainbow_marshmallows",
+      "name": "Rainbow Marshmallows",
+      "zh": "",
+      "category": "Confectioner Product",
+      "categoryZh": "糖果师成品",
+      "subcategory": "Marshmallows",
+      "subcategoryZh": "棉花糖",
+      "basePrice": 706,
+      "tags": [
+        "confectioner",
+        "advanced",
+        "marshmallow_mixer",
+        "marshmallows",
+        "marshmallow",
+        "crafted_output",
+        "product"
+      ],
+      "description": "Fluffy marshmallows in every color of the rainbow!",
+      "descriptionZh": "",
+      "energy": 65,
+      "health": 29
+    },
+    {
+      "id": "sugar",
+      "name": "Sugar",
+      "zh": "",
+      "category": "Ingredient",
+      "categoryZh": "原料",
+      "basePrice": 0,
+      "tags": [
+        "ingredient",
+        "basic_material",
+        "used_as_input",
+        "sweetener"
+      ]
+    },
+    {
+      "id": "sun_kissed_marshmallows",
+      "name": "Sun Kissed Marshmallows",
+      "zh": "",
+      "category": "Confectioner Product",
+      "categoryZh": "糖果师成品",
+      "subcategory": "Marshmallows",
+      "subcategoryZh": "棉花糖",
+      "basePrice": 555,
+      "tags": [
+        "confectioner",
+        "advanced",
+        "marshmallow_mixer",
+        "marshmallows",
+        "marshmallow",
+        "crafted_output",
+        "product"
+      ],
+      "description": "Fluffy marshmallows flavored with lemon and vanilla.",
+      "descriptionZh": "",
+      "energy": 65,
+      "health": 29
+    },
+    {
+      "id": "petite_lemon",
+      "name": "Petite Lemon",
+      "zh": "",
+      "category": "Ingredient",
+      "categoryZh": "原料",
+      "basePrice": 0,
+      "tags": [
+        "ingredient",
+        "basic_material",
+        "used_as_input",
+        "fruit"
+      ]
+    },
+    {
+      "id": "calico_vanilla",
+      "name": "Calico Vanilla",
+      "zh": "",
+      "category": "Ingredient",
+      "categoryZh": "原料",
+      "basePrice": 0,
+      "tags": [
+        "ingredient",
+        "basic_material",
+        "used_as_input",
+        "spice_or_herb"
+      ]
+    },
+    {
+      "id": "tea_time_marshmallows",
+      "name": "Tea Time Marshmallows",
+      "zh": "",
+      "category": "Confectioner Product",
+      "categoryZh": "糖果师成品",
+      "subcategory": "Marshmallows",
+      "subcategoryZh": "棉花糖",
+      "basePrice": 1753,
+      "tags": [
+        "confectioner",
+        "advanced",
+        "marshmallow_mixer",
+        "marshmallows",
+        "marshmallow",
+        "crafted_output",
+        "product"
+      ],
+      "description": "Fluffy, floral-inspired marshmallows flavored with rose and matcha powder.",
+      "descriptionZh": "",
+      "energy": 65,
+      "health": 29
+    },
+    {
+      "id": "matcha_powder",
+      "name": "Matcha Powder",
+      "zh": "",
+      "category": "Ingredient",
+      "categoryZh": "原料",
+      "basePrice": 0,
+      "tags": [
+        "ingredient",
+        "basic_material",
+        "used_as_input"
+      ]
+    }
+  ],
+  "machines": [
+    {
+      "id": "marshmallow_mixer",
+      "name": "Marshmallow Mixer",
+      "zh": "棉花糖搅拌机",
+      "defaultMinutes": 1000,
+      "module": "confectioner",
+      "moduleZh": "糖果师",
+      "tags": [
+        "confectioner",
+        "marshmallow_mixer",
+        "marshmallow",
+        "marshmallows"
+      ]
+    }
+  ],
+  "recipes": [
+    {
+      "id": "confectioner_advanced_marshmallow_mixer_apple_pickin_marshmallows",
+      "name": "Apple Pickin' Marshmallows",
+      "nameEn": "Apple Pickin' Marshmallows",
+      "machineId": "marshmallow_mixer",
+      "inputs": [
+        {
+          "itemId": "maple_syrup",
+          "qty": 1
+        }
+      ],
+      "output": {
+        "itemId": "apple_pickin_marshmallows",
+        "qty": 1
+      },
+      "minutes": 1000,
+      "module": "confectioner",
+      "moduleZh": "糖果师",
+      "mode": "advanced",
+      "modeZh": "高级",
+      "subcategory": "Marshmallows",
+      "subcategoryZh": "棉花糖",
+      "source": "Wildflour wiki pasted English table",
+      "description": "Fluffy marshmallows flavored with apples and maple syrup.",
+      "descriptionZh": "",
+      "energy": 65,
+      "health": 29
+    },
+    {
+      "id": "confectioner_advanced_marshmallow_mixer_berry_mania_marshmallows",
+      "name": "Berry Mania Marshmallows",
+      "nameEn": "Berry Mania Marshmallows",
+      "machineId": "marshmallow_mixer",
+      "inputs": [
+        {
+          "itemId": "blueberry",
+          "qty": 1
+        },
+        {
+          "itemId": "any_berry_item",
+          "qty": 1
+        }
+      ],
+      "output": {
+        "itemId": "berry_mania_marshmallows",
+        "qty": 1
+      },
+      "minutes": 1000,
+      "module": "confectioner",
+      "moduleZh": "糖果师",
+      "mode": "advanced",
+      "modeZh": "高级",
+      "subcategory": "Marshmallows",
+      "subcategoryZh": "棉花糖",
+      "source": "Wildflour wiki pasted English table",
+      "description": "Fluffy marshmallows flavored with fresh berries.",
+      "descriptionZh": "",
+      "energy": 65,
+      "health": 29
+    },
+    {
+      "id": "confectioner_advanced_marshmallow_mixer_chocoberry_marshmallows",
+      "name": "Chocoberry Marshmallows",
+      "nameEn": "Chocoberry Marshmallows",
+      "machineId": "marshmallow_mixer",
+      "inputs": [
+        {
+          "itemId": "wild_cacao_pod",
+          "qty": 1
+        }
+      ],
+      "output": {
+        "itemId": "chocoberry_marshmallows",
+        "qty": 1
+      },
+      "minutes": 1000,
+      "module": "confectioner",
+      "moduleZh": "糖果师",
+      "mode": "advanced",
+      "modeZh": "高级",
+      "subcategory": "Marshmallows",
+      "subcategoryZh": "棉花糖",
+      "source": "Wildflour wiki pasted English table",
+      "description": "Fluffy marshmallows flavored with strawberries and cocoa.",
+      "descriptionZh": "",
+      "energy": 65,
+      "health": 29
+    },
+    {
+      "id": "confectioner_advanced_marshmallow_mixer_choco_lovers_marshmallows",
+      "name": "Choco Lovers Marshmallows",
+      "nameEn": "Choco Lovers Marshmallows",
+      "machineId": "marshmallow_mixer",
+      "inputs": [
+        {
+          "itemId": "white_chocolate",
+          "qty": 1
+        }
+      ],
+      "output": {
+        "itemId": "choco_lovers_marshmallows",
+        "qty": 1
+      },
+      "minutes": 1000,
+      "module": "confectioner",
+      "moduleZh": "糖果师",
+      "mode": "advanced",
+      "modeZh": "高级",
+      "subcategory": "Marshmallows",
+      "subcategoryZh": "棉花糖",
+      "source": "Wildflour wiki pasted English table",
+      "description": "Fluffy marshmallows flavored with TONS of chocolate!,",
+      "descriptionZh": "",
+      "energy": 65,
+      "health": 29
+    },
+    {
+      "id": "confectioner_advanced_marshmallow_mixer_mint_mocha_marshmallows",
+      "name": "Mint Mocha Marshmallows",
+      "nameEn": "Mint Mocha Marshmallows",
+      "machineId": "marshmallow_mixer",
+      "inputs": [
+        {
+          "itemId": "pelican_mint",
+          "qty": 1
+        },
+        {
+          "itemId": "wild_cacao_pod",
+          "qty": 1
+        }
+      ],
+      "output": {
+        "itemId": "mint_mocha_marshmallows",
+        "qty": 1
+      },
+      "minutes": 1000,
+      "module": "confectioner",
+      "moduleZh": "糖果师",
+      "mode": "advanced",
+      "modeZh": "高级",
+      "subcategory": "Marshmallows",
+      "subcategoryZh": "棉花糖",
+      "source": "Wildflour wiki pasted English table",
+      "description": "Festive, fluffy marshmallows flavored with mint and cocoa for the Feast of the Winter Star.",
+      "descriptionZh": "",
+      "energy": 65,
+      "health": 29
+    },
+    {
+      "id": "confectioner_advanced_marshmallow_mixer_rainbow_marshmallows",
+      "name": "Rainbow Marshmallows",
+      "nameEn": "Rainbow Marshmallows",
+      "machineId": "marshmallow_mixer",
+      "inputs": [
+        {
+          "itemId": "sugar",
+          "qty": 1
+        }
+      ],
+      "output": {
+        "itemId": "rainbow_marshmallows",
+        "qty": 1
+      },
+      "minutes": 1000,
+      "module": "confectioner",
+      "moduleZh": "糖果师",
+      "mode": "advanced",
+      "modeZh": "高级",
+      "subcategory": "Marshmallows",
+      "subcategoryZh": "棉花糖",
+      "source": "Wildflour wiki pasted English table",
+      "description": "Fluffy marshmallows in every color of the rainbow!",
+      "descriptionZh": "",
+      "energy": 65,
+      "health": 29
+    },
+    {
+      "id": "confectioner_advanced_marshmallow_mixer_sun_kissed_marshmallows",
+      "name": "Sun Kissed Marshmallows",
+      "nameEn": "Sun Kissed Marshmallows",
+      "machineId": "marshmallow_mixer",
+      "inputs": [
+        {
+          "itemId": "petite_lemon",
+          "qty": 1
+        },
+        {
+          "itemId": "calico_vanilla",
+          "qty": 1
+        }
+      ],
+      "output": {
+        "itemId": "sun_kissed_marshmallows",
+        "qty": 1
+      },
+      "minutes": 1000,
+      "module": "confectioner",
+      "moduleZh": "糖果师",
+      "mode": "advanced",
+      "modeZh": "高级",
+      "subcategory": "Marshmallows",
+      "subcategoryZh": "棉花糖",
+      "source": "Wildflour wiki pasted English table",
+      "description": "Fluffy marshmallows flavored with lemon and vanilla.",
+      "descriptionZh": "",
+      "energy": 65,
+      "health": 29
+    },
+    {
+      "id": "confectioner_advanced_marshmallow_mixer_tea_time_marshmallows",
+      "name": "Tea Time Marshmallows",
+      "nameEn": "Tea Time Marshmallows",
+      "machineId": "marshmallow_mixer",
+      "inputs": [
+        {
+          "itemId": "matcha_powder",
+          "qty": 1
+        }
+      ],
+      "output": {
+        "itemId": "tea_time_marshmallows",
+        "qty": 1
+      },
+      "minutes": 1000,
+      "module": "confectioner",
+      "moduleZh": "糖果师",
+      "mode": "advanced",
+      "modeZh": "高级",
+      "subcategory": "Marshmallows",
+      "subcategoryZh": "棉花糖",
+      "source": "Wildflour wiki pasted English table",
+      "description": "Fluffy, floral-inspired marshmallows flavored with rose and matcha powder.",
+      "descriptionZh": "",
+      "energy": 65,
+      "health": 29
+    }
+  ]
+}

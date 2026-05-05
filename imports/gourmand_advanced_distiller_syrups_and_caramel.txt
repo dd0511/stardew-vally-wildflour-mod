@@ -1,0 +1,152 @@
+Gourmand
+Distiller
+Syrups and Caramel
+Image	Name	Description	Ingredients	Processing Time	Sell Price	Energy / Health
+Ancient Fruit Syrup.png	Ancient Fruit Syrup	A simple syrup flavored with ancient fruit. Perfect for making custom drinks and other gourmet goodies!	Ancient Fruit.png Ancient Fruit (3)	Time Icon.png 240m (≈4h)	
+Gold.png
+1,787g
+Energy.png
+50	
+Health.png
+22
+Apple Syrup.png	Apple Syrup	A simple syrup flavored with apples. Perfect for making custom drinks and other gourmet goodies!	Apple.png Apple (3)	Time Icon.png 240m (≈4h)	
+Gold.png
+325g
+Energy.png
+50	
+Health.png
+22
+Apricot Syrup.png	Apricot Syrup	A simple syrup flavored with apricots. Perfect for making custom drinks and other gourmet goodies!	Apricot.png Apricot (3)	Time Icon.png 240m (≈4h)	
+Gold.png
+162g
+Energy.png
+50	
+Health.png
+22
+Banana Syrup.png	Banana Syrup	A simple syrup flavored with bananas. Perfect for making custom drinks and other gourmet goodies!	Banana.png Banana (3)	Time Icon.png 240m (≈4h)	
+Gold.png
+487g
+Energy.png
+50	
+Health.png
+22
+Caramel.png	Caramel	Boiled sugar syrup mixed with cream into a sticky, golden confection.	Brown Sugar.png Brown Sugar (3)
+Cream.png Cream (1) ✶	Time Icon.png 240m (≈4h)	
+Gold.png
+438g
+Energy.png
+65	
+Health.png
+29
+Cherry Blossom Syrup.png	Cherry Blossom Syrup ♣	A simple syrup flavored with cherry blossom petals. Perfect for making custom drinks and other gourmet goodies!	Cherry Blossom Petals.png Cherry Blossom Petals (3)	Time Icon.png 20m	
+Gold.png
+48g
+Energy.png
+50	
+Health.png
+22
+Cherry Syrup.png	Cherry Syrup	A simple syrup flavored with cherries. Perfect for making custom drinks and other gourmet goodies!	Cherry.png Cherry (3)	Time Icon.png 240m (≈4h)	
+Gold.png
+260g
+Energy.png
+50	
+Health.png
+22
+Chocolate Syrup.png	Chocolate Syrup ♣	A simple syrup flavored with cocoa. Perfect for making custom drinks and other gourmet goodies!	Wild Cacao Pod.png Wild Cacao Pod (3) ✶	Time Icon.png 20m	
+Gold.png
+373g
+Energy.png
+50	
+Health.png
+22
+Elderberry Syrup.png	Elderberry Syrup ♣	A simple syrup flavored with elderberries. Perfect for making custom drinks and other gourmet goodies!	Elderberry Blossoms.png Elderberry Blossoms (3) ✶	Time Icon.png 20m	
+Gold.png
+552g
+Energy.png
+50	
+Health.png
+22
+Grenadine Syrup.png	Grenadine Syrup	A simple syrup flavored with pomegranates. Perfect for making custom drinks and other gourmet goodies!	Pomegranate.png Pomegranate (3)	Time Icon.png 240m (≈4h)	
+Gold.png
+455g
+Energy.png
+50	
+Health.png
+22
+Lavender Syrup.png	Lavender Syrup ♣	A simple syrup flavored with fresh lavender. Perfect for making custom drinks and other gourmet goodies!	Forest Lavender.png Forest Lavender (3) ✶	Time Icon.png 20m	
+Gold.png
+178g
+Energy.png
+50	
+Health.png
+22
+Lemon Syrup.png	Lemon Syrup ♣	A simple syrup flavored with fresh lemons. Perfect for making custom drinks and other gourmet goodies!	Petite Lemon.png Petite Lemon (3) ✶	Time Icon.png 20m	
+Gold.png
+178g
+Energy.png
+50	
+Health.png
+22
+Lime Syrup.png	Lime Syrup ♣	A simple syrup flavored with limes. Perfect for making custom drinks and other gourmet goodies!	Petite Lime.png Petite Lime (3) ✶	Time Icon.png 20m	
+Gold.png
+178g
+Energy.png
+50	
+Health.png
+22
+Mango Syrup.png	Mango Syrup	A simple syrup flavored with fresh mangoes. Perfect for making custom drinks and other gourmet goodies!	Mango.png Mango (3)	Time Icon.png 240m (≈4h)	
+Gold.png
+422g
+Energy.png
+50	
+Health.png
+22
+Orange Syrup.png	Orange Syrup	A simple syrup flavored with oranges. Perfect for making custom drinks and other gourmet goodies!	Orange.png Orange (3)	Time Icon.png 240m (≈4h)	
+Gold.png
+325g
+Energy.png
+50	
+Health.png
+22
+Peach Syrup.png	Peach Syrup	A simple syrup flavored with peaches. Perfect for making custom drinks and other gourmet goodies!	Peach.png Peach (3)	Time Icon.png 240m (≈4h)	
+Gold.png
+455g
+Energy.png
+50	
+Health.png
+22
+Pumpkin Syrup.png	Pumpkin Syrup	A simple syrup flavored with pumpkin. Perfect for making custom drinks and other gourmet goodies!	Pumpkin.png Pumpkin (3)	Time Icon.png 240m (≈4h)	
+Gold.png
+1,040g
+Energy.png
+50	
+Health.png
+22
+Raspberry Syrup.png	Raspberry Syrup ♣	A simple syrup flavored with raspberries. Perfect for making custom drinks and other gourmet goodies!	Wild Raspberry.png Wild Raspberry (3) ✶	Time Icon.png 20m	
+Gold.png
+65g
+Energy.png
+50	
+Health.png
+22
+Rose Syrup.png	Rose Syrup	A simple syrup flavored with roses. Perfect for making custom drinks and other gourmet goodies!	Fairy Rose.png Fairy Rose (3)	Time Icon.png 240m (≈4h)	
+Gold.png
+942g
+Energy.png
+50	
+Health.png
+22
+Strawberry Syrup.png	Strawberry Syrup	A simple syrup flavored with strawberries. Perfect for making custom drinks and other gourmet goodies!	Strawberry.png Strawberry (3)	Time Icon.png 240m (≈4h)	
+Gold.png
+390g
+Energy.png
+50	
+Health.png
+22
+Vanilla Syrup.png	Vanilla Syrup ♣	A simple syrup flavored with vanilla beans. Perfect for making custom drinks and other gourmet goodies!	Calico Vanilla.png Calico Vanilla (3) ✶	Time Icon.png 20m	
+Gold.png
+438g
+Energy.png
+50	
+Health.png
+22

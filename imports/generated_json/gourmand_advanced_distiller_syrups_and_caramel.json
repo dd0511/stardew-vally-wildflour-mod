@@ -1,0 +1,1384 @@
+{
+  "items": [
+    {
+      "id": "ancient_fruit_syrup",
+      "name": "Ancient Fruit Syrup",
+      "zh": "",
+      "category": "Gourmand Product",
+      "categoryZh": "美食家成品",
+      "subcategory": "Syrups and Caramel",
+      "subcategoryZh": "糖浆与焦糖",
+      "basePrice": 1787,
+      "tags": [
+        "gourmand",
+        "advanced",
+        "distiller",
+        "syrups_and_caramel",
+        "syrup",
+        "crafted_output",
+        "product"
+      ],
+      "description": "A simple syrup flavored with ancient fruit. Perfect for making custom drinks and other gourmet goodies!",
+      "descriptionZh": "",
+      "energy": 50,
+      "health": 22
+    },
+    {
+      "id": "ancient_fruit",
+      "name": "Ancient Fruit",
+      "zh": "",
+      "category": "Ingredient",
+      "categoryZh": "原料",
+      "basePrice": 0,
+      "tags": [
+        "ingredient",
+        "basic_material",
+        "used_as_input",
+        "fruit"
+      ]
+    },
+    {
+      "id": "apple_syrup",
+      "name": "Apple Syrup",
+      "zh": "",
+      "category": "Gourmand Product",
+      "categoryZh": "美食家成品",
+      "subcategory": "Syrups and Caramel",
+      "subcategoryZh": "糖浆与焦糖",
+      "basePrice": 325,
+      "tags": [
+        "gourmand",
+        "advanced",
+        "distiller",
+        "syrups_and_caramel",
+        "syrup",
+        "crafted_output",
+        "product"
+      ],
+      "description": "A simple syrup flavored with apples. Perfect for making custom drinks and other gourmet goodies!",
+      "descriptionZh": "",
+      "energy": 50,
+      "health": 22
+    },
+    {
+      "id": "apple",
+      "name": "Apple",
+      "zh": "",
+      "category": "Ingredient",
+      "categoryZh": "原料",
+      "basePrice": 0,
+      "tags": [
+        "ingredient",
+        "basic_material",
+        "used_as_input",
+        "fruit"
+      ]
+    },
+    {
+      "id": "apricot_syrup",
+      "name": "Apricot Syrup",
+      "zh": "",
+      "category": "Gourmand Product",
+      "categoryZh": "美食家成品",
+      "subcategory": "Syrups and Caramel",
+      "subcategoryZh": "糖浆与焦糖",
+      "basePrice": 162,
+      "tags": [
+        "gourmand",
+        "advanced",
+        "distiller",
+        "syrups_and_caramel",
+        "syrup",
+        "crafted_output",
+        "product"
+      ],
+      "description": "A simple syrup flavored with apricots. Perfect for making custom drinks and other gourmet goodies!",
+      "descriptionZh": "",
+      "energy": 50,
+      "health": 22
+    },
+    {
+      "id": "apricot",
+      "name": "Apricot",
+      "zh": "",
+      "category": "Ingredient",
+      "categoryZh": "原料",
+      "basePrice": 0,
+      "tags": [
+        "ingredient",
+        "basic_material",
+        "used_as_input"
+      ]
+    },
+    {
+      "id": "banana_syrup",
+      "name": "Banana Syrup",
+      "zh": "",
+      "category": "Gourmand Product",
+      "categoryZh": "美食家成品",
+      "subcategory": "Syrups and Caramel",
+      "subcategoryZh": "糖浆与焦糖",
+      "basePrice": 487,
+      "tags": [
+        "gourmand",
+        "advanced",
+        "distiller",
+        "syrups_and_caramel",
+        "syrup",
+        "crafted_output",
+        "product"
+      ],
+      "description": "A simple syrup flavored with bananas. Perfect for making custom drinks and other gourmet goodies!",
+      "descriptionZh": "",
+      "energy": 50,
+      "health": 22
+    },
+    {
+      "id": "banana",
+      "name": "Banana",
+      "zh": "",
+      "category": "Ingredient",
+      "categoryZh": "原料",
+      "basePrice": 0,
+      "tags": [
+        "ingredient",
+        "basic_material",
+        "used_as_input",
+        "fruit"
+      ]
+    },
+    {
+      "id": "caramel",
+      "name": "Caramel",
+      "zh": "",
+      "category": "Gourmand Product",
+      "categoryZh": "美食家成品",
+      "subcategory": "Syrups and Caramel",
+      "subcategoryZh": "糖浆与焦糖",
+      "basePrice": 438,
+      "tags": [
+        "gourmand",
+        "advanced",
+        "distiller",
+        "syrups_and_caramel",
+        "syrup",
+        "crafted_output",
+        "product"
+      ],
+      "description": "Boiled sugar syrup mixed with cream into a sticky, golden confection.",
+      "descriptionZh": "",
+      "energy": 65,
+      "health": 29
+    },
+    {
+      "id": "cream",
+      "name": "Cream",
+      "zh": "",
+      "category": "Ingredient",
+      "categoryZh": "原料",
+      "basePrice": 0,
+      "tags": [
+        "ingredient",
+        "basic_material",
+        "used_as_input",
+        "dairy"
+      ]
+    },
+    {
+      "id": "cherry_blossom_syrup",
+      "name": "Cherry Blossom Syrup ♣",
+      "zh": "",
+      "category": "Gourmand Product",
+      "categoryZh": "美食家成品",
+      "subcategory": "Syrups and Caramel",
+      "subcategoryZh": "糖浆与焦糖",
+      "basePrice": 48,
+      "tags": [
+        "gourmand",
+        "advanced",
+        "distiller",
+        "syrups_and_caramel",
+        "syrup",
+        "crafted_output",
+        "product"
+      ],
+      "description": "A simple syrup flavored with cherry blossom petals. Perfect for making custom drinks and other gourmet goodies!",
+      "descriptionZh": "",
+      "energy": 50,
+      "health": 22
+    },
+    {
+      "id": "cherry_blossom_petals",
+      "name": "Cherry Blossom Petals",
+      "zh": "",
+      "category": "Ingredient",
+      "categoryZh": "原料",
+      "basePrice": 0,
+      "tags": [
+        "ingredient",
+        "basic_material",
+        "used_as_input",
+        "fruit"
+      ]
+    },
+    {
+      "id": "cherry_syrup",
+      "name": "Cherry Syrup",
+      "zh": "",
+      "category": "Gourmand Product",
+      "categoryZh": "美食家成品",
+      "subcategory": "Syrups and Caramel",
+      "subcategoryZh": "糖浆与焦糖",
+      "basePrice": 260,
+      "tags": [
+        "gourmand",
+        "advanced",
+        "distiller",
+        "syrups_and_caramel",
+        "syrup",
+        "crafted_output",
+        "product"
+      ],
+      "description": "A simple syrup flavored with cherries. Perfect for making custom drinks and other gourmet goodies!",
+      "descriptionZh": "",
+      "energy": 50,
+      "health": 22
+    },
+    {
+      "id": "cherry",
+      "name": "Cherry",
+      "zh": "",
+      "category": "Ingredient",
+      "categoryZh": "原料",
+      "basePrice": 0,
+      "tags": [
+        "ingredient",
+        "basic_material",
+        "used_as_input",
+        "fruit"
+      ]
+    },
+    {
+      "id": "chocolate_syrup",
+      "name": "Chocolate Syrup ♣",
+      "zh": "",
+      "category": "Gourmand Product",
+      "categoryZh": "美食家成品",
+      "subcategory": "Syrups and Caramel",
+      "subcategoryZh": "糖浆与焦糖",
+      "basePrice": 373,
+      "tags": [
+        "gourmand",
+        "advanced",
+        "distiller",
+        "syrups_and_caramel",
+        "syrup",
+        "crafted_output",
+        "product"
+      ],
+      "description": "A simple syrup flavored with cocoa. Perfect for making custom drinks and other gourmet goodies!",
+      "descriptionZh": "",
+      "energy": 50,
+      "health": 22
+    },
+    {
+      "id": "wild_cacao_pod",
+      "name": "Wild Cacao Pod",
+      "zh": "",
+      "category": "Ingredient",
+      "categoryZh": "原料",
+      "basePrice": 0,
+      "tags": [
+        "ingredient",
+        "basic_material",
+        "used_as_input",
+        "cacao"
+      ]
+    },
+    {
+      "id": "elderberry_syrup",
+      "name": "Elderberry Syrup ♣",
+      "zh": "",
+      "category": "Gourmand Product",
+      "categoryZh": "美食家成品",
+      "subcategory": "Syrups and Caramel",
+      "subcategoryZh": "糖浆与焦糖",
+      "basePrice": 552,
+      "tags": [
+        "gourmand",
+        "advanced",
+        "distiller",
+        "syrups_and_caramel",
+        "syrup",
+        "crafted_output",
+        "product"
+      ],
+      "description": "A simple syrup flavored with elderberries. Perfect for making custom drinks and other gourmet goodies!",
+      "descriptionZh": "",
+      "energy": 50,
+      "health": 22
+    },
+    {
+      "id": "elderberry_blossoms",
+      "name": "Elderberry Blossoms",
+      "zh": "",
+      "category": "Ingredient",
+      "categoryZh": "原料",
+      "basePrice": 0,
+      "tags": [
+        "ingredient",
+        "basic_material",
+        "used_as_input"
+      ]
+    },
+    {
+      "id": "grenadine_syrup",
+      "name": "Grenadine Syrup",
+      "zh": "",
+      "category": "Gourmand Product",
+      "categoryZh": "美食家成品",
+      "subcategory": "Syrups and Caramel",
+      "subcategoryZh": "糖浆与焦糖",
+      "basePrice": 455,
+      "tags": [
+        "gourmand",
+        "advanced",
+        "distiller",
+        "syrups_and_caramel",
+        "syrup",
+        "crafted_output",
+        "product"
+      ],
+      "description": "A simple syrup flavored with pomegranates. Perfect for making custom drinks and other gourmet goodies!",
+      "descriptionZh": "",
+      "energy": 50,
+      "health": 22
+    },
+    {
+      "id": "pomegranate",
+      "name": "Pomegranate",
+      "zh": "",
+      "category": "Ingredient",
+      "categoryZh": "原料",
+      "basePrice": 0,
+      "tags": [
+        "ingredient",
+        "basic_material",
+        "used_as_input",
+        "fruit"
+      ]
+    },
+    {
+      "id": "lavender_syrup",
+      "name": "Lavender Syrup ♣",
+      "zh": "",
+      "category": "Gourmand Product",
+      "categoryZh": "美食家成品",
+      "subcategory": "Syrups and Caramel",
+      "subcategoryZh": "糖浆与焦糖",
+      "basePrice": 178,
+      "tags": [
+        "gourmand",
+        "advanced",
+        "distiller",
+        "syrups_and_caramel",
+        "syrup",
+        "crafted_output",
+        "product"
+      ],
+      "description": "A simple syrup flavored with fresh lavender. Perfect for making custom drinks and other gourmet goodies!",
+      "descriptionZh": "",
+      "energy": 50,
+      "health": 22
+    },
+    {
+      "id": "forest_lavender",
+      "name": "Forest Lavender",
+      "zh": "",
+      "category": "Ingredient",
+      "categoryZh": "原料",
+      "basePrice": 0,
+      "tags": [
+        "ingredient",
+        "basic_material",
+        "used_as_input",
+        "spice_or_herb"
+      ]
+    },
+    {
+      "id": "lemon_syrup",
+      "name": "Lemon Syrup ♣",
+      "zh": "",
+      "category": "Gourmand Product",
+      "categoryZh": "美食家成品",
+      "subcategory": "Syrups and Caramel",
+      "subcategoryZh": "糖浆与焦糖",
+      "basePrice": 178,
+      "tags": [
+        "gourmand",
+        "advanced",
+        "distiller",
+        "syrups_and_caramel",
+        "syrup",
+        "crafted_output",
+        "product"
+      ],
+      "description": "A simple syrup flavored with fresh lemons. Perfect for making custom drinks and other gourmet goodies!",
+      "descriptionZh": "",
+      "energy": 50,
+      "health": 22
+    },
+    {
+      "id": "petite_lemon",
+      "name": "Petite Lemon",
+      "zh": "",
+      "category": "Ingredient",
+      "categoryZh": "原料",
+      "basePrice": 0,
+      "tags": [
+        "ingredient",
+        "basic_material",
+        "used_as_input",
+        "fruit"
+      ]
+    },
+    {
+      "id": "lime_syrup",
+      "name": "Lime Syrup ♣",
+      "zh": "",
+      "category": "Gourmand Product",
+      "categoryZh": "美食家成品",
+      "subcategory": "Syrups and Caramel",
+      "subcategoryZh": "糖浆与焦糖",
+      "basePrice": 178,
+      "tags": [
+        "gourmand",
+        "advanced",
+        "distiller",
+        "syrups_and_caramel",
+        "syrup",
+        "crafted_output",
+        "product"
+      ],
+      "description": "A simple syrup flavored with limes. Perfect for making custom drinks and other gourmet goodies!",
+      "descriptionZh": "",
+      "energy": 50,
+      "health": 22
+    },
+    {
+      "id": "petite_lime",
+      "name": "Petite Lime",
+      "zh": "",
+      "category": "Ingredient",
+      "categoryZh": "原料",
+      "basePrice": 0,
+      "tags": [
+        "ingredient",
+        "basic_material",
+        "used_as_input",
+        "fruit"
+      ]
+    },
+    {
+      "id": "mango_syrup",
+      "name": "Mango Syrup",
+      "zh": "",
+      "category": "Gourmand Product",
+      "categoryZh": "美食家成品",
+      "subcategory": "Syrups and Caramel",
+      "subcategoryZh": "糖浆与焦糖",
+      "basePrice": 422,
+      "tags": [
+        "gourmand",
+        "advanced",
+        "distiller",
+        "syrups_and_caramel",
+        "syrup",
+        "crafted_output",
+        "product"
+      ],
+      "description": "A simple syrup flavored with fresh mangoes. Perfect for making custom drinks and other gourmet goodies!",
+      "descriptionZh": "",
+      "energy": 50,
+      "health": 22
+    },
+    {
+      "id": "mango",
+      "name": "Mango",
+      "zh": "",
+      "category": "Ingredient",
+      "categoryZh": "原料",
+      "basePrice": 0,
+      "tags": [
+        "ingredient",
+        "basic_material",
+        "used_as_input",
+        "fruit"
+      ]
+    },
+    {
+      "id": "orange_syrup",
+      "name": "Orange Syrup",
+      "zh": "",
+      "category": "Gourmand Product",
+      "categoryZh": "美食家成品",
+      "subcategory": "Syrups and Caramel",
+      "subcategoryZh": "糖浆与焦糖",
+      "basePrice": 325,
+      "tags": [
+        "gourmand",
+        "advanced",
+        "distiller",
+        "syrups_and_caramel",
+        "syrup",
+        "crafted_output",
+        "product"
+      ],
+      "description": "A simple syrup flavored with oranges. Perfect for making custom drinks and other gourmet goodies!",
+      "descriptionZh": "",
+      "energy": 50,
+      "health": 22
+    },
+    {
+      "id": "orange",
+      "name": "Orange",
+      "zh": "",
+      "category": "Ingredient",
+      "categoryZh": "原料",
+      "basePrice": 0,
+      "tags": [
+        "ingredient",
+        "basic_material",
+        "used_as_input",
+        "fruit"
+      ]
+    },
+    {
+      "id": "peach_syrup",
+      "name": "Peach Syrup",
+      "zh": "",
+      "category": "Gourmand Product",
+      "categoryZh": "美食家成品",
+      "subcategory": "Syrups and Caramel",
+      "subcategoryZh": "糖浆与焦糖",
+      "basePrice": 455,
+      "tags": [
+        "gourmand",
+        "advanced",
+        "distiller",
+        "syrups_and_caramel",
+        "syrup",
+        "crafted_output",
+        "product"
+      ],
+      "description": "A simple syrup flavored with peaches. Perfect for making custom drinks and other gourmet goodies!",
+      "descriptionZh": "",
+      "energy": 50,
+      "health": 22
+    },
+    {
+      "id": "peach",
+      "name": "Peach",
+      "zh": "",
+      "category": "Ingredient",
+      "categoryZh": "原料",
+      "basePrice": 0,
+      "tags": [
+        "ingredient",
+        "basic_material",
+        "used_as_input",
+        "fruit"
+      ]
+    },
+    {
+      "id": "pumpkin_syrup",
+      "name": "Pumpkin Syrup",
+      "zh": "",
+      "category": "Gourmand Product",
+      "categoryZh": "美食家成品",
+      "subcategory": "Syrups and Caramel",
+      "subcategoryZh": "糖浆与焦糖",
+      "basePrice": 1040,
+      "tags": [
+        "gourmand",
+        "advanced",
+        "distiller",
+        "syrups_and_caramel",
+        "syrup",
+        "crafted_output",
+        "product"
+      ],
+      "description": "A simple syrup flavored with pumpkin. Perfect for making custom drinks and other gourmet goodies!",
+      "descriptionZh": "",
+      "energy": 50,
+      "health": 22
+    },
+    {
+      "id": "pumpkin",
+      "name": "Pumpkin",
+      "zh": "",
+      "category": "Ingredient",
+      "categoryZh": "原料",
+      "basePrice": 0,
+      "tags": [
+        "ingredient",
+        "basic_material",
+        "used_as_input",
+        "fruit"
+      ]
+    },
+    {
+      "id": "raspberry_syrup",
+      "name": "Raspberry Syrup ♣",
+      "zh": "",
+      "category": "Gourmand Product",
+      "categoryZh": "美食家成品",
+      "subcategory": "Syrups and Caramel",
+      "subcategoryZh": "糖浆与焦糖",
+      "basePrice": 65,
+      "tags": [
+        "gourmand",
+        "advanced",
+        "distiller",
+        "syrups_and_caramel",
+        "syrup",
+        "crafted_output",
+        "product"
+      ],
+      "description": "A simple syrup flavored with raspberries. Perfect for making custom drinks and other gourmet goodies!",
+      "descriptionZh": "",
+      "energy": 50,
+      "health": 22
+    },
+    {
+      "id": "wild_raspberry",
+      "name": "Wild Raspberry",
+      "zh": "",
+      "category": "Ingredient",
+      "categoryZh": "原料",
+      "basePrice": 0,
+      "tags": [
+        "ingredient",
+        "basic_material",
+        "used_as_input",
+        "fruit"
+      ]
+    },
+    {
+      "id": "rose_syrup",
+      "name": "Rose Syrup",
+      "zh": "",
+      "category": "Gourmand Product",
+      "categoryZh": "美食家成品",
+      "subcategory": "Syrups and Caramel",
+      "subcategoryZh": "糖浆与焦糖",
+      "basePrice": 942,
+      "tags": [
+        "gourmand",
+        "advanced",
+        "distiller",
+        "syrups_and_caramel",
+        "syrup",
+        "crafted_output",
+        "product"
+      ],
+      "description": "A simple syrup flavored with roses. Perfect for making custom drinks and other gourmet goodies!",
+      "descriptionZh": "",
+      "energy": 50,
+      "health": 22
+    },
+    {
+      "id": "fairy_rose",
+      "name": "Fairy Rose",
+      "zh": "",
+      "category": "Ingredient",
+      "categoryZh": "原料",
+      "basePrice": 0,
+      "tags": [
+        "ingredient",
+        "basic_material",
+        "used_as_input"
+      ]
+    },
+    {
+      "id": "strawberry_syrup",
+      "name": "Strawberry Syrup",
+      "zh": "",
+      "category": "Gourmand Product",
+      "categoryZh": "美食家成品",
+      "subcategory": "Syrups and Caramel",
+      "subcategoryZh": "糖浆与焦糖",
+      "basePrice": 390,
+      "tags": [
+        "gourmand",
+        "advanced",
+        "distiller",
+        "syrups_and_caramel",
+        "syrup",
+        "crafted_output",
+        "product"
+      ],
+      "description": "A simple syrup flavored with strawberries. Perfect for making custom drinks and other gourmet goodies!",
+      "descriptionZh": "",
+      "energy": 50,
+      "health": 22
+    },
+    {
+      "id": "strawberry",
+      "name": "Strawberry",
+      "zh": "",
+      "category": "Ingredient",
+      "categoryZh": "原料",
+      "basePrice": 0,
+      "tags": [
+        "ingredient",
+        "basic_material",
+        "used_as_input",
+        "fruit"
+      ]
+    },
+    {
+      "id": "vanilla_syrup",
+      "name": "Vanilla Syrup ♣",
+      "zh": "",
+      "category": "Gourmand Product",
+      "categoryZh": "美食家成品",
+      "subcategory": "Syrups and Caramel",
+      "subcategoryZh": "糖浆与焦糖",
+      "basePrice": 438,
+      "tags": [
+        "gourmand",
+        "advanced",
+        "distiller",
+        "syrups_and_caramel",
+        "syrup",
+        "crafted_output",
+        "product"
+      ],
+      "description": "A simple syrup flavored with vanilla beans. Perfect for making custom drinks and other gourmet goodies!",
+      "descriptionZh": "",
+      "energy": 50,
+      "health": 22
+    },
+    {
+      "id": "calico_vanilla",
+      "name": "Calico Vanilla",
+      "zh": "",
+      "category": "Ingredient",
+      "categoryZh": "原料",
+      "basePrice": 0,
+      "tags": [
+        "ingredient",
+        "basic_material",
+        "used_as_input",
+        "spice_or_herb"
+      ]
+    }
+  ],
+  "machines": [
+    {
+      "id": "distiller",
+      "name": "Distiller",
+      "zh": "蒸馏器",
+      "defaultMinutes": 240,
+      "module": "gourmand",
+      "moduleZh": "美食家",
+      "tags": [
+        "gourmand",
+        "distiller",
+        "syrup",
+        "syrups_and_caramel"
+      ]
+    }
+  ],
+  "recipes": [
+    {
+      "id": "gourmand_advanced_distiller_ancient_fruit_syrup",
+      "name": "Ancient Fruit Syrup",
+      "nameEn": "Ancient Fruit Syrup",
+      "machineId": "distiller",
+      "inputs": [
+        {
+          "itemId": "ancient_fruit",
+          "qty": 3
+        }
+      ],
+      "output": {
+        "itemId": "ancient_fruit_syrup",
+        "qty": 1
+      },
+      "minutes": 240,
+      "module": "gourmand",
+      "moduleZh": "美食家",
+      "mode": "advanced",
+      "modeZh": "高级",
+      "subcategory": "Syrups and Caramel",
+      "subcategoryZh": "糖浆与焦糖",
+      "source": "Wildflour wiki pasted English table",
+      "description": "A simple syrup flavored with ancient fruit. Perfect for making custom drinks and other gourmet goodies!",
+      "descriptionZh": "",
+      "energy": 50,
+      "health": 22
+    },
+    {
+      "id": "gourmand_advanced_distiller_apple_syrup",
+      "name": "Apple Syrup",
+      "nameEn": "Apple Syrup",
+      "machineId": "distiller",
+      "inputs": [
+        {
+          "itemId": "apple",
+          "qty": 3
+        }
+      ],
+      "output": {
+        "itemId": "apple_syrup",
+        "qty": 1
+      },
+      "minutes": 240,
+      "module": "gourmand",
+      "moduleZh": "美食家",
+      "mode": "advanced",
+      "modeZh": "高级",
+      "subcategory": "Syrups and Caramel",
+      "subcategoryZh": "糖浆与焦糖",
+      "source": "Wildflour wiki pasted English table",
+      "description": "A simple syrup flavored with apples. Perfect for making custom drinks and other gourmet goodies!",
+      "descriptionZh": "",
+      "energy": 50,
+      "health": 22
+    },
+    {
+      "id": "gourmand_advanced_distiller_apricot_syrup",
+      "name": "Apricot Syrup",
+      "nameEn": "Apricot Syrup",
+      "machineId": "distiller",
+      "inputs": [
+        {
+          "itemId": "apricot",
+          "qty": 3
+        }
+      ],
+      "output": {
+        "itemId": "apricot_syrup",
+        "qty": 1
+      },
+      "minutes": 240,
+      "module": "gourmand",
+      "moduleZh": "美食家",
+      "mode": "advanced",
+      "modeZh": "高级",
+      "subcategory": "Syrups and Caramel",
+      "subcategoryZh": "糖浆与焦糖",
+      "source": "Wildflour wiki pasted English table",
+      "description": "A simple syrup flavored with apricots. Perfect for making custom drinks and other gourmet goodies!",
+      "descriptionZh": "",
+      "energy": 50,
+      "health": 22
+    },
+    {
+      "id": "gourmand_advanced_distiller_banana_syrup",
+      "name": "Banana Syrup",
+      "nameEn": "Banana Syrup",
+      "machineId": "distiller",
+      "inputs": [
+        {
+          "itemId": "banana",
+          "qty": 3
+        }
+      ],
+      "output": {
+        "itemId": "banana_syrup",
+        "qty": 1
+      },
+      "minutes": 240,
+      "module": "gourmand",
+      "moduleZh": "美食家",
+      "mode": "advanced",
+      "modeZh": "高级",
+      "subcategory": "Syrups and Caramel",
+      "subcategoryZh": "糖浆与焦糖",
+      "source": "Wildflour wiki pasted English table",
+      "description": "A simple syrup flavored with bananas. Perfect for making custom drinks and other gourmet goodies!",
+      "descriptionZh": "",
+      "energy": 50,
+      "health": 22
+    },
+    {
+      "id": "gourmand_advanced_distiller_caramel",
+      "name": "Caramel",
+      "nameEn": "Caramel",
+      "machineId": "distiller",
+      "inputs": [
+        {
+          "itemId": "cream",
+          "qty": 1
+        }
+      ],
+      "output": {
+        "itemId": "caramel",
+        "qty": 1
+      },
+      "minutes": 240,
+      "module": "gourmand",
+      "moduleZh": "美食家",
+      "mode": "advanced",
+      "modeZh": "高级",
+      "subcategory": "Syrups and Caramel",
+      "subcategoryZh": "糖浆与焦糖",
+      "source": "Wildflour wiki pasted English table",
+      "description": "Boiled sugar syrup mixed with cream into a sticky, golden confection.",
+      "descriptionZh": "",
+      "energy": 65,
+      "health": 29
+    },
+    {
+      "id": "gourmand_advanced_distiller_cherry_blossom_syrup",
+      "name": "Cherry Blossom Syrup ♣",
+      "nameEn": "Cherry Blossom Syrup ♣",
+      "machineId": "distiller",
+      "inputs": [
+        {
+          "itemId": "cherry_blossom_petals",
+          "qty": 3
+        }
+      ],
+      "output": {
+        "itemId": "cherry_blossom_syrup",
+        "qty": 1
+      },
+      "minutes": 20,
+      "module": "gourmand",
+      "moduleZh": "美食家",
+      "mode": "advanced",
+      "modeZh": "高级",
+      "subcategory": "Syrups and Caramel",
+      "subcategoryZh": "糖浆与焦糖",
+      "source": "Wildflour wiki pasted English table",
+      "description": "A simple syrup flavored with cherry blossom petals. Perfect for making custom drinks and other gourmet goodies!",
+      "descriptionZh": "",
+      "energy": 50,
+      "health": 22
+    },
+    {
+      "id": "gourmand_advanced_distiller_cherry_syrup",
+      "name": "Cherry Syrup",
+      "nameEn": "Cherry Syrup",
+      "machineId": "distiller",
+      "inputs": [
+        {
+          "itemId": "cherry",
+          "qty": 3
+        }
+      ],
+      "output": {
+        "itemId": "cherry_syrup",
+        "qty": 1
+      },
+      "minutes": 240,
+      "module": "gourmand",
+      "moduleZh": "美食家",
+      "mode": "advanced",
+      "modeZh": "高级",
+      "subcategory": "Syrups and Caramel",
+      "subcategoryZh": "糖浆与焦糖",
+      "source": "Wildflour wiki pasted English table",
+      "description": "A simple syrup flavored with cherries. Perfect for making custom drinks and other gourmet goodies!",
+      "descriptionZh": "",
+      "energy": 50,
+      "health": 22
+    },
+    {
+      "id": "gourmand_advanced_distiller_chocolate_syrup",
+      "name": "Chocolate Syrup ♣",
+      "nameEn": "Chocolate Syrup ♣",
+      "machineId": "distiller",
+      "inputs": [
+        {
+          "itemId": "wild_cacao_pod",
+          "qty": 3
+        }
+      ],
+      "output": {
+        "itemId": "chocolate_syrup",
+        "qty": 1
+      },
+      "minutes": 20,
+      "module": "gourmand",
+      "moduleZh": "美食家",
+      "mode": "advanced",
+      "modeZh": "高级",
+      "subcategory": "Syrups and Caramel",
+      "subcategoryZh": "糖浆与焦糖",
+      "source": "Wildflour wiki pasted English table",
+      "description": "A simple syrup flavored with cocoa. Perfect for making custom drinks and other gourmet goodies!",
+      "descriptionZh": "",
+      "energy": 50,
+      "health": 22
+    },
+    {
+      "id": "gourmand_advanced_distiller_elderberry_syrup",
+      "name": "Elderberry Syrup ♣",
+      "nameEn": "Elderberry Syrup ♣",
+      "machineId": "distiller",
+      "inputs": [
+        {
+          "itemId": "elderberry_blossoms",
+          "qty": 3
+        }
+      ],
+      "output": {
+        "itemId": "elderberry_syrup",
+        "qty": 1
+      },
+      "minutes": 20,
+      "module": "gourmand",
+      "moduleZh": "美食家",
+      "mode": "advanced",
+      "modeZh": "高级",
+      "subcategory": "Syrups and Caramel",
+      "subcategoryZh": "糖浆与焦糖",
+      "source": "Wildflour wiki pasted English table",
+      "description": "A simple syrup flavored with elderberries. Perfect for making custom drinks and other gourmet goodies!",
+      "descriptionZh": "",
+      "energy": 50,
+      "health": 22
+    },
+    {
+      "id": "gourmand_advanced_distiller_grenadine_syrup",
+      "name": "Grenadine Syrup",
+      "nameEn": "Grenadine Syrup",
+      "machineId": "distiller",
+      "inputs": [
+        {
+          "itemId": "pomegranate",
+          "qty": 3
+        }
+      ],
+      "output": {
+        "itemId": "grenadine_syrup",
+        "qty": 1
+      },
+      "minutes": 240,
+      "module": "gourmand",
+      "moduleZh": "美食家",
+      "mode": "advanced",
+      "modeZh": "高级",
+      "subcategory": "Syrups and Caramel",
+      "subcategoryZh": "糖浆与焦糖",
+      "source": "Wildflour wiki pasted English table",
+      "description": "A simple syrup flavored with pomegranates. Perfect for making custom drinks and other gourmet goodies!",
+      "descriptionZh": "",
+      "energy": 50,
+      "health": 22
+    },
+    {
+      "id": "gourmand_advanced_distiller_lavender_syrup",
+      "name": "Lavender Syrup ♣",
+      "nameEn": "Lavender Syrup ♣",
+      "machineId": "distiller",
+      "inputs": [
+        {
+          "itemId": "forest_lavender",
+          "qty": 3
+        }
+      ],
+      "output": {
+        "itemId": "lavender_syrup",
+        "qty": 1
+      },
+      "minutes": 20,
+      "module": "gourmand",
+      "moduleZh": "美食家",
+      "mode": "advanced",
+      "modeZh": "高级",
+      "subcategory": "Syrups and Caramel",
+      "subcategoryZh": "糖浆与焦糖",
+      "source": "Wildflour wiki pasted English table",
+      "description": "A simple syrup flavored with fresh lavender. Perfect for making custom drinks and other gourmet goodies!",
+      "descriptionZh": "",
+      "energy": 50,
+      "health": 22
+    },
+    {
+      "id": "gourmand_advanced_distiller_lemon_syrup",
+      "name": "Lemon Syrup ♣",
+      "nameEn": "Lemon Syrup ♣",
+      "machineId": "distiller",
+      "inputs": [
+        {
+          "itemId": "petite_lemon",
+          "qty": 3
+        }
+      ],
+      "output": {
+        "itemId": "lemon_syrup",
+        "qty": 1
+      },
+      "minutes": 20,
+      "module": "gourmand",
+      "moduleZh": "美食家",
+      "mode": "advanced",
+      "modeZh": "高级",
+      "subcategory": "Syrups and Caramel",
+      "subcategoryZh": "糖浆与焦糖",
+      "source": "Wildflour wiki pasted English table",
+      "description": "A simple syrup flavored with fresh lemons. Perfect for making custom drinks and other gourmet goodies!",
+      "descriptionZh": "",
+      "energy": 50,
+      "health": 22
+    },
+    {
+      "id": "gourmand_advanced_distiller_lime_syrup",
+      "name": "Lime Syrup ♣",
+      "nameEn": "Lime Syrup ♣",
+      "machineId": "distiller",
+      "inputs": [
+        {
+          "itemId": "petite_lime",
+          "qty": 3
+        }
+      ],
+      "output": {
+        "itemId": "lime_syrup",
+        "qty": 1
+      },
+      "minutes": 20,
+      "module": "gourmand",
+      "moduleZh": "美食家",
+      "mode": "advanced",
+      "modeZh": "高级",
+      "subcategory": "Syrups and Caramel",
+      "subcategoryZh": "糖浆与焦糖",
+      "source": "Wildflour wiki pasted English table",
+      "description": "A simple syrup flavored with limes. Perfect for making custom drinks and other gourmet goodies!",
+      "descriptionZh": "",
+      "energy": 50,
+      "health": 22
+    },
+    {
+      "id": "gourmand_advanced_distiller_mango_syrup",
+      "name": "Mango Syrup",
+      "nameEn": "Mango Syrup",
+      "machineId": "distiller",
+      "inputs": [
+        {
+          "itemId": "mango",
+          "qty": 3
+        }
+      ],
+      "output": {
+        "itemId": "mango_syrup",
+        "qty": 1
+      },
+      "minutes": 240,
+      "module": "gourmand",
+      "moduleZh": "美食家",
+      "mode": "advanced",
+      "modeZh": "高级",
+      "subcategory": "Syrups and Caramel",
+      "subcategoryZh": "糖浆与焦糖",
+      "source": "Wildflour wiki pasted English table",
+      "description": "A simple syrup flavored with fresh mangoes. Perfect for making custom drinks and other gourmet goodies!",
+      "descriptionZh": "",
+      "energy": 50,
+      "health": 22
+    },
+    {
+      "id": "gourmand_advanced_distiller_orange_syrup",
+      "name": "Orange Syrup",
+      "nameEn": "Orange Syrup",
+      "machineId": "distiller",
+      "inputs": [
+        {
+          "itemId": "orange",
+          "qty": 3
+        }
+      ],
+      "output": {
+        "itemId": "orange_syrup",
+        "qty": 1
+      },
+      "minutes": 240,
+      "module": "gourmand",
+      "moduleZh": "美食家",
+      "mode": "advanced",
+      "modeZh": "高级",
+      "subcategory": "Syrups and Caramel",
+      "subcategoryZh": "糖浆与焦糖",
+      "source": "Wildflour wiki pasted English table",
+      "description": "A simple syrup flavored with oranges. Perfect for making custom drinks and other gourmet goodies!",
+      "descriptionZh": "",
+      "energy": 50,
+      "health": 22
+    },
+    {
+      "id": "gourmand_advanced_distiller_peach_syrup",
+      "name": "Peach Syrup",
+      "nameEn": "Peach Syrup",
+      "machineId": "distiller",
+      "inputs": [
+        {
+          "itemId": "peach",
+          "qty": 3
+        }
+      ],
+      "output": {
+        "itemId": "peach_syrup",
+        "qty": 1
+      },
+      "minutes": 240,
+      "module": "gourmand",
+      "moduleZh": "美食家",
+      "mode": "advanced",
+      "modeZh": "高级",
+      "subcategory": "Syrups and Caramel",
+      "subcategoryZh": "糖浆与焦糖",
+      "source": "Wildflour wiki pasted English table",
+      "description": "A simple syrup flavored with peaches. Perfect for making custom drinks and other gourmet goodies!",
+      "descriptionZh": "",
+      "energy": 50,
+      "health": 22
+    },
+    {
+      "id": "gourmand_advanced_distiller_pumpkin_syrup",
+      "name": "Pumpkin Syrup",
+      "nameEn": "Pumpkin Syrup",
+      "machineId": "distiller",
+      "inputs": [
+        {
+          "itemId": "pumpkin",
+          "qty": 3
+        }
+      ],
+      "output": {
+        "itemId": "pumpkin_syrup",
+        "qty": 1
+      },
+      "minutes": 240,
+      "module": "gourmand",
+      "moduleZh": "美食家",
+      "mode": "advanced",
+      "modeZh": "高级",
+      "subcategory": "Syrups and Caramel",
+      "subcategoryZh": "糖浆与焦糖",
+      "source": "Wildflour wiki pasted English table",
+      "description": "A simple syrup flavored with pumpkin. Perfect for making custom drinks and other gourmet goodies!",
+      "descriptionZh": "",
+      "energy": 50,
+      "health": 22
+    },
+    {
+      "id": "gourmand_advanced_distiller_raspberry_syrup",
+      "name": "Raspberry Syrup ♣",
+      "nameEn": "Raspberry Syrup ♣",
+      "machineId": "distiller",
+      "inputs": [
+        {
+          "itemId": "wild_raspberry",
+          "qty": 3
+        }
+      ],
+      "output": {
+        "itemId": "raspberry_syrup",
+        "qty": 1
+      },
+      "minutes": 20,
+      "module": "gourmand",
+      "moduleZh": "美食家",
+      "mode": "advanced",
+      "modeZh": "高级",
+      "subcategory": "Syrups and Caramel",
+      "subcategoryZh": "糖浆与焦糖",
+      "source": "Wildflour wiki pasted English table",
+      "description": "A simple syrup flavored with raspberries. Perfect for making custom drinks and other gourmet goodies!",
+      "descriptionZh": "",
+      "energy": 50,
+      "health": 22
+    },
+    {
+      "id": "gourmand_advanced_distiller_rose_syrup",
+      "name": "Rose Syrup",
+      "nameEn": "Rose Syrup",
+      "machineId": "distiller",
+      "inputs": [
+        {
+          "itemId": "fairy_rose",
+          "qty": 3
+        }
+      ],
+      "output": {
+        "itemId": "rose_syrup",
+        "qty": 1
+      },
+      "minutes": 240,
+      "module": "gourmand",
+      "moduleZh": "美食家",
+      "mode": "advanced",
+      "modeZh": "高级",
+      "subcategory": "Syrups and Caramel",
+      "subcategoryZh": "糖浆与焦糖",
+      "source": "Wildflour wiki pasted English table",
+      "description": "A simple syrup flavored with roses. Perfect for making custom drinks and other gourmet goodies!",
+      "descriptionZh": "",
+      "energy": 50,
+      "health": 22
+    },
+    {
+      "id": "gourmand_advanced_distiller_strawberry_syrup",
+      "name": "Strawberry Syrup",
+      "nameEn": "Strawberry Syrup",
+      "machineId": "distiller",
+      "inputs": [
+        {
+          "itemId": "strawberry",
+          "qty": 3
+        }
+      ],
+      "output": {
+        "itemId": "strawberry_syrup",
+        "qty": 1
+      },
+      "minutes": 240,
+      "module": "gourmand",
+      "moduleZh": "美食家",
+      "mode": "advanced",
+      "modeZh": "高级",
+      "subcategory": "Syrups and Caramel",
+      "subcategoryZh": "糖浆与焦糖",
+      "source": "Wildflour wiki pasted English table",
+      "description": "A simple syrup flavored with strawberries. Perfect for making custom drinks and other gourmet goodies!",
+      "descriptionZh": "",
+      "energy": 50,
+      "health": 22
+    },
+    {
+      "id": "gourmand_advanced_distiller_vanilla_syrup",
+      "name": "Vanilla Syrup ♣",
+      "nameEn": "Vanilla Syrup ♣",
+      "machineId": "distiller",
+      "inputs": [
+        {
+          "itemId": "calico_vanilla",
+          "qty": 3
+        }
+      ],
+      "output": {
+        "itemId": "vanilla_syrup",
+        "qty": 1
+      },
+      "minutes": 20,
+      "module": "gourmand",
+      "moduleZh": "美食家",
+      "mode": "advanced",
+      "modeZh": "高级",
+      "subcategory": "Syrups and Caramel",
+      "subcategoryZh": "糖浆与焦糖",
+      "source": "Wildflour wiki pasted English table",
+      "description": "A simple syrup flavored with vanilla beans. Perfect for making custom drinks and other gourmet goodies!",
+      "descriptionZh": "",
+      "energy": 50,
+      "health": 22
+    }
+  ]
+}

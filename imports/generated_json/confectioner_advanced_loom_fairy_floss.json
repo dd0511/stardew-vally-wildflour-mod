@@ -1,0 +1,476 @@
+{
+  "items": [
+    {
+      "id": "blooming_garden_fairy_floss",
+      "name": "Blooming Garden Fairy Floss",
+      "zh": "",
+      "category": "Confectioner Product",
+      "categoryZh": "糖果师成品",
+      "subcategory": "Fairy Floss",
+      "subcategoryZh": "棉花糖",
+      "basePrice": 1392,
+      "tags": [
+        "confectioner",
+        "advanced",
+        "loom",
+        "fairy_floss",
+        "crafted_output",
+        "product"
+      ],
+      "description": "Cotton candy flavored with fruit jelly and rose syrup.",
+      "descriptionZh": "",
+      "energy": 65,
+      "health": 29
+    },
+    {
+      "id": "any_jelly_item_made_in_the_preserves_jar",
+      "name": "Any Jelly item made in the Preserves Jar",
+      "zh": "",
+      "category": "Ingredient",
+      "categoryZh": "原料",
+      "basePrice": 0,
+      "tags": [
+        "ingredient",
+        "basic_material",
+        "used_as_input"
+      ]
+    },
+    {
+      "id": "rose_syrup",
+      "name": "Rose Syrup",
+      "zh": "",
+      "category": "Ingredient",
+      "categoryZh": "原料",
+      "basePrice": 0,
+      "tags": [
+        "ingredient",
+        "basic_material",
+        "used_as_input",
+        "sweetener"
+      ]
+    },
+    {
+      "id": "classic_fairy_floss",
+      "name": "Classic Fairy Floss",
+      "zh": "",
+      "category": "Confectioner Product",
+      "categoryZh": "糖果师成品",
+      "subcategory": "Fairy Floss",
+      "subcategoryZh": "棉花糖",
+      "basePrice": 713,
+      "tags": [
+        "confectioner",
+        "advanced",
+        "loom",
+        "fairy_floss",
+        "crafted_output",
+        "product"
+      ],
+      "description": "Cotton candy flavored with rainbow sprinkles and vanilla syrup.",
+      "descriptionZh": "",
+      "energy": 65,
+      "health": 29
+    },
+    {
+      "id": "vanilla_syrup",
+      "name": "Vanilla Syrup",
+      "zh": "",
+      "category": "Ingredient",
+      "categoryZh": "原料",
+      "basePrice": 0,
+      "tags": [
+        "ingredient",
+        "basic_material",
+        "used_as_input",
+        "sweetener",
+        "spice_or_herb"
+      ]
+    },
+    {
+      "id": "earl_grey_fairy_floss",
+      "name": "Earl Grey Fairy Floss",
+      "zh": "",
+      "category": "Confectioner Product",
+      "categoryZh": "糖果师成品",
+      "subcategory": "Fairy Floss",
+      "subcategoryZh": "棉花糖",
+      "basePrice": 453,
+      "tags": [
+        "confectioner",
+        "advanced",
+        "loom",
+        "fairy_floss",
+        "crafted_output",
+        "product"
+      ],
+      "description": "Cotton candy flavored with match powder and lavender syrup.",
+      "descriptionZh": "",
+      "energy": 65,
+      "health": 29
+    },
+    {
+      "id": "lavender_syrup",
+      "name": "Lavender Syrup",
+      "zh": "",
+      "category": "Ingredient",
+      "categoryZh": "原料",
+      "basePrice": 0,
+      "tags": [
+        "ingredient",
+        "basic_material",
+        "used_as_input",
+        "sweetener",
+        "spice_or_herb"
+      ]
+    },
+    {
+      "id": "lemon_bar_fairy_floss",
+      "name": "Lemon Bar Fairy Floss",
+      "zh": "",
+      "category": "Confectioner Product",
+      "categoryZh": "糖果师成品",
+      "subcategory": "Fairy Floss",
+      "subcategoryZh": "棉花糖",
+      "basePrice": 453,
+      "tags": [
+        "confectioner",
+        "advanced",
+        "loom",
+        "fairy_floss",
+        "crafted_output",
+        "product"
+      ],
+      "description": "Cotton candy flavored with brown sugar and lemon syrup.",
+      "descriptionZh": "",
+      "energy": 65,
+      "health": 29
+    },
+    {
+      "id": "lemon_syrup",
+      "name": "Lemon Syrup",
+      "zh": "",
+      "category": "Ingredient",
+      "categoryZh": "原料",
+      "basePrice": 0,
+      "tags": [
+        "ingredient",
+        "basic_material",
+        "used_as_input",
+        "fruit",
+        "sweetener"
+      ]
+    },
+    {
+      "id": "peppermint_cloud_fairy_floss",
+      "name": "Peppermint Cloud Fairy Floss",
+      "zh": "",
+      "category": "Confectioner Product",
+      "categoryZh": "糖果师成品",
+      "subcategory": "Fairy Floss",
+      "subcategoryZh": "棉花糖",
+      "basePrice": 291,
+      "tags": [
+        "confectioner",
+        "advanced",
+        "loom",
+        "fairy_floss",
+        "crafted_output",
+        "product"
+      ],
+      "description": "Cotton candy flavored with powdered sugar and mint syrup.",
+      "descriptionZh": "",
+      "energy": 65,
+      "health": 29
+    },
+    {
+      "id": "pelican_mint",
+      "name": "Pelican Mint",
+      "zh": "",
+      "category": "Ingredient",
+      "categoryZh": "原料",
+      "basePrice": 0,
+      "tags": [
+        "ingredient",
+        "basic_material",
+        "used_as_input",
+        "spice_or_herb"
+      ]
+    },
+    {
+      "id": "summer_orchard_fairy_floss",
+      "name": "Summer Orchard Fairy Floss",
+      "zh": "",
+      "category": "Confectioner Product",
+      "categoryZh": "糖果师成品",
+      "subcategory": "Fairy Floss",
+      "subcategoryZh": "棉花糖",
+      "basePrice": 730,
+      "tags": [
+        "confectioner",
+        "advanced",
+        "loom",
+        "fairy_floss",
+        "crafted_output",
+        "product"
+      ],
+      "description": "Cotton candy flavored with orange and peach syrup.",
+      "descriptionZh": "",
+      "energy": 65,
+      "health": 29
+    },
+    {
+      "id": "peach_syrup",
+      "name": "Peach Syrup",
+      "zh": "",
+      "category": "Ingredient",
+      "categoryZh": "原料",
+      "basePrice": 0,
+      "tags": [
+        "ingredient",
+        "basic_material",
+        "used_as_input",
+        "fruit",
+        "sweetener"
+      ]
+    },
+    {
+      "id": "vanilla_latte_fairy_floss",
+      "name": "Vanilla Latte Fairy Floss",
+      "zh": "",
+      "category": "Confectioner Product",
+      "categoryZh": "糖果师成品",
+      "subcategory": "Fairy Floss",
+      "subcategoryZh": "棉花糖",
+      "basePrice": 479,
+      "tags": [
+        "confectioner",
+        "advanced",
+        "loom",
+        "fairy_floss",
+        "crafted_output",
+        "product"
+      ],
+      "description": "Cotton candy flavored with coffee bean and vanilla syrup.",
+      "descriptionZh": "",
+      "energy": 65,
+      "health": 29
+    }
+  ],
+  "machines": [
+    {
+      "id": "loom",
+      "name": "Loom",
+      "zh": "织布机",
+      "defaultMinutes": 240,
+      "module": "confectioner",
+      "moduleZh": "糖果师",
+      "tags": [
+        "confectioner",
+        "loom",
+        "fairy_floss"
+      ]
+    }
+  ],
+  "recipes": [
+    {
+      "id": "confectioner_advanced_loom_blooming_garden_fairy_floss",
+      "name": "Blooming Garden Fairy Floss",
+      "nameEn": "Blooming Garden Fairy Floss",
+      "machineId": "loom",
+      "inputs": [
+        {
+          "itemId": "any_jelly_item_made_in_the_preserves_jar",
+          "qty": 1
+        },
+        {
+          "itemId": "rose_syrup",
+          "qty": 1
+        }
+      ],
+      "output": {
+        "itemId": "blooming_garden_fairy_floss",
+        "qty": 1
+      },
+      "minutes": 240,
+      "module": "confectioner",
+      "moduleZh": "糖果师",
+      "mode": "advanced",
+      "modeZh": "高级",
+      "subcategory": "Fairy Floss",
+      "subcategoryZh": "棉花糖",
+      "source": "Wildflour wiki pasted English table",
+      "description": "Cotton candy flavored with fruit jelly and rose syrup.",
+      "descriptionZh": "",
+      "energy": 65,
+      "health": 29
+    },
+    {
+      "id": "confectioner_advanced_loom_classic_fairy_floss",
+      "name": "Classic Fairy Floss",
+      "nameEn": "Classic Fairy Floss",
+      "machineId": "loom",
+      "inputs": [
+        {
+          "itemId": "vanilla_syrup",
+          "qty": 1
+        }
+      ],
+      "output": {
+        "itemId": "classic_fairy_floss",
+        "qty": 1
+      },
+      "minutes": 240,
+      "module": "confectioner",
+      "moduleZh": "糖果师",
+      "mode": "advanced",
+      "modeZh": "高级",
+      "subcategory": "Fairy Floss",
+      "subcategoryZh": "棉花糖",
+      "source": "Wildflour wiki pasted English table",
+      "description": "Cotton candy flavored with rainbow sprinkles and vanilla syrup.",
+      "descriptionZh": "",
+      "energy": 65,
+      "health": 29
+    },
+    {
+      "id": "confectioner_advanced_loom_earl_grey_fairy_floss",
+      "name": "Earl Grey Fairy Floss",
+      "nameEn": "Earl Grey Fairy Floss",
+      "machineId": "loom",
+      "inputs": [
+        {
+          "itemId": "lavender_syrup",
+          "qty": 1
+        }
+      ],
+      "output": {
+        "itemId": "earl_grey_fairy_floss",
+        "qty": 1
+      },
+      "minutes": 240,
+      "module": "confectioner",
+      "moduleZh": "糖果师",
+      "mode": "advanced",
+      "modeZh": "高级",
+      "subcategory": "Fairy Floss",
+      "subcategoryZh": "棉花糖",
+      "source": "Wildflour wiki pasted English table",
+      "description": "Cotton candy flavored with match powder and lavender syrup.",
+      "descriptionZh": "",
+      "energy": 65,
+      "health": 29
+    },
+    {
+      "id": "confectioner_advanced_loom_lemon_bar_fairy_floss",
+      "name": "Lemon Bar Fairy Floss",
+      "nameEn": "Lemon Bar Fairy Floss",
+      "machineId": "loom",
+      "inputs": [
+        {
+          "itemId": "lemon_syrup",
+          "qty": 1
+        }
+      ],
+      "output": {
+        "itemId": "lemon_bar_fairy_floss",
+        "qty": 1
+      },
+      "minutes": 240,
+      "module": "confectioner",
+      "moduleZh": "糖果师",
+      "mode": "advanced",
+      "modeZh": "高级",
+      "subcategory": "Fairy Floss",
+      "subcategoryZh": "棉花糖",
+      "source": "Wildflour wiki pasted English table",
+      "description": "Cotton candy flavored with brown sugar and lemon syrup.",
+      "descriptionZh": "",
+      "energy": 65,
+      "health": 29
+    },
+    {
+      "id": "confectioner_advanced_loom_peppermint_cloud_fairy_floss",
+      "name": "Peppermint Cloud Fairy Floss",
+      "nameEn": "Peppermint Cloud Fairy Floss",
+      "machineId": "loom",
+      "inputs": [
+        {
+          "itemId": "pelican_mint",
+          "qty": 1
+        }
+      ],
+      "output": {
+        "itemId": "peppermint_cloud_fairy_floss",
+        "qty": 1
+      },
+      "minutes": 240,
+      "module": "confectioner",
+      "moduleZh": "糖果师",
+      "mode": "advanced",
+      "modeZh": "高级",
+      "subcategory": "Fairy Floss",
+      "subcategoryZh": "棉花糖",
+      "source": "Wildflour wiki pasted English table",
+      "description": "Cotton candy flavored with powdered sugar and mint syrup.",
+      "descriptionZh": "",
+      "energy": 65,
+      "health": 29
+    },
+    {
+      "id": "confectioner_advanced_loom_summer_orchard_fairy_floss",
+      "name": "Summer Orchard Fairy Floss",
+      "nameEn": "Summer Orchard Fairy Floss",
+      "machineId": "loom",
+      "inputs": [
+        {
+          "itemId": "peach_syrup",
+          "qty": 1
+        }
+      ],
+      "output": {
+        "itemId": "summer_orchard_fairy_floss",
+        "qty": 1
+      },
+      "minutes": 240,
+      "module": "confectioner",
+      "moduleZh": "糖果师",
+      "mode": "advanced",
+      "modeZh": "高级",
+      "subcategory": "Fairy Floss",
+      "subcategoryZh": "棉花糖",
+      "source": "Wildflour wiki pasted English table",
+      "description": "Cotton candy flavored with orange and peach syrup.",
+      "descriptionZh": "",
+      "energy": 65,
+      "health": 29
+    },
+    {
+      "id": "confectioner_advanced_loom_vanilla_latte_fairy_floss",
+      "name": "Vanilla Latte Fairy Floss",
+      "nameEn": "Vanilla Latte Fairy Floss",
+      "machineId": "loom",
+      "inputs": [
+        {
+          "itemId": "vanilla_syrup",
+          "qty": 1
+        }
+      ],
+      "output": {
+        "itemId": "vanilla_latte_fairy_floss",
+        "qty": 1
+      },
+      "minutes": 240,
+      "module": "confectioner",
+      "moduleZh": "糖果师",
+      "mode": "advanced",
+      "modeZh": "高级",
+      "subcategory": "Fairy Floss",
+      "subcategoryZh": "棉花糖",
+      "source": "Wildflour wiki pasted English table",
+      "description": "Cotton candy flavored with coffee bean and vanilla syrup.",
+      "descriptionZh": "",
+      "energy": 65,
+      "health": 29
+    }
+  ]
+}

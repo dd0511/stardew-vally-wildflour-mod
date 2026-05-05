@@ -1,0 +1,86 @@
+Confectioner
+Blast Chiller
+Popsicles
+Image	Name	Description	Ingredients	Processing Time	Sell Price	Energy / Health
+Beekeeper Popsicle.png	Beekeeper Popsicle	A frozen treat on a stick made with honey and vanilla.	Honey.png Honey (1)
+Calico Vanilla.png Calico Vanilla (1) ✶	Time Icon.png 200m (≈3h)	
+Gold.png
+395g
+Energy.png
+113	
+Health.png
+50
+CaPOW Popsicle.png	CaPOW Popsicle	A frozen treat on a stick made with coffee beans and cacao pods.	Coffee Bean.png Coffee Bean (1)
+Wild Cacao Pod.png Wild Cacao Pod (1) ✶	Time Icon.png 200m (≈3h)	
+Gold.png
+205g
+Energy.png
+113	
+Health.png
+50
+Cotton Candy Popsicle.png	Cotton Candy Popsicle	A frozen treat on a stick made with grapes and sugar.	Grape.png Grape (1)
+Sugar.png Sugar (1)	Time Icon.png 200m (≈3h)	
+Gold.png
+270g
+Energy.png
+113	
+Health.png
+50
+Creamsicle Popsicle.png	Creamsicle Popsicle	A frozen treat on a stick made with orange and cream.	Orange.png Orange (1)
+Calico Vanilla.png Calico Vanilla (1) ✶	Time Icon.png 200m (≈3h)	
+Gold.png
+395g
+Energy.png
+113	
+Health.png
+50
+Dirty Chai Popsicle.png	Dirty Chai Popsicle	A frozen treat on a stick made with espresso and tea leaves.	Triple Shot Espresso.png Triple Shot Espresso (1)
+Tea Leaves.png Tea Leaves (1)	Time Icon.png 200m (≈3h)	
+Gold.png
+1,010g
+Energy.png
+113	
+Health.png
+50
+Firecracker Popsicle.png	Firecracker Popsicle	A frozen treat on a stick made with cherries, blueberries and coconut.	Cherry.png Cherry (1)
+Blueberry.png Blueberry (1)
+Coconut.png Coconut (1)	Time Icon.png 200m (≈3h)	
+Gold.png
+270g
+Energy.png
+113	
+Health.png
+50
+Neapolitan Popsicle.png	Neapolitan Popsicle	A frozen treat on a stick made with chocolate, strawberries and vanilla beans.	Wild Cacao Pod.png Wild Cacao Pod (1) ✶
+Strawberry.png Strawberry (1)
+Calico Vanilla.png Calico Vanilla (1) ✶	Time Icon.png 200m (≈3h)	
+Gold.png
+511g
+Energy.png
+113	
+Health.png
+50
+Strawberry Margarita Popsicle.png	Strawberry Margarita Popsicle	A frozen treat on a stick made with strawberries and lime.	Strawberry.png Strawberry (1)
+Petite Lime.png Petite Lime (1) ✶	Time Icon.png 200m (≈3h)	
+Gold.png
+355g
+Energy.png
+113	
+Health.png
+50
+Sweet Heat Popsicle.png	Sweet Heat Popsicle	A frozen treat on a stick made with mango and hot peppers.	Mango.png Mango (1)
+Hot Pepper.png Hot Pepper (1)	Time Icon.png 200m (≈3h)	
+Gold.png
+360g
+Energy.png
+113	
+Health.png
+50
+Very Berry Popsicle.png	Very Berry Popsicle	A frozen treat on a stick made with raspberries and blackberries.	Wild Raspberry.png Wild Raspberry (1) ✶
+Blackberry.png Blackberry (1)	Time Icon.png 200m (≈3h)	
+Gold.png
+120g
+Energy.png
+113	
+Health.png
+50

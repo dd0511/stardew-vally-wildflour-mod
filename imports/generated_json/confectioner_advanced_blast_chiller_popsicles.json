@@ -1,0 +1,665 @@
+{
+  "items": [
+    {
+      "id": "beekeeper_popsicle",
+      "name": "Beekeeper Popsicle",
+      "zh": "",
+      "category": "Confectioner Product",
+      "categoryZh": "糖果师成品",
+      "subcategory": "Popsicles",
+      "subcategoryZh": "冰棒",
+      "basePrice": 395,
+      "tags": [
+        "confectioner",
+        "advanced",
+        "blast_chiller",
+        "popsicles",
+        "popsicle",
+        "crafted_output",
+        "product"
+      ],
+      "description": "A frozen treat on a stick made with honey and vanilla.",
+      "descriptionZh": "",
+      "energy": 113,
+      "health": 50
+    },
+    {
+      "id": "calico_vanilla",
+      "name": "Calico Vanilla",
+      "zh": "",
+      "category": "Ingredient",
+      "categoryZh": "原料",
+      "basePrice": 0,
+      "tags": [
+        "ingredient",
+        "basic_material",
+        "used_as_input",
+        "spice_or_herb"
+      ]
+    },
+    {
+      "id": "capow_popsicle",
+      "name": "CaPOW Popsicle",
+      "zh": "",
+      "category": "Confectioner Product",
+      "categoryZh": "糖果师成品",
+      "subcategory": "Popsicles",
+      "subcategoryZh": "冰棒",
+      "basePrice": 205,
+      "tags": [
+        "confectioner",
+        "advanced",
+        "blast_chiller",
+        "popsicles",
+        "popsicle",
+        "crafted_output",
+        "product"
+      ],
+      "description": "A frozen treat on a stick made with coffee beans and cacao pods.",
+      "descriptionZh": "",
+      "energy": 113,
+      "health": 50
+    },
+    {
+      "id": "wild_cacao_pod",
+      "name": "Wild Cacao Pod",
+      "zh": "",
+      "category": "Ingredient",
+      "categoryZh": "原料",
+      "basePrice": 0,
+      "tags": [
+        "ingredient",
+        "basic_material",
+        "used_as_input",
+        "cacao"
+      ]
+    },
+    {
+      "id": "cotton_candy_popsicle",
+      "name": "Cotton Candy Popsicle",
+      "zh": "",
+      "category": "Confectioner Product",
+      "categoryZh": "糖果师成品",
+      "subcategory": "Popsicles",
+      "subcategoryZh": "冰棒",
+      "basePrice": 270,
+      "tags": [
+        "confectioner",
+        "advanced",
+        "blast_chiller",
+        "popsicles",
+        "popsicle",
+        "crafted_output",
+        "product"
+      ],
+      "description": "A frozen treat on a stick made with grapes and sugar.",
+      "descriptionZh": "",
+      "energy": 113,
+      "health": 50
+    },
+    {
+      "id": "sugar",
+      "name": "Sugar",
+      "zh": "",
+      "category": "Ingredient",
+      "categoryZh": "原料",
+      "basePrice": 0,
+      "tags": [
+        "ingredient",
+        "basic_material",
+        "used_as_input",
+        "sweetener"
+      ]
+    },
+    {
+      "id": "creamsicle_popsicle",
+      "name": "Creamsicle Popsicle",
+      "zh": "",
+      "category": "Confectioner Product",
+      "categoryZh": "糖果师成品",
+      "subcategory": "Popsicles",
+      "subcategoryZh": "冰棒",
+      "basePrice": 395,
+      "tags": [
+        "confectioner",
+        "advanced",
+        "blast_chiller",
+        "popsicles",
+        "popsicle",
+        "crafted_output",
+        "product"
+      ],
+      "description": "A frozen treat on a stick made with orange and cream.",
+      "descriptionZh": "",
+      "energy": 113,
+      "health": 50
+    },
+    {
+      "id": "dirty_chai_popsicle",
+      "name": "Dirty Chai Popsicle",
+      "zh": "",
+      "category": "Confectioner Product",
+      "categoryZh": "糖果师成品",
+      "subcategory": "Popsicles",
+      "subcategoryZh": "冰棒",
+      "basePrice": 1010,
+      "tags": [
+        "confectioner",
+        "advanced",
+        "blast_chiller",
+        "popsicles",
+        "popsicle",
+        "crafted_output",
+        "product"
+      ],
+      "description": "A frozen treat on a stick made with espresso and tea leaves.",
+      "descriptionZh": "",
+      "energy": 113,
+      "health": 50
+    },
+    {
+      "id": "tea_leaves",
+      "name": "Tea Leaves",
+      "zh": "",
+      "category": "Ingredient",
+      "categoryZh": "原料",
+      "basePrice": 0,
+      "tags": [
+        "ingredient",
+        "basic_material",
+        "used_as_input"
+      ]
+    },
+    {
+      "id": "firecracker_popsicle",
+      "name": "Firecracker Popsicle",
+      "zh": "",
+      "category": "Confectioner Product",
+      "categoryZh": "糖果师成品",
+      "subcategory": "Popsicles",
+      "subcategoryZh": "冰棒",
+      "basePrice": 270,
+      "tags": [
+        "confectioner",
+        "advanced",
+        "blast_chiller",
+        "popsicles",
+        "popsicle",
+        "crafted_output",
+        "product"
+      ],
+      "description": "A frozen treat on a stick made with cherries, blueberries and coconut.",
+      "descriptionZh": "",
+      "energy": 113,
+      "health": 50
+    },
+    {
+      "id": "coconut",
+      "name": "Coconut",
+      "zh": "",
+      "category": "Ingredient",
+      "categoryZh": "原料",
+      "basePrice": 0,
+      "tags": [
+        "ingredient",
+        "basic_material",
+        "used_as_input",
+        "fruit",
+        "nut"
+      ]
+    },
+    {
+      "id": "neapolitan_popsicle",
+      "name": "Neapolitan Popsicle",
+      "zh": "",
+      "category": "Confectioner Product",
+      "categoryZh": "糖果师成品",
+      "subcategory": "Popsicles",
+      "subcategoryZh": "冰棒",
+      "basePrice": 511,
+      "tags": [
+        "confectioner",
+        "advanced",
+        "blast_chiller",
+        "popsicles",
+        "popsicle",
+        "crafted_output",
+        "product"
+      ],
+      "description": "A frozen treat on a stick made with chocolate, strawberries and vanilla beans.",
+      "descriptionZh": "",
+      "energy": 113,
+      "health": 50
+    },
+    {
+      "id": "strawberry_margarita_popsicle",
+      "name": "Strawberry Margarita Popsicle",
+      "zh": "",
+      "category": "Confectioner Product",
+      "categoryZh": "糖果师成品",
+      "subcategory": "Popsicles",
+      "subcategoryZh": "冰棒",
+      "basePrice": 355,
+      "tags": [
+        "confectioner",
+        "advanced",
+        "blast_chiller",
+        "popsicles",
+        "popsicle",
+        "crafted_output",
+        "product"
+      ],
+      "description": "A frozen treat on a stick made with strawberries and lime.",
+      "descriptionZh": "",
+      "energy": 113,
+      "health": 50
+    },
+    {
+      "id": "petite_lime",
+      "name": "Petite Lime",
+      "zh": "",
+      "category": "Ingredient",
+      "categoryZh": "原料",
+      "basePrice": 0,
+      "tags": [
+        "ingredient",
+        "basic_material",
+        "used_as_input",
+        "fruit"
+      ]
+    },
+    {
+      "id": "sweet_heat_popsicle",
+      "name": "Sweet Heat Popsicle",
+      "zh": "",
+      "category": "Confectioner Product",
+      "categoryZh": "糖果师成品",
+      "subcategory": "Popsicles",
+      "subcategoryZh": "冰棒",
+      "basePrice": 360,
+      "tags": [
+        "confectioner",
+        "advanced",
+        "blast_chiller",
+        "popsicles",
+        "popsicle",
+        "crafted_output",
+        "product"
+      ],
+      "description": "A frozen treat on a stick made with mango and hot peppers.",
+      "descriptionZh": "",
+      "energy": 113,
+      "health": 50
+    },
+    {
+      "id": "hot_pepper",
+      "name": "Hot Pepper",
+      "zh": "",
+      "category": "Ingredient",
+      "categoryZh": "原料",
+      "basePrice": 0,
+      "tags": [
+        "ingredient",
+        "basic_material",
+        "used_as_input"
+      ]
+    },
+    {
+      "id": "very_berry_popsicle",
+      "name": "Very Berry Popsicle",
+      "zh": "",
+      "category": "Confectioner Product",
+      "categoryZh": "糖果师成品",
+      "subcategory": "Popsicles",
+      "subcategoryZh": "冰棒",
+      "basePrice": 120,
+      "tags": [
+        "confectioner",
+        "advanced",
+        "blast_chiller",
+        "popsicles",
+        "popsicle",
+        "crafted_output",
+        "product"
+      ],
+      "description": "A frozen treat on a stick made with raspberries and blackberries.",
+      "descriptionZh": "",
+      "energy": 113,
+      "health": 50
+    },
+    {
+      "id": "wild_raspberry",
+      "name": "Wild Raspberry",
+      "zh": "",
+      "category": "Ingredient",
+      "categoryZh": "原料",
+      "basePrice": 0,
+      "tags": [
+        "ingredient",
+        "basic_material",
+        "used_as_input",
+        "fruit"
+      ]
+    },
+    {
+      "id": "blackberry",
+      "name": "Blackberry",
+      "zh": "",
+      "category": "Ingredient",
+      "categoryZh": "原料",
+      "basePrice": 0,
+      "tags": [
+        "ingredient",
+        "basic_material",
+        "used_as_input",
+        "fruit"
+      ]
+    }
+  ],
+  "machines": [
+    {
+      "id": "blast_chiller",
+      "name": "Blast Chiller",
+      "zh": "急速冷冻机",
+      "defaultMinutes": 200,
+      "module": "confectioner",
+      "moduleZh": "糖果师",
+      "tags": [
+        "confectioner",
+        "blast_chiller",
+        "popsicle",
+        "popsicles"
+      ]
+    }
+  ],
+  "recipes": [
+    {
+      "id": "confectioner_advanced_blast_chiller_beekeeper_popsicle",
+      "name": "Beekeeper Popsicle",
+      "nameEn": "Beekeeper Popsicle",
+      "machineId": "blast_chiller",
+      "inputs": [
+        {
+          "itemId": "calico_vanilla",
+          "qty": 1
+        }
+      ],
+      "output": {
+        "itemId": "beekeeper_popsicle",
+        "qty": 1
+      },
+      "minutes": 200,
+      "module": "confectioner",
+      "moduleZh": "糖果师",
+      "mode": "advanced",
+      "modeZh": "高级",
+      "subcategory": "Popsicles",
+      "subcategoryZh": "冰棒",
+      "source": "Wildflour wiki pasted English table",
+      "description": "A frozen treat on a stick made with honey and vanilla.",
+      "descriptionZh": "",
+      "energy": 113,
+      "health": 50
+    },
+    {
+      "id": "confectioner_advanced_blast_chiller_capow_popsicle",
+      "name": "CaPOW Popsicle",
+      "nameEn": "CaPOW Popsicle",
+      "machineId": "blast_chiller",
+      "inputs": [
+        {
+          "itemId": "wild_cacao_pod",
+          "qty": 1
+        }
+      ],
+      "output": {
+        "itemId": "capow_popsicle",
+        "qty": 1
+      },
+      "minutes": 200,
+      "module": "confectioner",
+      "moduleZh": "糖果师",
+      "mode": "advanced",
+      "modeZh": "高级",
+      "subcategory": "Popsicles",
+      "subcategoryZh": "冰棒",
+      "source": "Wildflour wiki pasted English table",
+      "description": "A frozen treat on a stick made with coffee beans and cacao pods.",
+      "descriptionZh": "",
+      "energy": 113,
+      "health": 50
+    },
+    {
+      "id": "confectioner_advanced_blast_chiller_cotton_candy_popsicle",
+      "name": "Cotton Candy Popsicle",
+      "nameEn": "Cotton Candy Popsicle",
+      "machineId": "blast_chiller",
+      "inputs": [
+        {
+          "itemId": "sugar",
+          "qty": 1
+        }
+      ],
+      "output": {
+        "itemId": "cotton_candy_popsicle",
+        "qty": 1
+      },
+      "minutes": 200,
+      "module": "confectioner",
+      "moduleZh": "糖果师",
+      "mode": "advanced",
+      "modeZh": "高级",
+      "subcategory": "Popsicles",
+      "subcategoryZh": "冰棒",
+      "source": "Wildflour wiki pasted English table",
+      "description": "A frozen treat on a stick made with grapes and sugar.",
+      "descriptionZh": "",
+      "energy": 113,
+      "health": 50
+    },
+    {
+      "id": "confectioner_advanced_blast_chiller_creamsicle_popsicle",
+      "name": "Creamsicle Popsicle",
+      "nameEn": "Creamsicle Popsicle",
+      "machineId": "blast_chiller",
+      "inputs": [
+        {
+          "itemId": "calico_vanilla",
+          "qty": 1
+        }
+      ],
+      "output": {
+        "itemId": "creamsicle_popsicle",
+        "qty": 1
+      },
+      "minutes": 200,
+      "module": "confectioner",
+      "moduleZh": "糖果师",
+      "mode": "advanced",
+      "modeZh": "高级",
+      "subcategory": "Popsicles",
+      "subcategoryZh": "冰棒",
+      "source": "Wildflour wiki pasted English table",
+      "description": "A frozen treat on a stick made with orange and cream.",
+      "descriptionZh": "",
+      "energy": 113,
+      "health": 50
+    },
+    {
+      "id": "confectioner_advanced_blast_chiller_dirty_chai_popsicle",
+      "name": "Dirty Chai Popsicle",
+      "nameEn": "Dirty Chai Popsicle",
+      "machineId": "blast_chiller",
+      "inputs": [
+        {
+          "itemId": "tea_leaves",
+          "qty": 1
+        }
+      ],
+      "output": {
+        "itemId": "dirty_chai_popsicle",
+        "qty": 1
+      },
+      "minutes": 200,
+      "module": "confectioner",
+      "moduleZh": "糖果师",
+      "mode": "advanced",
+      "modeZh": "高级",
+      "subcategory": "Popsicles",
+      "subcategoryZh": "冰棒",
+      "source": "Wildflour wiki pasted English table",
+      "description": "A frozen treat on a stick made with espresso and tea leaves.",
+      "descriptionZh": "",
+      "energy": 113,
+      "health": 50
+    },
+    {
+      "id": "confectioner_advanced_blast_chiller_firecracker_popsicle",
+      "name": "Firecracker Popsicle",
+      "nameEn": "Firecracker Popsicle",
+      "machineId": "blast_chiller",
+      "inputs": [
+        {
+          "itemId": "coconut",
+          "qty": 1
+        }
+      ],
+      "output": {
+        "itemId": "firecracker_popsicle",
+        "qty": 1
+      },
+      "minutes": 200,
+      "module": "confectioner",
+      "moduleZh": "糖果师",
+      "mode": "advanced",
+      "modeZh": "高级",
+      "subcategory": "Popsicles",
+      "subcategoryZh": "冰棒",
+      "source": "Wildflour wiki pasted English table",
+      "description": "A frozen treat on a stick made with cherries, blueberries and coconut.",
+      "descriptionZh": "",
+      "energy": 113,
+      "health": 50
+    },
+    {
+      "id": "confectioner_advanced_blast_chiller_neapolitan_popsicle",
+      "name": "Neapolitan Popsicle",
+      "nameEn": "Neapolitan Popsicle",
+      "machineId": "blast_chiller",
+      "inputs": [
+        {
+          "itemId": "wild_cacao_pod",
+          "qty": 1
+        },
+        {
+          "itemId": "calico_vanilla",
+          "qty": 1
+        }
+      ],
+      "output": {
+        "itemId": "neapolitan_popsicle",
+        "qty": 1
+      },
+      "minutes": 200,
+      "module": "confectioner",
+      "moduleZh": "糖果师",
+      "mode": "advanced",
+      "modeZh": "高级",
+      "subcategory": "Popsicles",
+      "subcategoryZh": "冰棒",
+      "source": "Wildflour wiki pasted English table",
+      "description": "A frozen treat on a stick made with chocolate, strawberries and vanilla beans.",
+      "descriptionZh": "",
+      "energy": 113,
+      "health": 50
+    },
+    {
+      "id": "confectioner_advanced_blast_chiller_strawberry_margarita_popsicle",
+      "name": "Strawberry Margarita Popsicle",
+      "nameEn": "Strawberry Margarita Popsicle",
+      "machineId": "blast_chiller",
+      "inputs": [
+        {
+          "itemId": "petite_lime",
+          "qty": 1
+        }
+      ],
+      "output": {
+        "itemId": "strawberry_margarita_popsicle",
+        "qty": 1
+      },
+      "minutes": 200,
+      "module": "confectioner",
+      "moduleZh": "糖果师",
+      "mode": "advanced",
+      "modeZh": "高级",
+      "subcategory": "Popsicles",
+      "subcategoryZh": "冰棒",
+      "source": "Wildflour wiki pasted English table",
+      "description": "A frozen treat on a stick made with strawberries and lime.",
+      "descriptionZh": "",
+      "energy": 113,
+      "health": 50
+    },
+    {
+      "id": "confectioner_advanced_blast_chiller_sweet_heat_popsicle",
+      "name": "Sweet Heat Popsicle",
+      "nameEn": "Sweet Heat Popsicle",
+      "machineId": "blast_chiller",
+      "inputs": [
+        {
+          "itemId": "hot_pepper",
+          "qty": 1
+        }
+      ],
+      "output": {
+        "itemId": "sweet_heat_popsicle",
+        "qty": 1
+      },
+      "minutes": 200,
+      "module": "confectioner",
+      "moduleZh": "糖果师",
+      "mode": "advanced",
+      "modeZh": "高级",
+      "subcategory": "Popsicles",
+      "subcategoryZh": "冰棒",
+      "source": "Wildflour wiki pasted English table",
+      "description": "A frozen treat on a stick made with mango and hot peppers.",
+      "descriptionZh": "",
+      "energy": 113,
+      "health": 50
+    },
+    {
+      "id": "confectioner_advanced_blast_chiller_very_berry_popsicle",
+      "name": "Very Berry Popsicle",
+      "nameEn": "Very Berry Popsicle",
+      "machineId": "blast_chiller",
+      "inputs": [
+        {
+          "itemId": "wild_raspberry",
+          "qty": 1
+        },
+        {
+          "itemId": "blackberry",
+          "qty": 1
+        }
+      ],
+      "output": {
+        "itemId": "very_berry_popsicle",
+        "qty": 1
+      },
+      "minutes": 200,
+      "module": "confectioner",
+      "moduleZh": "糖果师",
+      "mode": "advanced",
+      "modeZh": "高级",
+      "subcategory": "Popsicles",
+      "subcategoryZh": "冰棒",
+      "source": "Wildflour wiki pasted English table",
+      "description": "A frozen treat on a stick made with raspberries and blackberries.",
+      "descriptionZh": "",
+      "energy": 113,
+      "health": 50
+    }
+  ]
+}

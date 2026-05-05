@@ -1,0 +1,60 @@
+Confectioner
+Loom
+Fairy Floss
+Image	Name	Description	Ingredients	Processing Time	Sell Price	Energy / Health
+Blooming Garden Fairy Floss.png	Blooming Garden Fairy Floss	Cotton candy flavored with fruit jelly and rose syrup.	Any Jelly item made in the Preserves Jar (1) ✶
+Rose Syrup.png Rose Syrup (1)	Time Icon.png 240m (≈4h)	
+Gold.png
+1,392g
+Energy.png
+65	
+Health.png
+29
+Classic Fairy Floss.png	Classic Fairy Floss	Cotton candy flavored with rainbow sprinkles and vanilla syrup.	Rainbow Sprinkles.png Rainbow Sprinkles (1)
+Vanilla Syrup.png Vanilla Syrup (1)	Time Icon.png 240m (≈4h)	
+Gold.png
+713g
+Energy.png
+65	
+Health.png
+29
+Earl Grey Fairy Floss.png	Earl Grey Fairy Floss	Cotton candy flavored with match powder and lavender syrup.	Matcha Powder.png Matcha Powder (1)
+Lavender Syrup.png Lavender Syrup (1)	Time Icon.png 240m (≈4h)	
+Gold.png
+453g
+Energy.png
+65	
+Health.png
+29
+Lemon Bar Fairy Floss.png	Lemon Bar Fairy Floss	Cotton candy flavored with brown sugar and lemon syrup.	Brown Sugar.png Brown Sugar (1)
+Lemon Syrup.png Lemon Syrup (1)	Time Icon.png 240m (≈4h)	
+Gold.png
+453g
+Energy.png
+65	
+Health.png
+29
+Peppermint Cloud Fairy Floss.png	Peppermint Cloud Fairy Floss	Cotton candy flavored with powdered sugar and mint syrup.	Confectioner's Sugar.png Confectioner's Sugar (1)
+Pelican Mint.png Pelican Mint (1) ✶	Time Icon.png 240m (≈4h)	
+Gold.png
+291g
+Energy.png
+65	
+Health.png
+29
+Summer Orchard Fairy Floss.png	Summer Orchard Fairy Floss	Cotton candy flavored with orange and peach syrup.	Orange.png Orange (1)
+Peach Syrup.png Peach Syrup (1)	Time Icon.png 240m (≈4h)	
+Gold.png
+730g
+Energy.png
+65	
+Health.png
+29
+Vanilla Latte Fairy Floss.png	Vanilla Latte Fairy Floss	Cotton candy flavored with coffee bean and vanilla syrup.	Coffee Bean.png Coffee Bean (1)
+Vanilla Syrup.png Vanilla Syrup (1)	Time Icon.png 240m (≈4h)	
+Gold.png
+479g
+Energy.png
+65	
+Health.png
+29

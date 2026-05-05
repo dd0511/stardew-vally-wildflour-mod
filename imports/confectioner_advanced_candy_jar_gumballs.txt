@@ -1,0 +1,76 @@
+Confectioner
+Candy Jar
+Gumballs
+Image	Name	Description	Ingredients	Processing Time	Sell Price	Energy / Health
+Banana Split Gumballs.png	Banana Split Gumballs	Bubblegum candy in a hard candy shell, flavored with strawberry and banana.	Strawberry.png Strawberry (1)
+Banana.png Banana (1)	Time Icon.png 620m (≈10h)	
+Gold.png
+660g
+Energy.png
+65	
+Health.png
+29
+Blue Razzberry Gumballs.png	Blue Razzberry Gumballs	Bubblegum candy in a hard candy shell, flavored with blueberry and raspberry.	Blueberry.png Blueberry (1)
+Wild Raspberry.png Wild Raspberry (1) ✶	Time Icon.png 620m (≈10h)	
+Gold.png
+232g
+Energy.png
+65	
+Health.png
+29
+Cotton Candy Gumballs.png	Cotton Candy Gumballs	Bubblegum candy in a hard candy shell, flavored with grape and sugar.	Grape.pngGrape (1)
+Sugar.png Sugar (1)	Time Icon.png 620m (≈10h)	
+Gold.png
+390g
+Energy.png
+65	
+Health.png
+29
+Melonade Gumballs.png	Melonade Gumballs	Bubblegum candy in a hard candy shell, flavored with melon and lemon.	Melon.png Melon (1)
+Petite Lemon.png Petite Lemon (1) ✶	Time Icon.png 620m (≈10h)	
+Gold.png
+1,117g
+Energy.png
+65	
+Health.png
+29
+Minty Fresh Gumballs.png	Minty Fresh Gumballs	Bubblegum candy in a hard candy shell, flavored with mint and vanilla.	Pelican Mint.png Pelican Mint (1) ✶
+Calico Vanilla.png Calico Vanilla (1) ✶	Time Icon.png 620m (≈10h)	
+Gold.png
+203g
+Energy.png
+65	
+Health.png
+29
+Pina Colada Gumballs.png	Pina Colada Gumballs	Bubblegum candy in a hard candy shell, flavored with pineapple and coconut.	Pineapple.png Pineapple (1)
+Coconut.png Coconut (1)	Time Icon.png 620m (≈10h)	
+Gold.png
+1,375g
+Energy.png
+65	
+Health.png
+29
+Rainbow Gumballs.png	Rainbow Gumballs	Bubblegum candy in a hard candy shell, flavored with rainbow sprinkles and sugar.	Rainbow Sprinkles.png Rainbow Sprinkles (1)
+Sugar.png Sugar (1)	Time Icon.png 620m (≈10h)	
+Gold.png
+475g
+Energy.png
+65	
+Health.png
+29
+Sour Blast Gumballs.png	Sour Blast Gumballs	Bubblegum candy in a hard candy shell, flavored with cherry and lime.	Cherry.png Cherry (1)
+Petite Lime.png Petite Lime (1) ✶	Time Icon.png 620m (≈10h)	
+Gold.png
+395g
+Energy.png
+65	
+Health.png
+29
+Spicy Cinnamon Gumballs.png	Spicy Cinnamon Gumballs	Bubblegum candy in a hard candy shell, flavored with cinnamon and spice berry.	Cindersap Cinnamon.png Cindersap Cinnamon (1) ✶
+Spice Berry.png Spice Berry (1)	Time Icon.png 620m (≈10h)	
+Gold.png
+611g
+Energy.png
+65	
+Health.png
+29

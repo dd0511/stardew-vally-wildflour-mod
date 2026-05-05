@@ -1,0 +1,10 @@
+Gourmand
+Cheese Press
+Image	Name	Description	Ingredients	Processing Time	Sell Price	Energy / Health
+Cream Cheese.png	Cream Cheese	Cream cheese is perfect for cheesecake or just smearing on a bagel.	Cream.png Cream (1)	Time Icon.png 240m (≈4h)	
+Gold.png
+370g
+Energy.png
+50	
+Health.png
+22

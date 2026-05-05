@@ -1,0 +1,1095 @@
+{
+  "items": [
+    {
+      "id": "birdie_s_banana_ice_cream_sandwich",
+      "name": "Birdie's Banana Ice Cream Sandwich",
+      "zh": "",
+      "category": "Confectioner Product",
+      "categoryZh": "糖果师成品",
+      "subcategory": "Ice Cream Sandwiches",
+      "subcategoryZh": "冰淇淋三明治",
+      "basePrice": 4832,
+      "tags": [
+        "confectioner",
+        "advanced",
+        "blast_chiller",
+        "ice_cream_sandwiches",
+        "ice_cream_sandwich",
+        "crafted_output",
+        "product",
+        "ice_cream",
+        "frozen_treat"
+      ],
+      "description": "Birdie's Banana Ice Cream sandwiched between two cookies for a fun frozen treat.",
+      "descriptionZh": "",
+      "energy": 138,
+      "health": 62
+    },
+    {
+      "id": "cookie",
+      "name": "Cookie",
+      "zh": "",
+      "category": "Ingredient",
+      "categoryZh": "原料",
+      "basePrice": 0,
+      "tags": [
+        "ingredient",
+        "basic_material",
+        "used_as_input"
+      ]
+    },
+    {
+      "id": "birthday_blast_ice_cream_sandwich",
+      "name": "Birthday Blast Ice Cream Sandwich",
+      "zh": "",
+      "category": "Confectioner Product",
+      "categoryZh": "糖果师成品",
+      "subcategory": "Ice Cream Sandwiches",
+      "subcategoryZh": "冰淇淋三明治",
+      "basePrice": 3860,
+      "tags": [
+        "confectioner",
+        "advanced",
+        "blast_chiller",
+        "ice_cream_sandwiches",
+        "ice_cream_sandwich",
+        "crafted_output",
+        "product",
+        "ice_cream",
+        "frozen_treat"
+      ],
+      "description": "Birthday Blast Ice Cream sandwiched between two cookies for a fun frozen treat.",
+      "descriptionZh": "",
+      "energy": 138,
+      "health": 62
+    },
+    {
+      "id": "blackberry_cobbler_ice_cream_sandwich",
+      "name": "Blackberry Cobbler Ice Cream Sandwich",
+      "zh": "",
+      "category": "Confectioner Product",
+      "categoryZh": "糖果师成品",
+      "subcategory": "Ice Cream Sandwiches",
+      "subcategoryZh": "冰淇淋三明治",
+      "basePrice": 2450,
+      "tags": [
+        "confectioner",
+        "advanced",
+        "blast_chiller",
+        "ice_cream_sandwiches",
+        "ice_cream_sandwich",
+        "crafted_output",
+        "product",
+        "ice_cream",
+        "frozen_treat"
+      ],
+      "description": "Blackberry Cobbler Ice Cream sandwiched between two cookies for a fun frozen treat.",
+      "descriptionZh": "",
+      "energy": 138,
+      "health": 62
+    },
+    {
+      "id": "chocolate_lover_s_ice_cream_sandwich",
+      "name": "Chocolate Lover's Ice Cream Sandwich",
+      "zh": "",
+      "category": "Confectioner Product",
+      "categoryZh": "糖果师成品",
+      "subcategory": "Ice Cream Sandwiches",
+      "subcategoryZh": "冰淇淋三明治",
+      "basePrice": 3548,
+      "tags": [
+        "confectioner",
+        "advanced",
+        "blast_chiller",
+        "ice_cream_sandwiches",
+        "ice_cream_sandwich",
+        "crafted_output",
+        "product",
+        "ice_cream",
+        "frozen_treat"
+      ],
+      "description": "Chocolate Lover's Ice Cream sandwiched between two cookies for a fun frozen treat.",
+      "descriptionZh": "",
+      "energy": 138,
+      "health": 62
+    },
+    {
+      "id": "cookie_monster_ice_cream_sandwich",
+      "name": "Cookie Monster Ice Cream Sandwich",
+      "zh": "",
+      "category": "Confectioner Product",
+      "categoryZh": "糖果师成品",
+      "subcategory": "Ice Cream Sandwiches",
+      "subcategoryZh": "冰淇淋三明治",
+      "basePrice": 4730,
+      "tags": [
+        "confectioner",
+        "advanced",
+        "blast_chiller",
+        "ice_cream_sandwiches",
+        "ice_cream_sandwich",
+        "crafted_output",
+        "product",
+        "ice_cream",
+        "frozen_treat"
+      ],
+      "description": "Cookie Monster Ice Cream sandwiched between two cookies for a fun frozen treat.",
+      "descriptionZh": "",
+      "energy": 138,
+      "health": 62
+    },
+    {
+      "id": "eggnog_spice_ice_cream_sandwich",
+      "name": "Eggnog Spice Ice Cream Sandwich",
+      "zh": "",
+      "category": "Confectioner Product",
+      "categoryZh": "糖果师成品",
+      "subcategory": "Ice Cream Sandwiches",
+      "subcategoryZh": "冰淇淋三明治",
+      "basePrice": 3032,
+      "tags": [
+        "confectioner",
+        "advanced",
+        "blast_chiller",
+        "ice_cream_sandwiches",
+        "ice_cream_sandwich",
+        "crafted_output",
+        "product",
+        "ice_cream",
+        "frozen_treat"
+      ],
+      "description": "Eggnog Spice Ice Cream sandwiched between two cookies for a fun frozen treat.",
+      "descriptionZh": "",
+      "energy": 138,
+      "health": 62
+    },
+    {
+      "id": "gingerbread_latte_ice_cream_sandwich",
+      "name": "Gingerbread Latte Ice Cream Sandwich",
+      "zh": "",
+      "category": "Confectioner Product",
+      "categoryZh": "糖果师成品",
+      "subcategory": "Ice Cream Sandwiches",
+      "subcategoryZh": "冰淇淋三明治",
+      "basePrice": 2570,
+      "tags": [
+        "confectioner",
+        "advanced",
+        "blast_chiller",
+        "ice_cream_sandwiches",
+        "ice_cream_sandwich",
+        "crafted_output",
+        "product",
+        "ice_cream",
+        "frozen_treat"
+      ],
+      "description": "Gingerbread Latte Ice Cream sandwiched between two cookies for a fun frozen treat.",
+      "descriptionZh": "",
+      "energy": 138,
+      "health": 62
+    },
+    {
+      "id": "granny_s_apple_pie_ice_cream_sandwich",
+      "name": "Granny's Apple Pie Ice Cream Sandwich",
+      "zh": "",
+      "category": "Confectioner Product",
+      "categoryZh": "糖果师成品",
+      "subcategory": "Ice Cream Sandwiches",
+      "subcategoryZh": "冰淇淋三明治",
+      "basePrice": 4010,
+      "tags": [
+        "confectioner",
+        "advanced",
+        "blast_chiller",
+        "ice_cream_sandwiches",
+        "ice_cream_sandwich",
+        "crafted_output",
+        "product",
+        "ice_cream",
+        "frozen_treat"
+      ],
+      "description": "Granny's Apple PieE Ice Cream sandwiched between two cookies for a fun frozen treat.",
+      "descriptionZh": "",
+      "energy": 138,
+      "health": 62
+    },
+    {
+      "id": "hopeless_romantic_ice_cream_sandwich",
+      "name": "Hopeless Romantic Ice Cream Sandwich",
+      "zh": "",
+      "category": "Confectioner Product",
+      "categoryZh": "糖果师成品",
+      "subcategory": "Ice Cream Sandwiches",
+      "subcategoryZh": "冰淇淋三明治",
+      "basePrice": 7592,
+      "tags": [
+        "confectioner",
+        "advanced",
+        "blast_chiller",
+        "ice_cream_sandwiches",
+        "ice_cream_sandwich",
+        "crafted_output",
+        "product",
+        "ice_cream",
+        "frozen_treat"
+      ],
+      "description": "Hopeless Romantic Ice Cream sandwiched between two cookies for a fun frozen treat.",
+      "descriptionZh": "",
+      "energy": 138,
+      "health": 62
+    },
+    {
+      "id": "horchata_ice_cream_sandwich",
+      "name": "Horchata Ice Cream Sandwich",
+      "zh": "",
+      "category": "Confectioner Product",
+      "categoryZh": "糖果师成品",
+      "subcategory": "Ice Cream Sandwiches",
+      "subcategoryZh": "冰淇淋三明治",
+      "basePrice": 4010,
+      "tags": [
+        "confectioner",
+        "advanced",
+        "blast_chiller",
+        "ice_cream_sandwiches",
+        "ice_cream_sandwich",
+        "crafted_output",
+        "product",
+        "ice_cream",
+        "frozen_treat"
+      ],
+      "description": "Horchata Ice Cream sandwiched between two cookies for a fun frozen treat.",
+      "descriptionZh": "",
+      "energy": 138,
+      "health": 62
+    },
+    {
+      "id": "key_lime_pie_milkshake_ice_cream_sandwich",
+      "name": "Key Lime Pie Milkshake Ice Cream Sandwich",
+      "zh": "",
+      "category": "Confectioner Product",
+      "categoryZh": "糖果师成品",
+      "subcategory": "Ice Cream Sandwiches",
+      "subcategoryZh": "冰淇淋三明治",
+      "basePrice": 2978,
+      "tags": [
+        "confectioner",
+        "advanced",
+        "blast_chiller",
+        "ice_cream_sandwiches",
+        "ice_cream_sandwich",
+        "crafted_output",
+        "product",
+        "ice_cream",
+        "frozen_treat"
+      ],
+      "description": "Key Lime Pie Ice Cream sandwiched between two cookies for a fun frozen treat.",
+      "descriptionZh": "",
+      "energy": 138,
+      "health": 62
+    },
+    {
+      "id": "lavender_fields_ice_cream_sandwich",
+      "name": "Lavender Fields Ice Cream Sandwich",
+      "zh": "",
+      "category": "Confectioner Product",
+      "categoryZh": "糖果师成品",
+      "subcategory": "Ice Cream Sandwiches",
+      "subcategoryZh": "冰淇淋三明治",
+      "basePrice": 2709,
+      "tags": [
+        "confectioner",
+        "advanced",
+        "blast_chiller",
+        "ice_cream_sandwiches",
+        "ice_cream_sandwich",
+        "crafted_output",
+        "product",
+        "ice_cream",
+        "frozen_treat"
+      ],
+      "description": "Lavender Fields Ice Cream sandwiched between two cookies for a fun frozen treat.",
+      "descriptionZh": "",
+      "energy": 138,
+      "health": 62
+    },
+    {
+      "id": "lemon_dream_ice_cream_sandwich",
+      "name": "Lemon Dream Ice Cream Sandwich",
+      "zh": "",
+      "category": "Confectioner Product",
+      "categoryZh": "糖果师成品",
+      "subcategory": "Ice Cream Sandwiches",
+      "subcategoryZh": "冰淇淋三明治",
+      "basePrice": 2978,
+      "tags": [
+        "confectioner",
+        "advanced",
+        "blast_chiller",
+        "ice_cream_sandwiches",
+        "ice_cream_sandwich",
+        "crafted_output",
+        "product",
+        "ice_cream",
+        "frozen_treat"
+      ],
+      "description": "Lemon Dream Ice Cream sandwiched between two cookies for a fun frozen treat.",
+      "descriptionZh": "",
+      "energy": 138,
+      "health": 62
+    },
+    {
+      "id": "nuts_4_cherries_ice_cream_sandwich",
+      "name": "Nuts 4 Cherries Ice Cream Sandwich",
+      "zh": "",
+      "category": "Confectioner Product",
+      "categoryZh": "糖果师成品",
+      "subcategory": "Ice Cream Sandwiches",
+      "subcategoryZh": "冰淇淋三明治",
+      "basePrice": 3560,
+      "tags": [
+        "confectioner",
+        "advanced",
+        "blast_chiller",
+        "ice_cream_sandwiches",
+        "ice_cream_sandwich",
+        "crafted_output",
+        "product",
+        "ice_cream",
+        "frozen_treat"
+      ],
+      "description": "Nuts 4 Cherries Ice Cream sandwiched between two cookies for a fun frozen treat.",
+      "descriptionZh": "",
+      "energy": 138,
+      "health": 62
+    },
+    {
+      "id": "peppermint_bark_ice_cream_sandwich",
+      "name": "Peppermint Bark Ice Cream Sandwich",
+      "zh": "",
+      "category": "Confectioner Product",
+      "categoryZh": "糖果师成品",
+      "subcategory": "Ice Cream Sandwiches",
+      "subcategoryZh": "冰淇淋三明治",
+      "basePrice": 2312,
+      "tags": [
+        "confectioner",
+        "advanced",
+        "blast_chiller",
+        "ice_cream_sandwiches",
+        "ice_cream_sandwich",
+        "crafted_output",
+        "product",
+        "ice_cream",
+        "frozen_treat"
+      ],
+      "description": "Peppermint Bark Ice Cream sandwiched between two cookies for a fun frozen treat.",
+      "descriptionZh": "",
+      "energy": 138,
+      "health": 62
+    },
+    {
+      "id": "pumpkin_pie_ice_cream_sandwich",
+      "name": "Pumpkin Pie Ice Cream Sandwich",
+      "zh": "",
+      "category": "Confectioner Product",
+      "categoryZh": "糖果师成品",
+      "subcategory": "Ice Cream Sandwiches",
+      "subcategoryZh": "冰淇淋三明治",
+      "basePrice": 8300,
+      "tags": [
+        "confectioner",
+        "advanced",
+        "blast_chiller",
+        "ice_cream_sandwiches",
+        "ice_cream_sandwich",
+        "crafted_output",
+        "product",
+        "ice_cream",
+        "frozen_treat"
+      ],
+      "description": "Pumpkin Pie Ice Cream sandwiched between two cookies for a fun frozen treat.",
+      "descriptionZh": "",
+      "energy": 138,
+      "health": 62
+    },
+    {
+      "id": "red_velvet_ice_cream_sandwich",
+      "name": "Red Velvet Ice Cream Sandwich",
+      "zh": "",
+      "category": "Confectioner Product",
+      "categoryZh": "糖果师成品",
+      "subcategory": "Ice Cream Sandwiches",
+      "subcategoryZh": "冰淇淋三明治",
+      "basePrice": 3950,
+      "tags": [
+        "confectioner",
+        "advanced",
+        "blast_chiller",
+        "ice_cream_sandwiches",
+        "ice_cream_sandwich",
+        "crafted_output",
+        "product",
+        "ice_cream",
+        "frozen_treat"
+      ],
+      "description": "Red Velvet Ice Cream sandwiched between two cookies for a fun frozen treat.",
+      "descriptionZh": "",
+      "energy": 138,
+      "health": 62
+    },
+    {
+      "id": "strawberry_sunset_ice_cream_sandwich",
+      "name": "Strawberry Sunset Ice Cream Sandwich",
+      "zh": "",
+      "category": "Confectioner Product",
+      "categoryZh": "糖果师成品",
+      "subcategory": "Ice Cream Sandwiches",
+      "subcategoryZh": "冰淇淋三明治",
+      "basePrice": 3650,
+      "tags": [
+        "confectioner",
+        "advanced",
+        "blast_chiller",
+        "ice_cream_sandwiches",
+        "ice_cream_sandwich",
+        "crafted_output",
+        "product",
+        "ice_cream",
+        "frozen_treat"
+      ],
+      "description": "Strawberry Sunset Ice Cream sandwiched between two cookies for a fun frozen treat.",
+      "descriptionZh": "",
+      "energy": 138,
+      "health": 62
+    },
+    {
+      "id": "unicorn_ice_cream_sandwich",
+      "name": "Unicorn Ice Cream Sandwich",
+      "zh": "",
+      "category": "Confectioner Product",
+      "categoryZh": "糖果师成品",
+      "subcategory": "Ice Cream Sandwiches",
+      "subcategoryZh": "冰淇淋三明治",
+      "basePrice": 12332,
+      "tags": [
+        "confectioner",
+        "advanced",
+        "blast_chiller",
+        "ice_cream_sandwiches",
+        "ice_cream_sandwich",
+        "crafted_output",
+        "product",
+        "ice_cream",
+        "frozen_treat"
+      ],
+      "description": "Unicorn Ice Cream sandwiched between two cookies for a fun frozen treat.",
+      "descriptionZh": "",
+      "energy": 138,
+      "health": 62
+    },
+    {
+      "id": "very_vanilla_ice_cream_sandwich",
+      "name": "Very Vanilla Ice Cream Sandwich",
+      "zh": "",
+      "category": "Confectioner Product",
+      "categoryZh": "糖果师成品",
+      "subcategory": "Ice Cream Sandwiches",
+      "subcategoryZh": "冰淇淋三明治",
+      "basePrice": 3938,
+      "tags": [
+        "confectioner",
+        "advanced",
+        "blast_chiller",
+        "ice_cream_sandwiches",
+        "ice_cream_sandwich",
+        "crafted_output",
+        "product",
+        "ice_cream",
+        "frozen_treat"
+      ],
+      "description": "Very Vanilla Ice Cream sandwiched between two cookies for a fun frozen treat.",
+      "descriptionZh": "",
+      "energy": 138,
+      "health": 62
+    }
+  ],
+  "machines": [
+    {
+      "id": "blast_chiller",
+      "name": "Blast Chiller",
+      "zh": "急速冷冻机",
+      "defaultMinutes": 1200,
+      "module": "confectioner",
+      "moduleZh": "糖果师",
+      "tags": [
+        "confectioner",
+        "blast_chiller",
+        "ice_cream_sandwich",
+        "ice_cream_sandwiches"
+      ]
+    }
+  ],
+  "recipes": [
+    {
+      "id": "confectioner_advanced_blast_chiller_birdie_s_banana_ice_cream_sandwich",
+      "name": "Birdie's Banana Ice Cream Sandwich",
+      "nameEn": "Birdie's Banana Ice Cream Sandwich",
+      "machineId": "blast_chiller",
+      "inputs": [
+        {
+          "itemId": "cookie",
+          "qty": 1
+        }
+      ],
+      "output": {
+        "itemId": "birdie_s_banana_ice_cream_sandwich",
+        "qty": 1
+      },
+      "minutes": 1200,
+      "module": "confectioner",
+      "moduleZh": "糖果师",
+      "mode": "advanced",
+      "modeZh": "高级",
+      "subcategory": "Ice Cream Sandwiches",
+      "subcategoryZh": "冰淇淋三明治",
+      "source": "Wildflour wiki pasted English table",
+      "description": "Birdie's Banana Ice Cream sandwiched between two cookies for a fun frozen treat.",
+      "descriptionZh": "",
+      "energy": 138,
+      "health": 62
+    },
+    {
+      "id": "confectioner_advanced_blast_chiller_birthday_blast_ice_cream_sandwich",
+      "name": "Birthday Blast Ice Cream Sandwich",
+      "nameEn": "Birthday Blast Ice Cream Sandwich",
+      "machineId": "blast_chiller",
+      "inputs": [
+        {
+          "itemId": "cookie",
+          "qty": 1
+        }
+      ],
+      "output": {
+        "itemId": "birthday_blast_ice_cream_sandwich",
+        "qty": 1
+      },
+      "minutes": 1200,
+      "module": "confectioner",
+      "moduleZh": "糖果师",
+      "mode": "advanced",
+      "modeZh": "高级",
+      "subcategory": "Ice Cream Sandwiches",
+      "subcategoryZh": "冰淇淋三明治",
+      "source": "Wildflour wiki pasted English table",
+      "description": "Birthday Blast Ice Cream sandwiched between two cookies for a fun frozen treat.",
+      "descriptionZh": "",
+      "energy": 138,
+      "health": 62
+    },
+    {
+      "id": "confectioner_advanced_blast_chiller_blackberry_cobbler_ice_cream_sandwich",
+      "name": "Blackberry Cobbler Ice Cream Sandwich",
+      "nameEn": "Blackberry Cobbler Ice Cream Sandwich",
+      "machineId": "blast_chiller",
+      "inputs": [
+        {
+          "itemId": "cookie",
+          "qty": 1
+        }
+      ],
+      "output": {
+        "itemId": "blackberry_cobbler_ice_cream_sandwich",
+        "qty": 1
+      },
+      "minutes": 1200,
+      "module": "confectioner",
+      "moduleZh": "糖果师",
+      "mode": "advanced",
+      "modeZh": "高级",
+      "subcategory": "Ice Cream Sandwiches",
+      "subcategoryZh": "冰淇淋三明治",
+      "source": "Wildflour wiki pasted English table",
+      "description": "Blackberry Cobbler Ice Cream sandwiched between two cookies for a fun frozen treat.",
+      "descriptionZh": "",
+      "energy": 138,
+      "health": 62
+    },
+    {
+      "id": "confectioner_advanced_blast_chiller_chocolate_lover_s_ice_cream_sandwich",
+      "name": "Chocolate Lover's Ice Cream Sandwich",
+      "nameEn": "Chocolate Lover's Ice Cream Sandwich",
+      "machineId": "blast_chiller",
+      "inputs": [
+        {
+          "itemId": "cookie",
+          "qty": 1
+        }
+      ],
+      "output": {
+        "itemId": "chocolate_lover_s_ice_cream_sandwich",
+        "qty": 1
+      },
+      "minutes": 1200,
+      "module": "confectioner",
+      "moduleZh": "糖果师",
+      "mode": "advanced",
+      "modeZh": "高级",
+      "subcategory": "Ice Cream Sandwiches",
+      "subcategoryZh": "冰淇淋三明治",
+      "source": "Wildflour wiki pasted English table",
+      "description": "Chocolate Lover's Ice Cream sandwiched between two cookies for a fun frozen treat.",
+      "descriptionZh": "",
+      "energy": 138,
+      "health": 62
+    },
+    {
+      "id": "confectioner_advanced_blast_chiller_cookie_monster_ice_cream_sandwich",
+      "name": "Cookie Monster Ice Cream Sandwich",
+      "nameEn": "Cookie Monster Ice Cream Sandwich",
+      "machineId": "blast_chiller",
+      "inputs": [
+        {
+          "itemId": "cookie",
+          "qty": 1
+        }
+      ],
+      "output": {
+        "itemId": "cookie_monster_ice_cream_sandwich",
+        "qty": 1
+      },
+      "minutes": 1200,
+      "module": "confectioner",
+      "moduleZh": "糖果师",
+      "mode": "advanced",
+      "modeZh": "高级",
+      "subcategory": "Ice Cream Sandwiches",
+      "subcategoryZh": "冰淇淋三明治",
+      "source": "Wildflour wiki pasted English table",
+      "description": "Cookie Monster Ice Cream sandwiched between two cookies for a fun frozen treat.",
+      "descriptionZh": "",
+      "energy": 138,
+      "health": 62
+    },
+    {
+      "id": "confectioner_advanced_blast_chiller_eggnog_spice_ice_cream_sandwich",
+      "name": "Eggnog Spice Ice Cream Sandwich",
+      "nameEn": "Eggnog Spice Ice Cream Sandwich",
+      "machineId": "blast_chiller",
+      "inputs": [
+        {
+          "itemId": "cookie",
+          "qty": 1
+        }
+      ],
+      "output": {
+        "itemId": "eggnog_spice_ice_cream_sandwich",
+        "qty": 1
+      },
+      "minutes": 1200,
+      "module": "confectioner",
+      "moduleZh": "糖果师",
+      "mode": "advanced",
+      "modeZh": "高级",
+      "subcategory": "Ice Cream Sandwiches",
+      "subcategoryZh": "冰淇淋三明治",
+      "source": "Wildflour wiki pasted English table",
+      "description": "Eggnog Spice Ice Cream sandwiched between two cookies for a fun frozen treat.",
+      "descriptionZh": "",
+      "energy": 138,
+      "health": 62
+    },
+    {
+      "id": "confectioner_advanced_blast_chiller_gingerbread_latte_ice_cream_sandwich",
+      "name": "Gingerbread Latte Ice Cream Sandwich",
+      "nameEn": "Gingerbread Latte Ice Cream Sandwich",
+      "machineId": "blast_chiller",
+      "inputs": [
+        {
+          "itemId": "cookie",
+          "qty": 1
+        }
+      ],
+      "output": {
+        "itemId": "gingerbread_latte_ice_cream_sandwich",
+        "qty": 1
+      },
+      "minutes": 1200,
+      "module": "confectioner",
+      "moduleZh": "糖果师",
+      "mode": "advanced",
+      "modeZh": "高级",
+      "subcategory": "Ice Cream Sandwiches",
+      "subcategoryZh": "冰淇淋三明治",
+      "source": "Wildflour wiki pasted English table",
+      "description": "Gingerbread Latte Ice Cream sandwiched between two cookies for a fun frozen treat.",
+      "descriptionZh": "",
+      "energy": 138,
+      "health": 62
+    },
+    {
+      "id": "confectioner_advanced_blast_chiller_granny_s_apple_pie_ice_cream_sandwich",
+      "name": "Granny's Apple Pie Ice Cream Sandwich",
+      "nameEn": "Granny's Apple Pie Ice Cream Sandwich",
+      "machineId": "blast_chiller",
+      "inputs": [
+        {
+          "itemId": "cookie",
+          "qty": 1
+        }
+      ],
+      "output": {
+        "itemId": "granny_s_apple_pie_ice_cream_sandwich",
+        "qty": 1
+      },
+      "minutes": 1200,
+      "module": "confectioner",
+      "moduleZh": "糖果师",
+      "mode": "advanced",
+      "modeZh": "高级",
+      "subcategory": "Ice Cream Sandwiches",
+      "subcategoryZh": "冰淇淋三明治",
+      "source": "Wildflour wiki pasted English table",
+      "description": "Granny's Apple PieE Ice Cream sandwiched between two cookies for a fun frozen treat.",
+      "descriptionZh": "",
+      "energy": 138,
+      "health": 62
+    },
+    {
+      "id": "confectioner_advanced_blast_chiller_hopeless_romantic_ice_cream_sandwich",
+      "name": "Hopeless Romantic Ice Cream Sandwich",
+      "nameEn": "Hopeless Romantic Ice Cream Sandwich",
+      "machineId": "blast_chiller",
+      "inputs": [
+        {
+          "itemId": "cookie",
+          "qty": 1
+        }
+      ],
+      "output": {
+        "itemId": "hopeless_romantic_ice_cream_sandwich",
+        "qty": 1
+      },
+      "minutes": 1200,
+      "module": "confectioner",
+      "moduleZh": "糖果师",
+      "mode": "advanced",
+      "modeZh": "高级",
+      "subcategory": "Ice Cream Sandwiches",
+      "subcategoryZh": "冰淇淋三明治",
+      "source": "Wildflour wiki pasted English table",
+      "description": "Hopeless Romantic Ice Cream sandwiched between two cookies for a fun frozen treat.",
+      "descriptionZh": "",
+      "energy": 138,
+      "health": 62
+    },
+    {
+      "id": "confectioner_advanced_blast_chiller_horchata_ice_cream_sandwich",
+      "name": "Horchata Ice Cream Sandwich",
+      "nameEn": "Horchata Ice Cream Sandwich",
+      "machineId": "blast_chiller",
+      "inputs": [
+        {
+          "itemId": "cookie",
+          "qty": 1
+        }
+      ],
+      "output": {
+        "itemId": "horchata_ice_cream_sandwich",
+        "qty": 1
+      },
+      "minutes": 1200,
+      "module": "confectioner",
+      "moduleZh": "糖果师",
+      "mode": "advanced",
+      "modeZh": "高级",
+      "subcategory": "Ice Cream Sandwiches",
+      "subcategoryZh": "冰淇淋三明治",
+      "source": "Wildflour wiki pasted English table",
+      "description": "Horchata Ice Cream sandwiched between two cookies for a fun frozen treat.",
+      "descriptionZh": "",
+      "energy": 138,
+      "health": 62
+    },
+    {
+      "id": "confectioner_advanced_blast_chiller_key_lime_pie_milkshake_ice_cream_sandwich",
+      "name": "Key Lime Pie Milkshake Ice Cream Sandwich",
+      "nameEn": "Key Lime Pie Milkshake Ice Cream Sandwich",
+      "machineId": "blast_chiller",
+      "inputs": [
+        {
+          "itemId": "cookie",
+          "qty": 1
+        }
+      ],
+      "output": {
+        "itemId": "key_lime_pie_milkshake_ice_cream_sandwich",
+        "qty": 1
+      },
+      "minutes": 1200,
+      "module": "confectioner",
+      "moduleZh": "糖果师",
+      "mode": "advanced",
+      "modeZh": "高级",
+      "subcategory": "Ice Cream Sandwiches",
+      "subcategoryZh": "冰淇淋三明治",
+      "source": "Wildflour wiki pasted English table",
+      "description": "Key Lime Pie Ice Cream sandwiched between two cookies for a fun frozen treat.",
+      "descriptionZh": "",
+      "energy": 138,
+      "health": 62
+    },
+    {
+      "id": "confectioner_advanced_blast_chiller_lavender_fields_ice_cream_sandwich",
+      "name": "Lavender Fields Ice Cream Sandwich",
+      "nameEn": "Lavender Fields Ice Cream Sandwich",
+      "machineId": "blast_chiller",
+      "inputs": [
+        {
+          "itemId": "cookie",
+          "qty": 1
+        }
+      ],
+      "output": {
+        "itemId": "lavender_fields_ice_cream_sandwich",
+        "qty": 1
+      },
+      "minutes": 1200,
+      "module": "confectioner",
+      "moduleZh": "糖果师",
+      "mode": "advanced",
+      "modeZh": "高级",
+      "subcategory": "Ice Cream Sandwiches",
+      "subcategoryZh": "冰淇淋三明治",
+      "source": "Wildflour wiki pasted English table",
+      "description": "Lavender Fields Ice Cream sandwiched between two cookies for a fun frozen treat.",
+      "descriptionZh": "",
+      "energy": 138,
+      "health": 62
+    },
+    {
+      "id": "confectioner_advanced_blast_chiller_lemon_dream_ice_cream_sandwich",
+      "name": "Lemon Dream Ice Cream Sandwich",
+      "nameEn": "Lemon Dream Ice Cream Sandwich",
+      "machineId": "blast_chiller",
+      "inputs": [
+        {
+          "itemId": "cookie",
+          "qty": 1
+        }
+      ],
+      "output": {
+        "itemId": "lemon_dream_ice_cream_sandwich",
+        "qty": 1
+      },
+      "minutes": 1200,
+      "module": "confectioner",
+      "moduleZh": "糖果师",
+      "mode": "advanced",
+      "modeZh": "高级",
+      "subcategory": "Ice Cream Sandwiches",
+      "subcategoryZh": "冰淇淋三明治",
+      "source": "Wildflour wiki pasted English table",
+      "description": "Lemon Dream Ice Cream sandwiched between two cookies for a fun frozen treat.",
+      "descriptionZh": "",
+      "energy": 138,
+      "health": 62
+    },
+    {
+      "id": "confectioner_advanced_blast_chiller_nuts_4_cherries_ice_cream_sandwich",
+      "name": "Nuts 4 Cherries Ice Cream Sandwich",
+      "nameEn": "Nuts 4 Cherries Ice Cream Sandwich",
+      "machineId": "blast_chiller",
+      "inputs": [
+        {
+          "itemId": "cookie",
+          "qty": 1
+        }
+      ],
+      "output": {
+        "itemId": "nuts_4_cherries_ice_cream_sandwich",
+        "qty": 1
+      },
+      "minutes": 1200,
+      "module": "confectioner",
+      "moduleZh": "糖果师",
+      "mode": "advanced",
+      "modeZh": "高级",
+      "subcategory": "Ice Cream Sandwiches",
+      "subcategoryZh": "冰淇淋三明治",
+      "source": "Wildflour wiki pasted English table",
+      "description": "Nuts 4 Cherries Ice Cream sandwiched between two cookies for a fun frozen treat.",
+      "descriptionZh": "",
+      "energy": 138,
+      "health": 62
+    },
+    {
+      "id": "confectioner_advanced_blast_chiller_peppermint_bark_ice_cream_sandwich",
+      "name": "Peppermint Bark Ice Cream Sandwich",
+      "nameEn": "Peppermint Bark Ice Cream Sandwich",
+      "machineId": "blast_chiller",
+      "inputs": [
+        {
+          "itemId": "cookie",
+          "qty": 1
+        }
+      ],
+      "output": {
+        "itemId": "peppermint_bark_ice_cream_sandwich",
+        "qty": 1
+      },
+      "minutes": 1200,
+      "module": "confectioner",
+      "moduleZh": "糖果师",
+      "mode": "advanced",
+      "modeZh": "高级",
+      "subcategory": "Ice Cream Sandwiches",
+      "subcategoryZh": "冰淇淋三明治",
+      "source": "Wildflour wiki pasted English table",
+      "description": "Peppermint Bark Ice Cream sandwiched between two cookies for a fun frozen treat.",
+      "descriptionZh": "",
+      "energy": 138,
+      "health": 62
+    },
+    {
+      "id": "confectioner_advanced_blast_chiller_pumpkin_pie_ice_cream_sandwich",
+      "name": "Pumpkin Pie Ice Cream Sandwich",
+      "nameEn": "Pumpkin Pie Ice Cream Sandwich",
+      "machineId": "blast_chiller",
+      "inputs": [
+        {
+          "itemId": "cookie",
+          "qty": 1
+        }
+      ],
+      "output": {
+        "itemId": "pumpkin_pie_ice_cream_sandwich",
+        "qty": 1
+      },
+      "minutes": 1200,
+      "module": "confectioner",
+      "moduleZh": "糖果师",
+      "mode": "advanced",
+      "modeZh": "高级",
+      "subcategory": "Ice Cream Sandwiches",
+      "subcategoryZh": "冰淇淋三明治",
+      "source": "Wildflour wiki pasted English table",
+      "description": "Pumpkin Pie Ice Cream sandwiched between two cookies for a fun frozen treat.",
+      "descriptionZh": "",
+      "energy": 138,
+      "health": 62
+    },
+    {
+      "id": "confectioner_advanced_blast_chiller_red_velvet_ice_cream_sandwich",
+      "name": "Red Velvet Ice Cream Sandwich",
+      "nameEn": "Red Velvet Ice Cream Sandwich",
+      "machineId": "blast_chiller",
+      "inputs": [
+        {
+          "itemId": "cookie",
+          "qty": 1
+        }
+      ],
+      "output": {
+        "itemId": "red_velvet_ice_cream_sandwich",
+        "qty": 1
+      },
+      "minutes": 1200,
+      "module": "confectioner",
+      "moduleZh": "糖果师",
+      "mode": "advanced",
+      "modeZh": "高级",
+      "subcategory": "Ice Cream Sandwiches",
+      "subcategoryZh": "冰淇淋三明治",
+      "source": "Wildflour wiki pasted English table",
+      "description": "Red Velvet Ice Cream sandwiched between two cookies for a fun frozen treat.",
+      "descriptionZh": "",
+      "energy": 138,
+      "health": 62
+    },
+    {
+      "id": "confectioner_advanced_blast_chiller_strawberry_sunset_ice_cream_sandwich",
+      "name": "Strawberry Sunset Ice Cream Sandwich",
+      "nameEn": "Strawberry Sunset Ice Cream Sandwich",
+      "machineId": "blast_chiller",
+      "inputs": [
+        {
+          "itemId": "cookie",
+          "qty": 1
+        }
+      ],
+      "output": {
+        "itemId": "strawberry_sunset_ice_cream_sandwich",
+        "qty": 1
+      },
+      "minutes": 1200,
+      "module": "confectioner",
+      "moduleZh": "糖果师",
+      "mode": "advanced",
+      "modeZh": "高级",
+      "subcategory": "Ice Cream Sandwiches",
+      "subcategoryZh": "冰淇淋三明治",
+      "source": "Wildflour wiki pasted English table",
+      "description": "Strawberry Sunset Ice Cream sandwiched between two cookies for a fun frozen treat.",
+      "descriptionZh": "",
+      "energy": 138,
+      "health": 62
+    },
+    {
+      "id": "confectioner_advanced_blast_chiller_unicorn_ice_cream_sandwich",
+      "name": "Unicorn Ice Cream Sandwich",
+      "nameEn": "Unicorn Ice Cream Sandwich",
+      "machineId": "blast_chiller",
+      "inputs": [
+        {
+          "itemId": "cookie",
+          "qty": 1
+        }
+      ],
+      "output": {
+        "itemId": "unicorn_ice_cream_sandwich",
+        "qty": 1
+      },
+      "minutes": 1200,
+      "module": "confectioner",
+      "moduleZh": "糖果师",
+      "mode": "advanced",
+      "modeZh": "高级",
+      "subcategory": "Ice Cream Sandwiches",
+      "subcategoryZh": "冰淇淋三明治",
+      "source": "Wildflour wiki pasted English table",
+      "description": "Unicorn Ice Cream sandwiched between two cookies for a fun frozen treat.",
+      "descriptionZh": "",
+      "energy": 138,
+      "health": 62
+    },
+    {
+      "id": "confectioner_advanced_blast_chiller_very_vanilla_ice_cream_sandwich",
+      "name": "Very Vanilla Ice Cream Sandwich",
+      "nameEn": "Very Vanilla Ice Cream Sandwich",
+      "machineId": "blast_chiller",
+      "inputs": [
+        {
+          "itemId": "cookie",
+          "qty": 1
+        }
+      ],
+      "output": {
+        "itemId": "very_vanilla_ice_cream_sandwich",
+        "qty": 1
+      },
+      "minutes": 1200,
+      "module": "confectioner",
+      "moduleZh": "糖果师",
+      "mode": "advanced",
+      "modeZh": "高级",
+      "subcategory": "Ice Cream Sandwiches",
+      "subcategoryZh": "冰淇淋三明治",
+      "source": "Wildflour wiki pasted English table",
+      "description": "Very Vanilla Ice Cream sandwiched between two cookies for a fun frozen treat.",
+      "descriptionZh": "",
+      "energy": 138,
+      "health": 62
+    }
+  ]
+}
