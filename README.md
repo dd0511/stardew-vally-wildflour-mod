@@ -1,16 +1,10 @@
-# React + Vite
+# Wildflour 中文配方与加工链查询工具  
+# Wildflour Chinese Recipe & Production Chain Planner
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+这是一个面向《星露谷物语》Wildflour / Wildflour’s Atelier Goods 模组玩家的中文配方查询与加工链辅助工具。  
+This is a Chinese recipe lookup and production-chain planning tool for Stardew Valley players using the Wildflour / Wildflour’s Atelier Goods mod.
 
-Currently, two official plugins are available:
+## 在线访问 / Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+网站地址 / Website:https://stardew-vally-wildflour-mod.vercel.app/
 
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
