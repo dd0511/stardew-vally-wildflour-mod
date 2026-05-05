@@ -1,0 +1,629 @@
+{
+  "items": [
+    {
+      "id": "banana_split_gumballs",
+      "name": "Banana Split Gumballs",
+      "zh": "",
+      "category": "Confectioner Product",
+      "categoryZh": "糖果师成品",
+      "subcategory": "Gumballs",
+      "subcategoryZh": "口香糖球",
+      "basePrice": 660,
+      "tags": [
+        "confectioner",
+        "advanced",
+        "candy_jar",
+        "gumballs",
+        "gumball",
+        "crafted_output",
+        "product"
+      ],
+      "description": "Bubblegum candy in a hard candy shell, flavored with strawberry and banana.",
+      "descriptionZh": "",
+      "energy": 65,
+      "health": 29
+    },
+    {
+      "id": "banana",
+      "name": "Banana",
+      "zh": "",
+      "category": "Ingredient",
+      "categoryZh": "原料",
+      "basePrice": 0,
+      "tags": [
+        "ingredient",
+        "basic_material",
+        "used_as_input",
+        "fruit"
+      ]
+    },
+    {
+      "id": "blue_razzberry_gumballs",
+      "name": "Blue Razzberry Gumballs",
+      "zh": "",
+      "category": "Confectioner Product",
+      "categoryZh": "糖果师成品",
+      "subcategory": "Gumballs",
+      "subcategoryZh": "口香糖球",
+      "basePrice": 232,
+      "tags": [
+        "confectioner",
+        "advanced",
+        "candy_jar",
+        "gumballs",
+        "gumball",
+        "crafted_output",
+        "product"
+      ],
+      "description": "Bubblegum candy in a hard candy shell, flavored with blueberry and raspberry.",
+      "descriptionZh": "",
+      "energy": 65,
+      "health": 29
+    },
+    {
+      "id": "wild_raspberry",
+      "name": "Wild Raspberry",
+      "zh": "",
+      "category": "Ingredient",
+      "categoryZh": "原料",
+      "basePrice": 0,
+      "tags": [
+        "ingredient",
+        "basic_material",
+        "used_as_input",
+        "fruit"
+      ]
+    },
+    {
+      "id": "cotton_candy_gumballs",
+      "name": "Cotton Candy Gumballs",
+      "zh": "",
+      "category": "Confectioner Product",
+      "categoryZh": "糖果师成品",
+      "subcategory": "Gumballs",
+      "subcategoryZh": "口香糖球",
+      "basePrice": 390,
+      "tags": [
+        "confectioner",
+        "advanced",
+        "candy_jar",
+        "gumballs",
+        "gumball",
+        "crafted_output",
+        "product"
+      ],
+      "description": "Bubblegum candy in a hard candy shell, flavored with grape and sugar.",
+      "descriptionZh": "",
+      "energy": 65,
+      "health": 29
+    },
+    {
+      "id": "sugar",
+      "name": "Sugar",
+      "zh": "",
+      "category": "Ingredient",
+      "categoryZh": "原料",
+      "basePrice": 0,
+      "tags": [
+        "ingredient",
+        "basic_material",
+        "used_as_input",
+        "sweetener"
+      ]
+    },
+    {
+      "id": "melonade_gumballs",
+      "name": "Melonade Gumballs",
+      "zh": "",
+      "category": "Confectioner Product",
+      "categoryZh": "糖果师成品",
+      "subcategory": "Gumballs",
+      "subcategoryZh": "口香糖球",
+      "basePrice": 1117,
+      "tags": [
+        "confectioner",
+        "advanced",
+        "candy_jar",
+        "gumballs",
+        "gumball",
+        "crafted_output",
+        "product"
+      ],
+      "description": "Bubblegum candy in a hard candy shell, flavored with melon and lemon.",
+      "descriptionZh": "",
+      "energy": 65,
+      "health": 29
+    },
+    {
+      "id": "petite_lemon",
+      "name": "Petite Lemon",
+      "zh": "",
+      "category": "Ingredient",
+      "categoryZh": "原料",
+      "basePrice": 0,
+      "tags": [
+        "ingredient",
+        "basic_material",
+        "used_as_input",
+        "fruit"
+      ]
+    },
+    {
+      "id": "minty_fresh_gumballs",
+      "name": "Minty Fresh Gumballs",
+      "zh": "",
+      "category": "Confectioner Product",
+      "categoryZh": "糖果师成品",
+      "subcategory": "Gumballs",
+      "subcategoryZh": "口香糖球",
+      "basePrice": 203,
+      "tags": [
+        "confectioner",
+        "advanced",
+        "candy_jar",
+        "gumballs",
+        "gumball",
+        "crafted_output",
+        "product"
+      ],
+      "description": "Bubblegum candy in a hard candy shell, flavored with mint and vanilla.",
+      "descriptionZh": "",
+      "energy": 65,
+      "health": 29
+    },
+    {
+      "id": "pelican_mint",
+      "name": "Pelican Mint",
+      "zh": "",
+      "category": "Ingredient",
+      "categoryZh": "原料",
+      "basePrice": 0,
+      "tags": [
+        "ingredient",
+        "basic_material",
+        "used_as_input",
+        "spice_or_herb"
+      ]
+    },
+    {
+      "id": "calico_vanilla",
+      "name": "Calico Vanilla",
+      "zh": "",
+      "category": "Ingredient",
+      "categoryZh": "原料",
+      "basePrice": 0,
+      "tags": [
+        "ingredient",
+        "basic_material",
+        "used_as_input",
+        "spice_or_herb"
+      ]
+    },
+    {
+      "id": "pina_colada_gumballs",
+      "name": "Pina Colada Gumballs",
+      "zh": "",
+      "category": "Confectioner Product",
+      "categoryZh": "糖果师成品",
+      "subcategory": "Gumballs",
+      "subcategoryZh": "口香糖球",
+      "basePrice": 1375,
+      "tags": [
+        "confectioner",
+        "advanced",
+        "candy_jar",
+        "gumballs",
+        "gumball",
+        "crafted_output",
+        "product"
+      ],
+      "description": "Bubblegum candy in a hard candy shell, flavored with pineapple and coconut.",
+      "descriptionZh": "",
+      "energy": 65,
+      "health": 29
+    },
+    {
+      "id": "coconut",
+      "name": "Coconut",
+      "zh": "",
+      "category": "Ingredient",
+      "categoryZh": "原料",
+      "basePrice": 0,
+      "tags": [
+        "ingredient",
+        "basic_material",
+        "used_as_input",
+        "fruit",
+        "nut"
+      ]
+    },
+    {
+      "id": "rainbow_gumballs",
+      "name": "Rainbow Gumballs",
+      "zh": "",
+      "category": "Confectioner Product",
+      "categoryZh": "糖果师成品",
+      "subcategory": "Gumballs",
+      "subcategoryZh": "口香糖球",
+      "basePrice": 475,
+      "tags": [
+        "confectioner",
+        "advanced",
+        "candy_jar",
+        "gumballs",
+        "gumball",
+        "crafted_output",
+        "product"
+      ],
+      "description": "Bubblegum candy in a hard candy shell, flavored with rainbow sprinkles and sugar.",
+      "descriptionZh": "",
+      "energy": 65,
+      "health": 29
+    },
+    {
+      "id": "sour_blast_gumballs",
+      "name": "Sour Blast Gumballs",
+      "zh": "",
+      "category": "Confectioner Product",
+      "categoryZh": "糖果师成品",
+      "subcategory": "Gumballs",
+      "subcategoryZh": "口香糖球",
+      "basePrice": 395,
+      "tags": [
+        "confectioner",
+        "advanced",
+        "candy_jar",
+        "gumballs",
+        "gumball",
+        "crafted_output",
+        "product"
+      ],
+      "description": "Bubblegum candy in a hard candy shell, flavored with cherry and lime.",
+      "descriptionZh": "",
+      "energy": 65,
+      "health": 29
+    },
+    {
+      "id": "petite_lime",
+      "name": "Petite Lime",
+      "zh": "",
+      "category": "Ingredient",
+      "categoryZh": "原料",
+      "basePrice": 0,
+      "tags": [
+        "ingredient",
+        "basic_material",
+        "used_as_input",
+        "fruit"
+      ]
+    },
+    {
+      "id": "spicy_cinnamon_gumballs",
+      "name": "Spicy Cinnamon Gumballs",
+      "zh": "",
+      "category": "Confectioner Product",
+      "categoryZh": "糖果师成品",
+      "subcategory": "Gumballs",
+      "subcategoryZh": "口香糖球",
+      "basePrice": 611,
+      "tags": [
+        "confectioner",
+        "advanced",
+        "candy_jar",
+        "gumballs",
+        "gumball",
+        "crafted_output",
+        "product"
+      ],
+      "description": "Bubblegum candy in a hard candy shell, flavored with cinnamon and spice berry.",
+      "descriptionZh": "",
+      "energy": 65,
+      "health": 29
+    },
+    {
+      "id": "cindersap_cinnamon",
+      "name": "Cindersap Cinnamon",
+      "zh": "",
+      "category": "Ingredient",
+      "categoryZh": "原料",
+      "basePrice": 0,
+      "tags": [
+        "ingredient",
+        "basic_material",
+        "used_as_input",
+        "spice_or_herb"
+      ]
+    },
+    {
+      "id": "spice_berry",
+      "name": "Spice Berry",
+      "zh": "",
+      "category": "Ingredient",
+      "categoryZh": "原料",
+      "basePrice": 0,
+      "tags": [
+        "ingredient",
+        "basic_material",
+        "used_as_input"
+      ]
+    }
+  ],
+  "machines": [
+    {
+      "id": "candy_jar",
+      "name": "Candy Jar",
+      "zh": "糖果罐",
+      "defaultMinutes": 620,
+      "module": "confectioner",
+      "moduleZh": "糖果师",
+      "tags": [
+        "confectioner",
+        "candy_jar",
+        "gumball",
+        "gumballs"
+      ]
+    }
+  ],
+  "recipes": [
+    {
+      "id": "confectioner_advanced_candy_jar_banana_split_gumballs",
+      "name": "Banana Split Gumballs",
+      "nameEn": "Banana Split Gumballs",
+      "machineId": "candy_jar",
+      "inputs": [
+        {
+          "itemId": "banana",
+          "qty": 1
+        }
+      ],
+      "output": {
+        "itemId": "banana_split_gumballs",
+        "qty": 1
+      },
+      "minutes": 620,
+      "module": "confectioner",
+      "moduleZh": "糖果师",
+      "mode": "advanced",
+      "modeZh": "高级",
+      "subcategory": "Gumballs",
+      "subcategoryZh": "口香糖球",
+      "source": "Wildflour wiki pasted English table",
+      "description": "Bubblegum candy in a hard candy shell, flavored with strawberry and banana.",
+      "descriptionZh": "",
+      "energy": 65,
+      "health": 29
+    },
+    {
+      "id": "confectioner_advanced_candy_jar_blue_razzberry_gumballs",
+      "name": "Blue Razzberry Gumballs",
+      "nameEn": "Blue Razzberry Gumballs",
+      "machineId": "candy_jar",
+      "inputs": [
+        {
+          "itemId": "wild_raspberry",
+          "qty": 1
+        }
+      ],
+      "output": {
+        "itemId": "blue_razzberry_gumballs",
+        "qty": 1
+      },
+      "minutes": 620,
+      "module": "confectioner",
+      "moduleZh": "糖果师",
+      "mode": "advanced",
+      "modeZh": "高级",
+      "subcategory": "Gumballs",
+      "subcategoryZh": "口香糖球",
+      "source": "Wildflour wiki pasted English table",
+      "description": "Bubblegum candy in a hard candy shell, flavored with blueberry and raspberry.",
+      "descriptionZh": "",
+      "energy": 65,
+      "health": 29
+    },
+    {
+      "id": "confectioner_advanced_candy_jar_cotton_candy_gumballs",
+      "name": "Cotton Candy Gumballs",
+      "nameEn": "Cotton Candy Gumballs",
+      "machineId": "candy_jar",
+      "inputs": [
+        {
+          "itemId": "sugar",
+          "qty": 1
+        }
+      ],
+      "output": {
+        "itemId": "cotton_candy_gumballs",
+        "qty": 1
+      },
+      "minutes": 620,
+      "module": "confectioner",
+      "moduleZh": "糖果师",
+      "mode": "advanced",
+      "modeZh": "高级",
+      "subcategory": "Gumballs",
+      "subcategoryZh": "口香糖球",
+      "source": "Wildflour wiki pasted English table",
+      "description": "Bubblegum candy in a hard candy shell, flavored with grape and sugar.",
+      "descriptionZh": "",
+      "energy": 65,
+      "health": 29
+    },
+    {
+      "id": "confectioner_advanced_candy_jar_melonade_gumballs",
+      "name": "Melonade Gumballs",
+      "nameEn": "Melonade Gumballs",
+      "machineId": "candy_jar",
+      "inputs": [
+        {
+          "itemId": "petite_lemon",
+          "qty": 1
+        }
+      ],
+      "output": {
+        "itemId": "melonade_gumballs",
+        "qty": 1
+      },
+      "minutes": 620,
+      "module": "confectioner",
+      "moduleZh": "糖果师",
+      "mode": "advanced",
+      "modeZh": "高级",
+      "subcategory": "Gumballs",
+      "subcategoryZh": "口香糖球",
+      "source": "Wildflour wiki pasted English table",
+      "description": "Bubblegum candy in a hard candy shell, flavored with melon and lemon.",
+      "descriptionZh": "",
+      "energy": 65,
+      "health": 29
+    },
+    {
+      "id": "confectioner_advanced_candy_jar_minty_fresh_gumballs",
+      "name": "Minty Fresh Gumballs",
+      "nameEn": "Minty Fresh Gumballs",
+      "machineId": "candy_jar",
+      "inputs": [
+        {
+          "itemId": "pelican_mint",
+          "qty": 1
+        },
+        {
+          "itemId": "calico_vanilla",
+          "qty": 1
+        }
+      ],
+      "output": {
+        "itemId": "minty_fresh_gumballs",
+        "qty": 1
+      },
+      "minutes": 620,
+      "module": "confectioner",
+      "moduleZh": "糖果师",
+      "mode": "advanced",
+      "modeZh": "高级",
+      "subcategory": "Gumballs",
+      "subcategoryZh": "口香糖球",
+      "source": "Wildflour wiki pasted English table",
+      "description": "Bubblegum candy in a hard candy shell, flavored with mint and vanilla.",
+      "descriptionZh": "",
+      "energy": 65,
+      "health": 29
+    },
+    {
+      "id": "confectioner_advanced_candy_jar_pina_colada_gumballs",
+      "name": "Pina Colada Gumballs",
+      "nameEn": "Pina Colada Gumballs",
+      "machineId": "candy_jar",
+      "inputs": [
+        {
+          "itemId": "coconut",
+          "qty": 1
+        }
+      ],
+      "output": {
+        "itemId": "pina_colada_gumballs",
+        "qty": 1
+      },
+      "minutes": 620,
+      "module": "confectioner",
+      "moduleZh": "糖果师",
+      "mode": "advanced",
+      "modeZh": "高级",
+      "subcategory": "Gumballs",
+      "subcategoryZh": "口香糖球",
+      "source": "Wildflour wiki pasted English table",
+      "description": "Bubblegum candy in a hard candy shell, flavored with pineapple and coconut.",
+      "descriptionZh": "",
+      "energy": 65,
+      "health": 29
+    },
+    {
+      "id": "confectioner_advanced_candy_jar_rainbow_gumballs",
+      "name": "Rainbow Gumballs",
+      "nameEn": "Rainbow Gumballs",
+      "machineId": "candy_jar",
+      "inputs": [
+        {
+          "itemId": "sugar",
+          "qty": 1
+        }
+      ],
+      "output": {
+        "itemId": "rainbow_gumballs",
+        "qty": 1
+      },
+      "minutes": 620,
+      "module": "confectioner",
+      "moduleZh": "糖果师",
+      "mode": "advanced",
+      "modeZh": "高级",
+      "subcategory": "Gumballs",
+      "subcategoryZh": "口香糖球",
+      "source": "Wildflour wiki pasted English table",
+      "description": "Bubblegum candy in a hard candy shell, flavored with rainbow sprinkles and sugar.",
+      "descriptionZh": "",
+      "energy": 65,
+      "health": 29
+    },
+    {
+      "id": "confectioner_advanced_candy_jar_sour_blast_gumballs",
+      "name": "Sour Blast Gumballs",
+      "nameEn": "Sour Blast Gumballs",
+      "machineId": "candy_jar",
+      "inputs": [
+        {
+          "itemId": "petite_lime",
+          "qty": 1
+        }
+      ],
+      "output": {
+        "itemId": "sour_blast_gumballs",
+        "qty": 1
+      },
+      "minutes": 620,
+      "module": "confectioner",
+      "moduleZh": "糖果师",
+      "mode": "advanced",
+      "modeZh": "高级",
+      "subcategory": "Gumballs",
+      "subcategoryZh": "口香糖球",
+      "source": "Wildflour wiki pasted English table",
+      "description": "Bubblegum candy in a hard candy shell, flavored with cherry and lime.",
+      "descriptionZh": "",
+      "energy": 65,
+      "health": 29
+    },
+    {
+      "id": "confectioner_advanced_candy_jar_spicy_cinnamon_gumballs",
+      "name": "Spicy Cinnamon Gumballs",
+      "nameEn": "Spicy Cinnamon Gumballs",
+      "machineId": "candy_jar",
+      "inputs": [
+        {
+          "itemId": "cindersap_cinnamon",
+          "qty": 1
+        },
+        {
+          "itemId": "spice_berry",
+          "qty": 1
+        }
+      ],
+      "output": {
+        "itemId": "spicy_cinnamon_gumballs",
+        "qty": 1
+      },
+      "minutes": 620,
+      "module": "confectioner",
+      "moduleZh": "糖果师",
+      "mode": "advanced",
+      "modeZh": "高级",
+      "subcategory": "Gumballs",
+      "subcategoryZh": "口香糖球",
+      "source": "Wildflour wiki pasted English table",
+      "description": "Bubblegum candy in a hard candy shell, flavored with cinnamon and spice berry.",
+      "descriptionZh": "",
+      "energy": 65,
+      "health": 29
+    }
+  ]
+}

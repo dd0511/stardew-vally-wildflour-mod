@@ -1,0 +1,269 @@
+{
+  "items": [
+    {
+      "id": "chocolate_apple",
+      "name": "Chocolate Apple",
+      "zh": "",
+      "category": "Confectioner Product",
+      "categoryZh": "糖果师成品",
+      "subcategory": "Chocolate Dipped Treats",
+      "subcategoryZh": "巧克力蘸点心",
+      "basePrice": 650,
+      "tags": [
+        "confectioner",
+        "advanced",
+        "chocolatier_barrel",
+        "chocolate_dipped_treats",
+        "chocolate_dipped_treat",
+        "crafted_output",
+        "product"
+      ],
+      "description": "A freshly-picked apple dipped in a rich chocolate coating and served on a stick.",
+      "descriptionZh": "",
+      "energy": 65,
+      "health": 29
+    },
+    {
+      "id": "milk_chocolate",
+      "name": "Milk Chocolate",
+      "zh": "",
+      "category": "Ingredient",
+      "categoryZh": "原料",
+      "basePrice": 0,
+      "tags": [
+        "ingredient",
+        "basic_material",
+        "used_as_input",
+        "dairy",
+        "cacao"
+      ]
+    },
+    {
+      "id": "chocolate_covered_marshmallows",
+      "name": "Chocolate Covered Marshmallows",
+      "zh": "",
+      "category": "Confectioner Product",
+      "categoryZh": "糖果师成品",
+      "subcategory": "Chocolate Dipped Treats",
+      "subcategoryZh": "巧克力蘸点心",
+      "basePrice": 2371,
+      "tags": [
+        "confectioner",
+        "advanced",
+        "chocolatier_barrel",
+        "chocolate_dipped_treats",
+        "chocolate_dipped_treat",
+        "crafted_output",
+        "product"
+      ],
+      "description": "Marshmallows dipped in milk chocolate.",
+      "descriptionZh": "",
+      "energy": 65,
+      "health": 29
+    },
+    {
+      "id": "chocolate_covered_strawberries",
+      "name": "Chocolate Covered Strawberries",
+      "zh": "",
+      "category": "Confectioner Product",
+      "categoryZh": "糖果师成品",
+      "subcategory": "Chocolate Dipped Treats",
+      "subcategoryZh": "巧克力蘸点心",
+      "basePrice": 760,
+      "tags": [
+        "confectioner",
+        "advanced",
+        "chocolatier_barrel",
+        "chocolate_dipped_treats",
+        "chocolate_dipped_treat",
+        "crafted_output",
+        "product"
+      ],
+      "description": "Fresh strawberries dipped in dark chocolate.",
+      "descriptionZh": "",
+      "energy": 65,
+      "health": 29
+    },
+    {
+      "id": "dark_chocolate",
+      "name": "Dark Chocolate",
+      "zh": "",
+      "category": "Ingredient",
+      "categoryZh": "原料",
+      "basePrice": 0,
+      "tags": [
+        "ingredient",
+        "basic_material",
+        "used_as_input",
+        "cacao"
+      ]
+    },
+    {
+      "id": "s_mores",
+      "name": "S'mores",
+      "zh": "",
+      "category": "Confectioner Product",
+      "categoryZh": "糖果师成品",
+      "subcategory": "Chocolate Dipped Treats",
+      "subcategoryZh": "巧克力蘸点心",
+      "basePrice": 237,
+      "tags": [
+        "confectioner",
+        "advanced",
+        "chocolatier_barrel",
+        "chocolate_dipped_treats",
+        "chocolate_dipped_treat",
+        "crafted_output",
+        "product"
+      ],
+      "description": "Marshmallows sandwiched between chocolate and graham crackers.",
+      "descriptionZh": "",
+      "energy": 65,
+      "health": 29
+    },
+    {
+      "id": "brown_sugar",
+      "name": "Brown Sugar",
+      "zh": "",
+      "category": "Ingredient",
+      "categoryZh": "原料",
+      "basePrice": 0,
+      "tags": [
+        "ingredient",
+        "basic_material",
+        "used_as_input",
+        "sweetener"
+      ]
+    }
+  ],
+  "machines": [
+    {
+      "id": "chocolatier_barrel",
+      "name": "Chocolatier Barrel",
+      "zh": "巧克力师桶",
+      "defaultMinutes": 1000,
+      "module": "confectioner",
+      "moduleZh": "糖果师",
+      "tags": [
+        "confectioner",
+        "chocolatier_barrel",
+        "chocolate_dipped_treat",
+        "chocolate_dipped_treats"
+      ]
+    }
+  ],
+  "recipes": [
+    {
+      "id": "confectioner_advanced_chocolatier_barrel_chocolate_apple",
+      "name": "Chocolate Apple",
+      "nameEn": "Chocolate Apple",
+      "machineId": "chocolatier_barrel",
+      "inputs": [
+        {
+          "itemId": "milk_chocolate",
+          "qty": 1
+        }
+      ],
+      "output": {
+        "itemId": "chocolate_apple",
+        "qty": 1
+      },
+      "minutes": 1000,
+      "module": "confectioner",
+      "moduleZh": "糖果师",
+      "mode": "advanced",
+      "modeZh": "高级",
+      "subcategory": "Chocolate Dipped Treats",
+      "subcategoryZh": "巧克力蘸点心",
+      "source": "Wildflour wiki pasted English table",
+      "description": "A freshly-picked apple dipped in a rich chocolate coating and served on a stick.",
+      "descriptionZh": "",
+      "energy": 65,
+      "health": 29
+    },
+    {
+      "id": "confectioner_advanced_chocolatier_barrel_chocolate_covered_marshmallows",
+      "name": "Chocolate Covered Marshmallows",
+      "nameEn": "Chocolate Covered Marshmallows",
+      "machineId": "chocolatier_barrel",
+      "inputs": [
+        {
+          "itemId": "milk_chocolate",
+          "qty": 1
+        }
+      ],
+      "output": {
+        "itemId": "chocolate_covered_marshmallows",
+        "qty": 1
+      },
+      "minutes": 1000,
+      "module": "confectioner",
+      "moduleZh": "糖果师",
+      "mode": "advanced",
+      "modeZh": "高级",
+      "subcategory": "Chocolate Dipped Treats",
+      "subcategoryZh": "巧克力蘸点心",
+      "source": "Wildflour wiki pasted English table",
+      "description": "Marshmallows dipped in milk chocolate.",
+      "descriptionZh": "",
+      "energy": 65,
+      "health": 29
+    },
+    {
+      "id": "confectioner_advanced_chocolatier_barrel_chocolate_covered_strawberries",
+      "name": "Chocolate Covered Strawberries",
+      "nameEn": "Chocolate Covered Strawberries",
+      "machineId": "chocolatier_barrel",
+      "inputs": [
+        {
+          "itemId": "dark_chocolate",
+          "qty": 1
+        }
+      ],
+      "output": {
+        "itemId": "chocolate_covered_strawberries",
+        "qty": 1
+      },
+      "minutes": 1000,
+      "module": "confectioner",
+      "moduleZh": "糖果师",
+      "mode": "advanced",
+      "modeZh": "高级",
+      "subcategory": "Chocolate Dipped Treats",
+      "subcategoryZh": "巧克力蘸点心",
+      "source": "Wildflour wiki pasted English table",
+      "description": "Fresh strawberries dipped in dark chocolate.",
+      "descriptionZh": "",
+      "energy": 65,
+      "health": 29
+    },
+    {
+      "id": "confectioner_advanced_chocolatier_barrel_s_mores",
+      "name": "S'mores",
+      "nameEn": "S'mores",
+      "machineId": "chocolatier_barrel",
+      "inputs": [
+        {
+          "itemId": "brown_sugar",
+          "qty": 1
+        }
+      ],
+      "output": {
+        "itemId": "s_mores",
+        "qty": 1
+      },
+      "minutes": 1000,
+      "module": "confectioner",
+      "moduleZh": "糖果师",
+      "mode": "advanced",
+      "modeZh": "高级",
+      "subcategory": "Chocolate Dipped Treats",
+      "subcategoryZh": "巧克力蘸点心",
+      "source": "Wildflour wiki pasted English table",
+      "description": "Marshmallows sandwiched between chocolate and graham crackers.",
+      "descriptionZh": "",
+      "energy": 65,
+      "health": 29
+    }
+  ]
+}

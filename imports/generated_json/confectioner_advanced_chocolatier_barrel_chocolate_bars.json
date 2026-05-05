@@ -1,0 +1,458 @@
+{
+  "items": [
+    {
+      "id": "black_forest_chocolate_bar",
+      "name": "Black Forest Chocolate Bar",
+      "zh": "",
+      "category": "Confectioner Product",
+      "categoryZh": "糖果师成品",
+      "subcategory": "Chocolate Bars",
+      "subcategoryZh": "巧克力棒",
+      "basePrice": 620,
+      "tags": [
+        "confectioner",
+        "advanced",
+        "chocolatier_barrel",
+        "chocolate_bars",
+        "chocolate_bar",
+        "crafted_output",
+        "product"
+      ],
+      "description": "An artisan dark chocolate bar with cherry bits.",
+      "descriptionZh": "",
+      "energy": 65,
+      "health": 29
+    },
+    {
+      "id": "dark_chocolate",
+      "name": "Dark Chocolate",
+      "zh": "",
+      "category": "Ingredient",
+      "categoryZh": "原料",
+      "basePrice": 0,
+      "tags": [
+        "ingredient",
+        "basic_material",
+        "used_as_input",
+        "cacao"
+      ]
+    },
+    {
+      "id": "creme_brulee_chocolate_bar",
+      "name": "Creme Brulee Chocolate Bar",
+      "zh": "",
+      "category": "Confectioner Product",
+      "categoryZh": "糖果师成品",
+      "subcategory": "Chocolate Bars",
+      "subcategoryZh": "巧克力棒",
+      "basePrice": 750,
+      "tags": [
+        "confectioner",
+        "advanced",
+        "chocolatier_barrel",
+        "chocolate_bars",
+        "chocolate_bar",
+        "crafted_output",
+        "product"
+      ],
+      "description": "An artisan white chocolate bar with caramel bits.",
+      "descriptionZh": "",
+      "energy": 65,
+      "health": 29
+    },
+    {
+      "id": "white_chocolate",
+      "name": "White Chocolate",
+      "zh": "",
+      "category": "Ingredient",
+      "categoryZh": "原料",
+      "basePrice": 0,
+      "tags": [
+        "ingredient",
+        "basic_material",
+        "used_as_input",
+        "cacao"
+      ]
+    },
+    {
+      "id": "cupid_chocolate_bar",
+      "name": "Cupid Chocolate Bar",
+      "zh": "",
+      "category": "Confectioner Product",
+      "categoryZh": "糖果师成品",
+      "subcategory": "Chocolate Bars",
+      "subcategoryZh": "巧克力棒",
+      "basePrice": 132,
+      "tags": [
+        "confectioner",
+        "advanced",
+        "chocolatier_barrel",
+        "chocolate_bars",
+        "chocolate_bar",
+        "crafted_output",
+        "product"
+      ],
+      "description": "An artisan white chocolate bar with wild strawberry bits.",
+      "descriptionZh": "",
+      "energy": 65,
+      "health": 29
+    },
+    {
+      "id": "galaxy_chocolate_bar",
+      "name": "Galaxy Chocolate Bar",
+      "zh": "",
+      "category": "Confectioner Product",
+      "categoryZh": "糖果师成品",
+      "subcategory": "Chocolate Bars",
+      "subcategoryZh": "巧克力棒",
+      "basePrice": 600,
+      "tags": [
+        "confectioner",
+        "advanced",
+        "chocolatier_barrel",
+        "chocolate_bars",
+        "chocolate_bar",
+        "crafted_output",
+        "product"
+      ],
+      "description": "An artisan dark chocolate bar made with the flavor of a stardrop?",
+      "descriptionZh": "",
+      "energy": 65,
+      "health": 29
+    },
+    {
+      "id": "jazzy_chocolate_bar",
+      "name": "Jazzy Chocolate Bar",
+      "zh": "",
+      "category": "Confectioner Product",
+      "categoryZh": "糖果师成品",
+      "subcategory": "Chocolate Bars",
+      "subcategoryZh": "巧克力棒",
+      "basePrice": 426,
+      "tags": [
+        "confectioner",
+        "advanced",
+        "chocolatier_barrel",
+        "chocolate_bars",
+        "chocolate_bar",
+        "crafted_output",
+        "product"
+      ],
+      "description": "An artisan white chocolate bar with blue jazz bits.",
+      "descriptionZh": "",
+      "energy": 65,
+      "health": 29
+    },
+    {
+      "id": "razzle_dazzle_chocolate_bar",
+      "name": "Razzle Dazzle Chocolate Bar",
+      "zh": "",
+      "category": "Confectioner Product",
+      "categoryZh": "糖果师成品",
+      "subcategory": "Chocolate Bars",
+      "subcategoryZh": "巧克力棒",
+      "basePrice": 230,
+      "tags": [
+        "confectioner",
+        "advanced",
+        "chocolatier_barrel",
+        "chocolate_bars",
+        "chocolate_bar",
+        "crafted_output",
+        "product"
+      ],
+      "description": "An artisan milk chocolate bar with raspberry bits.",
+      "descriptionZh": "",
+      "energy": 65,
+      "health": 29
+    },
+    {
+      "id": "wild_raspberry",
+      "name": "Wild Raspberry",
+      "zh": "",
+      "category": "Ingredient",
+      "categoryZh": "原料",
+      "basePrice": 0,
+      "tags": [
+        "ingredient",
+        "basic_material",
+        "used_as_input",
+        "fruit"
+      ]
+    },
+    {
+      "id": "milk_chocolate",
+      "name": "Milk Chocolate",
+      "zh": "",
+      "category": "Ingredient",
+      "categoryZh": "原料",
+      "basePrice": 0,
+      "tags": [
+        "ingredient",
+        "basic_material",
+        "used_as_input",
+        "dairy",
+        "cacao"
+      ]
+    },
+    {
+      "id": "zesty_chocolate_bar",
+      "name": "Zesty Chocolate Bar",
+      "zh": "",
+      "category": "Confectioner Product",
+      "categoryZh": "糖果师成品",
+      "subcategory": "Chocolate Bars",
+      "subcategoryZh": "巧克力棒",
+      "basePrice": 457,
+      "tags": [
+        "confectioner",
+        "advanced",
+        "chocolatier_barrel",
+        "chocolate_bars",
+        "chocolate_bar",
+        "crafted_output",
+        "product"
+      ],
+      "description": "An artisan white chocolate bar with lemon bits.",
+      "descriptionZh": "",
+      "energy": 65,
+      "health": 29
+    },
+    {
+      "id": "petite_lemon",
+      "name": "Petite Lemon",
+      "zh": "",
+      "category": "Ingredient",
+      "categoryZh": "原料",
+      "basePrice": 0,
+      "tags": [
+        "ingredient",
+        "basic_material",
+        "used_as_input",
+        "fruit"
+      ]
+    }
+  ],
+  "machines": [
+    {
+      "id": "chocolatier_barrel",
+      "name": "Chocolatier Barrel",
+      "zh": "巧克力师桶",
+      "defaultMinutes": 1000,
+      "module": "confectioner",
+      "moduleZh": "糖果师",
+      "tags": [
+        "confectioner",
+        "chocolatier_barrel",
+        "chocolate_bar",
+        "chocolate_bars"
+      ]
+    }
+  ],
+  "recipes": [
+    {
+      "id": "confectioner_advanced_chocolatier_barrel_black_forest_chocolate_bar",
+      "name": "Black Forest Chocolate Bar",
+      "nameEn": "Black Forest Chocolate Bar",
+      "machineId": "chocolatier_barrel",
+      "inputs": [
+        {
+          "itemId": "dark_chocolate",
+          "qty": 1
+        }
+      ],
+      "output": {
+        "itemId": "black_forest_chocolate_bar",
+        "qty": 1
+      },
+      "minutes": 1000,
+      "module": "confectioner",
+      "moduleZh": "糖果师",
+      "mode": "advanced",
+      "modeZh": "高级",
+      "subcategory": "Chocolate Bars",
+      "subcategoryZh": "巧克力棒",
+      "source": "Wildflour wiki pasted English table",
+      "description": "An artisan dark chocolate bar with cherry bits.",
+      "descriptionZh": "",
+      "energy": 65,
+      "health": 29
+    },
+    {
+      "id": "confectioner_advanced_chocolatier_barrel_creme_brulee_chocolate_bar",
+      "name": "Creme Brulee Chocolate Bar",
+      "nameEn": "Creme Brulee Chocolate Bar",
+      "machineId": "chocolatier_barrel",
+      "inputs": [
+        {
+          "itemId": "white_chocolate",
+          "qty": 1
+        }
+      ],
+      "output": {
+        "itemId": "creme_brulee_chocolate_bar",
+        "qty": 1
+      },
+      "minutes": 1000,
+      "module": "confectioner",
+      "moduleZh": "糖果师",
+      "mode": "advanced",
+      "modeZh": "高级",
+      "subcategory": "Chocolate Bars",
+      "subcategoryZh": "巧克力棒",
+      "source": "Wildflour wiki pasted English table",
+      "description": "An artisan white chocolate bar with caramel bits.",
+      "descriptionZh": "",
+      "energy": 65,
+      "health": 29
+    },
+    {
+      "id": "confectioner_advanced_chocolatier_barrel_cupid_chocolate_bar",
+      "name": "Cupid Chocolate Bar",
+      "nameEn": "Cupid Chocolate Bar",
+      "machineId": "chocolatier_barrel",
+      "inputs": [
+        {
+          "itemId": "white_chocolate",
+          "qty": 1
+        }
+      ],
+      "output": {
+        "itemId": "cupid_chocolate_bar",
+        "qty": 1
+      },
+      "minutes": 1000,
+      "module": "confectioner",
+      "moduleZh": "糖果师",
+      "mode": "advanced",
+      "modeZh": "高级",
+      "subcategory": "Chocolate Bars",
+      "subcategoryZh": "巧克力棒",
+      "source": "Wildflour wiki pasted English table",
+      "description": "An artisan white chocolate bar with wild strawberry bits.",
+      "descriptionZh": "",
+      "energy": 65,
+      "health": 29
+    },
+    {
+      "id": "confectioner_advanced_chocolatier_barrel_galaxy_chocolate_bar",
+      "name": "Galaxy Chocolate Bar",
+      "nameEn": "Galaxy Chocolate Bar",
+      "machineId": "chocolatier_barrel",
+      "inputs": [
+        {
+          "itemId": "dark_chocolate",
+          "qty": 1
+        }
+      ],
+      "output": {
+        "itemId": "galaxy_chocolate_bar",
+        "qty": 1
+      },
+      "minutes": 1000,
+      "module": "confectioner",
+      "moduleZh": "糖果师",
+      "mode": "advanced",
+      "modeZh": "高级",
+      "subcategory": "Chocolate Bars",
+      "subcategoryZh": "巧克力棒",
+      "source": "Wildflour wiki pasted English table",
+      "description": "An artisan dark chocolate bar made with the flavor of a stardrop?",
+      "descriptionZh": "",
+      "energy": 65,
+      "health": 29
+    },
+    {
+      "id": "confectioner_advanced_chocolatier_barrel_jazzy_chocolate_bar",
+      "name": "Jazzy Chocolate Bar",
+      "nameEn": "Jazzy Chocolate Bar",
+      "machineId": "chocolatier_barrel",
+      "inputs": [
+        {
+          "itemId": "white_chocolate",
+          "qty": 1
+        }
+      ],
+      "output": {
+        "itemId": "jazzy_chocolate_bar",
+        "qty": 1
+      },
+      "minutes": 1000,
+      "module": "confectioner",
+      "moduleZh": "糖果师",
+      "mode": "advanced",
+      "modeZh": "高级",
+      "subcategory": "Chocolate Bars",
+      "subcategoryZh": "巧克力棒",
+      "source": "Wildflour wiki pasted English table",
+      "description": "An artisan white chocolate bar with blue jazz bits.",
+      "descriptionZh": "",
+      "energy": 65,
+      "health": 29
+    },
+    {
+      "id": "confectioner_advanced_chocolatier_barrel_razzle_dazzle_chocolate_bar",
+      "name": "Razzle Dazzle Chocolate Bar",
+      "nameEn": "Razzle Dazzle Chocolate Bar",
+      "machineId": "chocolatier_barrel",
+      "inputs": [
+        {
+          "itemId": "wild_raspberry",
+          "qty": 1
+        },
+        {
+          "itemId": "milk_chocolate",
+          "qty": 1
+        }
+      ],
+      "output": {
+        "itemId": "razzle_dazzle_chocolate_bar",
+        "qty": 1
+      },
+      "minutes": 1000,
+      "module": "confectioner",
+      "moduleZh": "糖果师",
+      "mode": "advanced",
+      "modeZh": "高级",
+      "subcategory": "Chocolate Bars",
+      "subcategoryZh": "巧克力棒",
+      "source": "Wildflour wiki pasted English table",
+      "description": "An artisan milk chocolate bar with raspberry bits.",
+      "descriptionZh": "",
+      "energy": 65,
+      "health": 29
+    },
+    {
+      "id": "confectioner_advanced_chocolatier_barrel_zesty_chocolate_bar",
+      "name": "Zesty Chocolate Bar",
+      "nameEn": "Zesty Chocolate Bar",
+      "machineId": "chocolatier_barrel",
+      "inputs": [
+        {
+          "itemId": "petite_lemon",
+          "qty": 1
+        },
+        {
+          "itemId": "white_chocolate",
+          "qty": 1
+        }
+      ],
+      "output": {
+        "itemId": "zesty_chocolate_bar",
+        "qty": 1
+      },
+      "minutes": 1000,
+      "module": "confectioner",
+      "moduleZh": "糖果师",
+      "mode": "advanced",
+      "modeZh": "高级",
+      "subcategory": "Chocolate Bars",
+      "subcategoryZh": "巧克力棒",
+      "source": "Wildflour wiki pasted English table",
+      "description": "An artisan white chocolate bar with lemon bits.",
+      "descriptionZh": "",
+      "energy": 65,
+      "health": 29
+    }
+  ]
+}

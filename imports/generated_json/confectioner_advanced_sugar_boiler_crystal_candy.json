@@ -1,0 +1,335 @@
+{
+  "items": [
+    {
+      "id": "amethyst_peaks_crystal_candy",
+      "name": "Amethyst Peaks Crystal Candy",
+      "zh": "",
+      "category": "Confectioner Product",
+      "categoryZh": "糖果师成品",
+      "subcategory": "Crystal Candy",
+      "subcategoryZh": "水晶糖",
+      "basePrice": 350,
+      "tags": [
+        "confectioner",
+        "advanced",
+        "sugar_boiler",
+        "crystal_candy",
+        "crafted_output",
+        "product"
+      ],
+      "description": "Bright purple rock candy.",
+      "descriptionZh": "",
+      "energy": 65,
+      "health": 29
+    },
+    {
+      "id": "sugar",
+      "name": "Sugar",
+      "zh": "",
+      "category": "Ingredient",
+      "categoryZh": "原料",
+      "basePrice": 0,
+      "tags": [
+        "ingredient",
+        "basic_material",
+        "used_as_input",
+        "sweetener"
+      ]
+    },
+    {
+      "id": "aquamarine_seas_crystal_candy",
+      "name": "Aquamarine Seas Crystal Candy",
+      "zh": "",
+      "category": "Confectioner Product",
+      "categoryZh": "糖果师成品",
+      "subcategory": "Crystal Candy",
+      "subcategoryZh": "水晶糖",
+      "basePrice": 590,
+      "tags": [
+        "confectioner",
+        "advanced",
+        "sugar_boiler",
+        "crystal_candy",
+        "crafted_output",
+        "product"
+      ],
+      "description": "Bright blue rock candy.",
+      "descriptionZh": "",
+      "energy": 65,
+      "health": 29
+    },
+    {
+      "id": "emerald_valley_crystal_candy",
+      "name": "Emerald Valley Crystal Candy",
+      "zh": "",
+      "category": "Confectioner Product",
+      "categoryZh": "糖果师成品",
+      "subcategory": "Crystal Candy",
+      "subcategoryZh": "水晶糖",
+      "basePrice": 350,
+      "tags": [
+        "confectioner",
+        "advanced",
+        "sugar_boiler",
+        "crystal_candy",
+        "crafted_output",
+        "product"
+      ],
+      "description": "Bright green rock candy.",
+      "descriptionZh": "",
+      "energy": 65,
+      "health": 29
+    },
+    {
+      "id": "ruby_sands_crystal_candy",
+      "name": "Ruby Sands Crystal Candy",
+      "zh": "",
+      "category": "Confectioner Product",
+      "categoryZh": "糖果师成品",
+      "subcategory": "Crystal Candy",
+      "subcategoryZh": "水晶糖",
+      "basePrice": 800,
+      "tags": [
+        "confectioner",
+        "advanced",
+        "sugar_boiler",
+        "crystal_candy",
+        "crafted_output",
+        "product"
+      ],
+      "description": "Bright red rock candy.",
+      "descriptionZh": "",
+      "energy": 65,
+      "health": 29
+    },
+    {
+      "id": "starry_skies_crystal_candy",
+      "name": "Starry Skies Crystal Candy",
+      "zh": "",
+      "category": "Confectioner Product",
+      "categoryZh": "糖果师成品",
+      "subcategory": "Crystal Candy",
+      "subcategoryZh": "水晶糖",
+      "basePrice": 1550,
+      "tags": [
+        "confectioner",
+        "advanced",
+        "sugar_boiler",
+        "crystal_candy",
+        "crafted_output",
+        "product"
+      ],
+      "description": "Bright pink rock candy.",
+      "descriptionZh": "",
+      "energy": 65,
+      "health": 29
+    },
+    {
+      "id": "topaz_shores_crystal_candy",
+      "name": "Topaz Shores Crystal Candy",
+      "zh": "",
+      "category": "Confectioner Product",
+      "categoryZh": "糖果师成品",
+      "subcategory": "Crystal Candy",
+      "subcategoryZh": "水晶糖",
+      "basePrice": 290,
+      "tags": [
+        "confectioner",
+        "advanced",
+        "sugar_boiler",
+        "crystal_candy",
+        "crafted_output",
+        "product"
+      ],
+      "description": "Bright yellow rock candy.",
+      "descriptionZh": "",
+      "energy": 65,
+      "health": 29
+    }
+  ],
+  "machines": [
+    {
+      "id": "sugar_boiler",
+      "name": "Sugar Boiler",
+      "zh": "煮糖锅",
+      "defaultMinutes": 480,
+      "module": "confectioner",
+      "moduleZh": "糖果师",
+      "tags": [
+        "confectioner",
+        "sugar_boiler",
+        "crystal_candy"
+      ]
+    }
+  ],
+  "recipes": [
+    {
+      "id": "confectioner_advanced_sugar_boiler_amethyst_peaks_crystal_candy",
+      "name": "Amethyst Peaks Crystal Candy",
+      "nameEn": "Amethyst Peaks Crystal Candy",
+      "machineId": "sugar_boiler",
+      "inputs": [
+        {
+          "itemId": "sugar",
+          "qty": 1
+        }
+      ],
+      "output": {
+        "itemId": "amethyst_peaks_crystal_candy",
+        "qty": 1
+      },
+      "minutes": 480,
+      "module": "confectioner",
+      "moduleZh": "糖果师",
+      "mode": "advanced",
+      "modeZh": "高级",
+      "subcategory": "Crystal Candy",
+      "subcategoryZh": "水晶糖",
+      "source": "Wildflour wiki pasted English table",
+      "description": "Bright purple rock candy.",
+      "descriptionZh": "",
+      "energy": 65,
+      "health": 29
+    },
+    {
+      "id": "confectioner_advanced_sugar_boiler_aquamarine_seas_crystal_candy",
+      "name": "Aquamarine Seas Crystal Candy",
+      "nameEn": "Aquamarine Seas Crystal Candy",
+      "machineId": "sugar_boiler",
+      "inputs": [
+        {
+          "itemId": "sugar",
+          "qty": 1
+        }
+      ],
+      "output": {
+        "itemId": "aquamarine_seas_crystal_candy",
+        "qty": 1
+      },
+      "minutes": 480,
+      "module": "confectioner",
+      "moduleZh": "糖果师",
+      "mode": "advanced",
+      "modeZh": "高级",
+      "subcategory": "Crystal Candy",
+      "subcategoryZh": "水晶糖",
+      "source": "Wildflour wiki pasted English table",
+      "description": "Bright blue rock candy.",
+      "descriptionZh": "",
+      "energy": 65,
+      "health": 29
+    },
+    {
+      "id": "confectioner_advanced_sugar_boiler_emerald_valley_crystal_candy",
+      "name": "Emerald Valley Crystal Candy",
+      "nameEn": "Emerald Valley Crystal Candy",
+      "machineId": "sugar_boiler",
+      "inputs": [
+        {
+          "itemId": "sugar",
+          "qty": 1
+        }
+      ],
+      "output": {
+        "itemId": "emerald_valley_crystal_candy",
+        "qty": 1
+      },
+      "minutes": 480,
+      "module": "confectioner",
+      "moduleZh": "糖果师",
+      "mode": "advanced",
+      "modeZh": "高级",
+      "subcategory": "Crystal Candy",
+      "subcategoryZh": "水晶糖",
+      "source": "Wildflour wiki pasted English table",
+      "description": "Bright green rock candy.",
+      "descriptionZh": "",
+      "energy": 65,
+      "health": 29
+    },
+    {
+      "id": "confectioner_advanced_sugar_boiler_ruby_sands_crystal_candy",
+      "name": "Ruby Sands Crystal Candy",
+      "nameEn": "Ruby Sands Crystal Candy",
+      "machineId": "sugar_boiler",
+      "inputs": [
+        {
+          "itemId": "sugar",
+          "qty": 1
+        }
+      ],
+      "output": {
+        "itemId": "ruby_sands_crystal_candy",
+        "qty": 1
+      },
+      "minutes": 480,
+      "module": "confectioner",
+      "moduleZh": "糖果师",
+      "mode": "advanced",
+      "modeZh": "高级",
+      "subcategory": "Crystal Candy",
+      "subcategoryZh": "水晶糖",
+      "source": "Wildflour wiki pasted English table",
+      "description": "Bright red rock candy.",
+      "descriptionZh": "",
+      "energy": 65,
+      "health": 29
+    },
+    {
+      "id": "confectioner_advanced_sugar_boiler_starry_skies_crystal_candy",
+      "name": "Starry Skies Crystal Candy",
+      "nameEn": "Starry Skies Crystal Candy",
+      "machineId": "sugar_boiler",
+      "inputs": [
+        {
+          "itemId": "sugar",
+          "qty": 1
+        }
+      ],
+      "output": {
+        "itemId": "starry_skies_crystal_candy",
+        "qty": 1
+      },
+      "minutes": 480,
+      "module": "confectioner",
+      "moduleZh": "糖果师",
+      "mode": "advanced",
+      "modeZh": "高级",
+      "subcategory": "Crystal Candy",
+      "subcategoryZh": "水晶糖",
+      "source": "Wildflour wiki pasted English table",
+      "description": "Bright pink rock candy.",
+      "descriptionZh": "",
+      "energy": 65,
+      "health": 29
+    },
+    {
+      "id": "confectioner_advanced_sugar_boiler_topaz_shores_crystal_candy",
+      "name": "Topaz Shores Crystal Candy",
+      "nameEn": "Topaz Shores Crystal Candy",
+      "machineId": "sugar_boiler",
+      "inputs": [
+        {
+          "itemId": "sugar",
+          "qty": 1
+        }
+      ],
+      "output": {
+        "itemId": "topaz_shores_crystal_candy",
+        "qty": 1
+      },
+      "minutes": 480,
+      "module": "confectioner",
+      "moduleZh": "糖果师",
+      "mode": "advanced",
+      "modeZh": "高级",
+      "subcategory": "Crystal Candy",
+      "subcategoryZh": "水晶糖",
+      "source": "Wildflour wiki pasted English table",
+      "description": "Bright yellow rock candy.",
+      "descriptionZh": "",
+      "energy": 65,
+      "health": 29
+    }
+  ]
+}

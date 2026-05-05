@@ -1,0 +1,85 @@
+{
+  "items": [
+    {
+      "id": "cream_cheese",
+      "name": "Cream Cheese",
+      "zh": "",
+      "category": "Gourmand Product",
+      "categoryZh": "美食家成品",
+      "subcategory": "Cream Cheese",
+      "subcategoryZh": "奶油奶酪",
+      "basePrice": 370,
+      "tags": [
+        "gourmand",
+        "advanced",
+        "cheese_press",
+        "cream_cheese",
+        "crafted_output",
+        "product"
+      ],
+      "description": "Cream cheese is perfect for cheesecake or just smearing on a bagel.",
+      "descriptionZh": "",
+      "energy": 50,
+      "health": 22
+    },
+    {
+      "id": "cream",
+      "name": "Cream",
+      "zh": "",
+      "category": "Ingredient",
+      "categoryZh": "原料",
+      "basePrice": 0,
+      "tags": [
+        "ingredient",
+        "basic_material",
+        "used_as_input",
+        "dairy"
+      ]
+    }
+  ],
+  "machines": [
+    {
+      "id": "cheese_press",
+      "name": "Cheese Press",
+      "zh": "奶酪压榨机",
+      "defaultMinutes": 240,
+      "module": "gourmand",
+      "moduleZh": "美食家",
+      "tags": [
+        "gourmand",
+        "cheese_press",
+        "cream_cheese"
+      ]
+    }
+  ],
+  "recipes": [
+    {
+      "id": "gourmand_advanced_cheese_press_cream_cheese",
+      "name": "Cream Cheese",
+      "nameEn": "Cream Cheese",
+      "machineId": "cheese_press",
+      "inputs": [
+        {
+          "itemId": "cream",
+          "qty": 1
+        }
+      ],
+      "output": {
+        "itemId": "cream_cheese",
+        "qty": 1
+      },
+      "minutes": 240,
+      "module": "gourmand",
+      "moduleZh": "美食家",
+      "mode": "advanced",
+      "modeZh": "高级",
+      "subcategory": "Cream Cheese",
+      "subcategoryZh": "奶油奶酪",
+      "source": "Wildflour wiki pasted English table",
+      "description": "Cream cheese is perfect for cheesecake or just smearing on a bagel.",
+      "descriptionZh": "",
+      "energy": 50,
+      "health": 22
+    }
+  ]
+}

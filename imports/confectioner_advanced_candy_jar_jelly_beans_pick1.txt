@@ -1,0 +1,73 @@
+Confectioner
+Candy Jar
+Jelly Beans Pick 1
+Image	Name	Description	Ingredients	Processing Time	Sell Price	Energy / Health
+Autumn Spice Jelly Beans.png	Autumn Spice Jelly Beans	Jelly bean candy made from autumn fruit syrups.	Pick (1):
+Apple Syrup.png Apple Syrup (1)
+Grenadine Syrup.png Grenadine Syrup (1)
+Pumpkin Syrup.png Pumpkin Syrup (1)	Time Icon.png 480m (≈8h)	
+Gold.png
+1,950g
+Energy.png
+65	
+Health.png
+29
+Berry Blast Jelly Beans.png	Berry Blast Jelly Beans	Jelly bean candy made from berry fruit syrups.	Pick (1):
+Elderberry Syrup.png Elderberry Syrup (1)
+Raspberry Syrup.png Raspberry Syrup (1)
+Strawberry Syrup.png Strawberry Syrup (1)	Time Icon.png 480m (≈8h)	
+Gold.png
+390g
+Energy.png
+65	
+Health.png
+29
+Citrus Splash Jelly Beans.png	Citrus Splash Jelly Beans	Jelly bean candy made from citrus fruit syrups.	Pick (1):
+Lemon Syrup.png Lemon Syrup (1)
+Lime Syrup.png Lime Syrup (1)
+Orange Syrup.png Orange Syrup (1)	Time Icon.png 480m (≈8h)	
+Gold.png
+1,068g
+Energy.png
+65	
+Health.png
+29
+Magical Jelly Beans.png	Magical Jelly Beans	Jelly bean candy made from mysterious syrups.	Pick (1):
+Ancient Fruit Syrup.png Ancient Fruit Syrup (1)
+Lavender Syrup.png Lavender Syrup (1)
+Rose Syrup.png Rose Syrup (1)	Time Icon.png 480m (≈8h)	
+Gold.png
+1,068g
+Energy.png
+65	
+Health.png
+29
+Mocha Jelly Beans.png	Mocha Jelly Beans	Jelly bean candy made from chocolate and vanilla syrups.	Pick (1):
+Chocolate Syrup.png Chocolate Syrup (1)
+Vanilla Syrup.png Vanilla Syrup (1)	Time Icon.png 480m (≈8h)	
+Gold.png
+2,238g
+Energy.png
+65	
+Health.png
+29
+Spring Blooms Jelly Beans.png	Spring Blooms Jelly Beans	Jelly bean candy made from spring fruit or flower syrups.	Pick (1):
+Apricot Syrup.png Apricot Syrup (1)
+Cherry Blossom Syrup.png Cherry Blossom Syrup (1)
+Cherry Syrup.png Cherry Syrup (1)	Time Icon.png 480m (≈8h)	
+Gold.png
+288g
+Energy.png
+65	
+Health.png
+29
+Summertime Jelly Beans.png	Summertime Jelly Beans	Jelly bean candy made from summer fruit syrups.	Pick (1):
+Banana Syrup.png Banana Syrup (1)
+Mango Syrup.png Mango Syrup (1)
+Peach Syrup.png Peach Syrup (1)	Time Icon.png 480m (≈8h)	
+Gold.png
+730g
+Energy.png
+65	
+Health.png
+29

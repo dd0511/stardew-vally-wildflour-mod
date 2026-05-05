@@ -1,0 +1,84 @@
+Confectioner
+Sugar Boiler
+Lollipops and Candy Apples
+Image	Name	Description	Ingredients	Processing Time	Sell Price	Energy / Health
+Candy Apple.png	Candy Apple	A freshly-picked apple dipped in a sweet candy coating and served on a stick.	Sugar.png Sugar (1)
+Apple.png Apple (1)	Time Icon.png 480m (≈8h)	
+Gold.png
+262g
+Energy.png
+65	
+Health.png
+29
+Caramel Apple.png	Caramel Apple	A freshly-picked apple dipped in a caramel coating and served on a stick.	Caramel.png Caramel (1)
+Apple.png Apple (1)	Time Icon.png 480m (≈8h)	
+Gold.png
+425g
+Energy.png
+65	
+Health.png
+29
+Flower Power Pop.png	Flower Power Pop	An edible flower lollipop! Almost too pretty to eat. Almost.	Any Edible Flower (1) ✶
+Honey.png Honey (1) ✶	Time Icon.png 480m (≈8h)	
+Gold.png
+246g
+Energy.png
+65	
+Health.png
+29
+Jack O Lantern Lollipop.png	Jack O Lantern Lollipop	Pumpkin and brown sugar lollipop shaped into a festive jack o lantern.	Pumpkin.png Pumpkin (1)
+Brown Sugar.png Brown Sugar (1)	Time Icon.png 480m (≈8h)	
+Gold.png
+1,140g
+Energy.png
+65	
+Health.png
+29
+Kooky for Cookies Pop.png	Kooky for Cookies Pop	It's a cookie on a stick! Fun!	Cookie.png Cookie (1)
+Brown Sugar.png Brown Sugar (1)	Time Icon.png 480m (≈8h)	
+Gold.png
+555g
+Energy.png
+65	
+Health.png
+29
+Mush Pop.png	Mush Pop	A fairy's favorite treat.	Any Edible Mushroom (1)
+Honey.png Honey (1) ✶	Time Icon.png 480m (≈8h)	
+Gold.png
+230g
+Energy.png
+65	
+Health.png
+29
+Prismatic Swirl Lollipop.png	Prismatic Swirl Lollipop	Staring at the swirl for too long can result in becoming hypnotized into eating more lollipops.	Prismatic Shard.png Prismatic Shard (1)
+Sugar.png Sugar (1)	Time Icon.png 480m (≈8h)	
+Gold.png
+6,550g
+Energy.png
+65	
+Health.png
+29
+Skelly Lollipop.png	Skelly Lollipop	The perfect treat for Sprits' Eve!	Bone Fragment.png Bone Fragment (1)
+Sugar.png Sugar (1)	Time Icon.png 480m (≈8h)	
+Gold.png
+89g
+Energy.png
+65	
+Health.png
+29
+Spooky Candy Apple.png	Spooky Candy Apple	A freshly-picked apple dipped in a sweet but spooky candy coating and served on a stick.	Radioactive Ore.png Radioactive Ore (1)
+Apple.png Apple (1)	Time Icon.png 480m (≈8h)	
+Gold.png
+1,075g
+Energy.png
+65	
+Health.png
+29
+Unconcerned Chimp Pop.png	Unconcerned Chimp Pop	Just an unassuming banana-flavored lollipop.	Banana.png Banana (1)
+Brown Sugar.png Brown Sugar (1)	Time Icon.png 480m (≈8h)	
+Gold.png
+587g
+Energy.png
+65	
+Health.png
+29

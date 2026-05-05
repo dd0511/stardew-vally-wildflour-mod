@@ -1,0 +1,794 @@
+{
+  "items": [
+    {
+      "id": "bobbin_for_aleples",
+      "name": "Bobbin For Aleples",
+      "zh": "",
+      "category": "Brewer Product",
+      "categoryZh": "酿酒师成品",
+      "subcategory": "Ale Keg",
+      "subcategoryZh": "艾尔啤酒",
+      "basePrice": 287,
+      "tags": [
+        "brewer",
+        "advanced",
+        "ale_keg",
+        "ale",
+        "crafted_output",
+        "product"
+      ],
+      "description": "A crisp, autumnal ale brewed with apples and thyme.",
+      "descriptionZh": "",
+      "energy": 50,
+      "health": 22
+    },
+    {
+      "id": "lemon_thyme",
+      "name": "Lemon Thyme",
+      "zh": "",
+      "category": "Ingredient",
+      "categoryZh": "原料",
+      "basePrice": 0,
+      "tags": [
+        "ingredient",
+        "basic_material",
+        "used_as_input",
+        "fruit",
+        "spice_or_herb"
+      ]
+    },
+    {
+      "id": "bonfire_ale",
+      "name": "Bonfire Ale",
+      "zh": "",
+      "category": "Brewer Product",
+      "categoryZh": "酿酒师成品",
+      "subcategory": "Ale Keg",
+      "subcategoryZh": "艾尔啤酒",
+      "basePrice": 82,
+      "tags": [
+        "brewer",
+        "advanced",
+        "ale_keg",
+        "ale",
+        "crafted_output",
+        "product"
+      ],
+      "description": "A rich and sweet ale made with marsh mallows and the smoke of hardwood.",
+      "descriptionZh": "",
+      "energy": 50,
+      "health": 22
+    },
+    {
+      "id": "calico_vanilla",
+      "name": "Calico Vanilla",
+      "zh": "",
+      "category": "Ingredient",
+      "categoryZh": "原料",
+      "basePrice": 0,
+      "tags": [
+        "ingredient",
+        "basic_material",
+        "used_as_input",
+        "spice_or_herb"
+      ]
+    },
+    {
+      "id": "hardwood",
+      "name": "Hardwood",
+      "zh": "",
+      "category": "Ingredient",
+      "categoryZh": "原料",
+      "basePrice": 0,
+      "tags": [
+        "ingredient",
+        "basic_material",
+        "used_as_input"
+      ]
+    },
+    {
+      "id": "dust_sprite_stout",
+      "name": "Dust Sprite Stout",
+      "zh": "",
+      "category": "Brewer Product",
+      "categoryZh": "酿酒师成品",
+      "subcategory": "Ale Keg",
+      "subcategoryZh": "艾尔啤酒",
+      "basePrice": 57,
+      "tags": [
+        "brewer",
+        "advanced",
+        "ale_keg",
+        "ale",
+        "crafted_output",
+        "product"
+      ],
+      "description": "A dark and creamy stout made with coal and coffee beans. Don't knock it 'til you try it.",
+      "descriptionZh": "",
+      "energy": 50,
+      "health": 22
+    },
+    {
+      "id": "coffee_bean",
+      "name": "Coffee Bean",
+      "zh": "",
+      "category": "Ingredient",
+      "categoryZh": "原料",
+      "basePrice": 0,
+      "tags": [
+        "ingredient",
+        "basic_material",
+        "used_as_input",
+        "coffee"
+      ]
+    },
+    {
+      "id": "jingle_ale_the_way",
+      "name": "Jingle Ale The Way",
+      "zh": "",
+      "category": "Brewer Product",
+      "categoryZh": "酿酒师成品",
+      "subcategory": "Ale Keg",
+      "subcategoryZh": "艾尔啤酒",
+      "basePrice": 330,
+      "tags": [
+        "brewer",
+        "advanced",
+        "ale_keg",
+        "ale",
+        "crafted_output",
+        "product"
+      ],
+      "description": "A warming winter ale made with vanilla beans and brown sugar.",
+      "descriptionZh": "",
+      "energy": 50,
+      "health": 22
+    },
+    {
+      "id": "lavender_haze_ipa",
+      "name": "Lavender Haze IPA",
+      "zh": "",
+      "category": "Brewer Product",
+      "categoryZh": "酿酒师成品",
+      "subcategory": "Ale Keg",
+      "subcategoryZh": "艾尔啤酒",
+      "basePrice": 177,
+      "tags": [
+        "brewer",
+        "advanced",
+        "ale_keg",
+        "ale",
+        "crafted_output",
+        "product"
+      ],
+      "description": "A tart IPA with a hint of floral flavor from lavender and lemons.",
+      "descriptionZh": "",
+      "energy": 50,
+      "health": 22
+    },
+    {
+      "id": "forest_lavender",
+      "name": "Forest Lavender",
+      "zh": "",
+      "category": "Ingredient",
+      "categoryZh": "原料",
+      "basePrice": 0,
+      "tags": [
+        "ingredient",
+        "basic_material",
+        "used_as_input",
+        "spice_or_herb"
+      ]
+    },
+    {
+      "id": "petite_lemon",
+      "name": "Petite Lemon",
+      "zh": "",
+      "category": "Ingredient",
+      "categoryZh": "原料",
+      "basePrice": 0,
+      "tags": [
+        "ingredient",
+        "basic_material",
+        "used_as_input",
+        "fruit"
+      ]
+    },
+    {
+      "id": "livin_off_the_land_ale",
+      "name": "Livin Off The Land Ale",
+      "zh": "",
+      "category": "Brewer Product",
+      "categoryZh": "酿酒师成品",
+      "subcategory": "Ale Keg",
+      "subcategoryZh": "艾尔啤酒",
+      "basePrice": 237,
+      "tags": [
+        "brewer",
+        "advanced",
+        "ale_keg",
+        "ale",
+        "crafted_output",
+        "product"
+      ],
+      "description": "A fruity ale made with spring orchard fruit.",
+      "descriptionZh": "",
+      "energy": 50,
+      "health": 22
+    },
+    {
+      "id": "apricot",
+      "name": "Apricot",
+      "zh": "",
+      "category": "Ingredient",
+      "categoryZh": "原料",
+      "basePrice": 0,
+      "tags": [
+        "ingredient",
+        "basic_material",
+        "used_as_input"
+      ]
+    },
+    {
+      "id": "pelican_pilsner",
+      "name": "Pelican Pilsner",
+      "zh": "",
+      "category": "Brewer Product",
+      "categoryZh": "酿酒师成品",
+      "subcategory": "Ale Keg",
+      "subcategoryZh": "艾尔啤酒",
+      "basePrice": 337,
+      "tags": [
+        "brewer",
+        "advanced",
+        "ale_keg",
+        "ale",
+        "crafted_output",
+        "product"
+      ],
+      "description": "A local favorite in Pelican Town, this refreshing summer ale is brewed with mango and spice berries.",
+      "descriptionZh": "",
+      "energy": 50,
+      "health": 22
+    },
+    {
+      "id": "spice_berry",
+      "name": "Spice Berry",
+      "zh": "",
+      "category": "Ingredient",
+      "categoryZh": "原料",
+      "basePrice": 0,
+      "tags": [
+        "ingredient",
+        "basic_material",
+        "used_as_input"
+      ]
+    },
+    {
+      "id": "sandcastle_ipa",
+      "name": "Sandcastle IPA",
+      "zh": "",
+      "category": "Brewer Product",
+      "categoryZh": "酿酒师成品",
+      "subcategory": "Ale Keg",
+      "subcategoryZh": "艾尔啤酒",
+      "basePrice": 292,
+      "tags": [
+        "brewer",
+        "advanced",
+        "ale_keg",
+        "ale",
+        "crafted_output",
+        "product"
+      ],
+      "description": "A creamy but tart IPA flavored with coconut and ginger.",
+      "descriptionZh": "",
+      "energy": 50,
+      "health": 22
+    },
+    {
+      "id": "ginger",
+      "name": "Ginger",
+      "zh": "",
+      "category": "Ingredient",
+      "categoryZh": "原料",
+      "basePrice": 0,
+      "tags": [
+        "ingredient",
+        "basic_material",
+        "used_as_input",
+        "spice_or_herb"
+      ]
+    },
+    {
+      "id": "scarecrow_stout",
+      "name": "Scarecrow Stout",
+      "zh": "",
+      "category": "Brewer Product",
+      "categoryZh": "酿酒师成品",
+      "subcategory": "Ale Keg",
+      "subcategoryZh": "艾尔啤酒",
+      "basePrice": 462,
+      "tags": [
+        "brewer",
+        "advanced",
+        "ale_keg",
+        "ale",
+        "crafted_output",
+        "product"
+      ],
+      "description": "Gus's special recipe - a rich stout brewed with yams and cream.",
+      "descriptionZh": "",
+      "energy": 50,
+      "health": 22
+    },
+    {
+      "id": "cream",
+      "name": "Cream",
+      "zh": "",
+      "category": "Ingredient",
+      "categoryZh": "原料",
+      "basePrice": 0,
+      "tags": [
+        "ingredient",
+        "basic_material",
+        "used_as_input",
+        "dairy"
+      ]
+    },
+    {
+      "id": "scrooge_tripel",
+      "name": "Scrooge Tripel",
+      "zh": "",
+      "category": "Brewer Product",
+      "categoryZh": "酿酒师成品",
+      "subcategory": "Ale Keg",
+      "subcategoryZh": "艾尔啤酒",
+      "basePrice": 275,
+      "tags": [
+        "brewer",
+        "advanced",
+        "ale_keg",
+        "ale",
+        "crafted_output",
+        "product"
+      ],
+      "description": "A strongly brewed ale with notes of plum and spices. Bah Humbug not included.",
+      "descriptionZh": "",
+      "energy": 50,
+      "health": 22
+    },
+    {
+      "id": "cindersap_cinnamon",
+      "name": "Cindersap Cinnamon",
+      "zh": "",
+      "category": "Ingredient",
+      "categoryZh": "原料",
+      "basePrice": 0,
+      "tags": [
+        "ingredient",
+        "basic_material",
+        "used_as_input",
+        "spice_or_herb"
+      ]
+    },
+    {
+      "id": "snowman_cream_ale",
+      "name": "Snowman Cream Ale",
+      "zh": "",
+      "category": "Brewer Product",
+      "categoryZh": "酿酒师成品",
+      "subcategory": "Ale Keg",
+      "subcategoryZh": "艾尔啤酒",
+      "basePrice": 325,
+      "tags": [
+        "brewer",
+        "advanced",
+        "ale_keg",
+        "ale",
+        "crafted_output",
+        "product"
+      ],
+      "description": "A rich and creamy ale flavored with orange and cinnamon.",
+      "descriptionZh": "",
+      "energy": 50,
+      "health": 22
+    },
+    {
+      "id": "wednesdays_void_lager",
+      "name": "Wednesdays Void Lager",
+      "zh": "",
+      "category": "Brewer Product",
+      "categoryZh": "酿酒师成品",
+      "subcategory": "Ale Keg",
+      "subcategoryZh": "艾尔啤酒",
+      "basePrice": 837,
+      "tags": [
+        "brewer",
+        "advanced",
+        "ale_keg",
+        "ale",
+        "crafted_output",
+        "product"
+      ],
+      "description": "Rumor has it this ale exists because a black cat knocked a void essence into an otherwise normal pumpkin ale.",
+      "descriptionZh": "",
+      "energy": 50,
+      "health": 22
+    },
+    {
+      "id": "void_essence",
+      "name": "Void Essence",
+      "zh": "",
+      "category": "Ingredient",
+      "categoryZh": "原料",
+      "basePrice": 0,
+      "tags": [
+        "ingredient",
+        "basic_material",
+        "used_as_input"
+      ]
+    }
+  ],
+  "machines": [
+    {
+      "id": "ale_keg",
+      "name": "Ale Keg",
+      "zh": "艾尔酒桶",
+      "defaultMinutes": 1600,
+      "module": "brewer",
+      "moduleZh": "酿酒师",
+      "tags": [
+        "brewer",
+        "ale_keg",
+        "ale"
+      ]
+    }
+  ],
+  "recipes": [
+    {
+      "id": "brewer_advanced_ale_keg_bobbin_for_aleples",
+      "name": "Bobbin For Aleples",
+      "nameEn": "Bobbin For Aleples",
+      "machineId": "ale_keg",
+      "inputs": [
+        {
+          "itemId": "lemon_thyme",
+          "qty": 1
+        }
+      ],
+      "output": {
+        "itemId": "bobbin_for_aleples",
+        "qty": 1
+      },
+      "minutes": 1600,
+      "module": "brewer",
+      "moduleZh": "酿酒师",
+      "mode": "advanced",
+      "modeZh": "高级",
+      "subcategory": "Ale Keg",
+      "subcategoryZh": "艾尔啤酒",
+      "source": "Wildflour wiki pasted English table",
+      "description": "A crisp, autumnal ale brewed with apples and thyme.",
+      "descriptionZh": "",
+      "energy": 50,
+      "health": 22
+    },
+    {
+      "id": "brewer_advanced_ale_keg_bonfire_ale",
+      "name": "Bonfire Ale",
+      "nameEn": "Bonfire Ale",
+      "machineId": "ale_keg",
+      "inputs": [
+        {
+          "itemId": "calico_vanilla",
+          "qty": 1
+        },
+        {
+          "itemId": "hardwood",
+          "qty": 1
+        }
+      ],
+      "output": {
+        "itemId": "bonfire_ale",
+        "qty": 1
+      },
+      "minutes": 1600,
+      "module": "brewer",
+      "moduleZh": "酿酒师",
+      "mode": "advanced",
+      "modeZh": "高级",
+      "subcategory": "Ale Keg",
+      "subcategoryZh": "艾尔啤酒",
+      "source": "Wildflour wiki pasted English table",
+      "description": "A rich and sweet ale made with marsh mallows and the smoke of hardwood.",
+      "descriptionZh": "",
+      "energy": 50,
+      "health": 22
+    },
+    {
+      "id": "brewer_advanced_ale_keg_dust_sprite_stout",
+      "name": "Dust Sprite Stout",
+      "nameEn": "Dust Sprite Stout",
+      "machineId": "ale_keg",
+      "inputs": [
+        {
+          "itemId": "coffee_bean",
+          "qty": 1
+        }
+      ],
+      "output": {
+        "itemId": "dust_sprite_stout",
+        "qty": 1
+      },
+      "minutes": 1600,
+      "module": "brewer",
+      "moduleZh": "酿酒师",
+      "mode": "advanced",
+      "modeZh": "高级",
+      "subcategory": "Ale Keg",
+      "subcategoryZh": "艾尔啤酒",
+      "source": "Wildflour wiki pasted English table",
+      "description": "A dark and creamy stout made with coal and coffee beans. Don't knock it 'til you try it.",
+      "descriptionZh": "",
+      "energy": 50,
+      "health": 22
+    },
+    {
+      "id": "brewer_advanced_ale_keg_jingle_ale_the_way",
+      "name": "Jingle Ale The Way",
+      "nameEn": "Jingle Ale The Way",
+      "machineId": "ale_keg",
+      "inputs": [
+        {
+          "itemId": "calico_vanilla",
+          "qty": 1
+        }
+      ],
+      "output": {
+        "itemId": "jingle_ale_the_way",
+        "qty": 1
+      },
+      "minutes": 1600,
+      "module": "brewer",
+      "moduleZh": "酿酒师",
+      "mode": "advanced",
+      "modeZh": "高级",
+      "subcategory": "Ale Keg",
+      "subcategoryZh": "艾尔啤酒",
+      "source": "Wildflour wiki pasted English table",
+      "description": "A warming winter ale made with vanilla beans and brown sugar.",
+      "descriptionZh": "",
+      "energy": 50,
+      "health": 22
+    },
+    {
+      "id": "brewer_advanced_ale_keg_lavender_haze_ipa",
+      "name": "Lavender Haze IPA",
+      "nameEn": "Lavender Haze IPA",
+      "machineId": "ale_keg",
+      "inputs": [
+        {
+          "itemId": "forest_lavender",
+          "qty": 1
+        },
+        {
+          "itemId": "petite_lemon",
+          "qty": 1
+        }
+      ],
+      "output": {
+        "itemId": "lavender_haze_ipa",
+        "qty": 1
+      },
+      "minutes": 1600,
+      "module": "brewer",
+      "moduleZh": "酿酒师",
+      "mode": "advanced",
+      "modeZh": "高级",
+      "subcategory": "Ale Keg",
+      "subcategoryZh": "艾尔啤酒",
+      "source": "Wildflour wiki pasted English table",
+      "description": "A tart IPA with a hint of floral flavor from lavender and lemons.",
+      "descriptionZh": "",
+      "energy": 50,
+      "health": 22
+    },
+    {
+      "id": "brewer_advanced_ale_keg_livin_off_the_land_ale",
+      "name": "Livin Off The Land Ale",
+      "nameEn": "Livin Off The Land Ale",
+      "machineId": "ale_keg",
+      "inputs": [
+        {
+          "itemId": "apricot",
+          "qty": 1
+        }
+      ],
+      "output": {
+        "itemId": "livin_off_the_land_ale",
+        "qty": 1
+      },
+      "minutes": 1600,
+      "module": "brewer",
+      "moduleZh": "酿酒师",
+      "mode": "advanced",
+      "modeZh": "高级",
+      "subcategory": "Ale Keg",
+      "subcategoryZh": "艾尔啤酒",
+      "source": "Wildflour wiki pasted English table",
+      "description": "A fruity ale made with spring orchard fruit.",
+      "descriptionZh": "",
+      "energy": 50,
+      "health": 22
+    },
+    {
+      "id": "brewer_advanced_ale_keg_pelican_pilsner",
+      "name": "Pelican Pilsner",
+      "nameEn": "Pelican Pilsner",
+      "machineId": "ale_keg",
+      "inputs": [
+        {
+          "itemId": "spice_berry",
+          "qty": 1
+        }
+      ],
+      "output": {
+        "itemId": "pelican_pilsner",
+        "qty": 1
+      },
+      "minutes": 1600,
+      "module": "brewer",
+      "moduleZh": "酿酒师",
+      "mode": "advanced",
+      "modeZh": "高级",
+      "subcategory": "Ale Keg",
+      "subcategoryZh": "艾尔啤酒",
+      "source": "Wildflour wiki pasted English table",
+      "description": "A local favorite in Pelican Town, this refreshing summer ale is brewed with mango and spice berries.",
+      "descriptionZh": "",
+      "energy": 50,
+      "health": 22
+    },
+    {
+      "id": "brewer_advanced_ale_keg_sandcastle_ipa",
+      "name": "Sandcastle IPA",
+      "nameEn": "Sandcastle IPA",
+      "machineId": "ale_keg",
+      "inputs": [
+        {
+          "itemId": "ginger",
+          "qty": 1
+        }
+      ],
+      "output": {
+        "itemId": "sandcastle_ipa",
+        "qty": 1
+      },
+      "minutes": 1600,
+      "module": "brewer",
+      "moduleZh": "酿酒师",
+      "mode": "advanced",
+      "modeZh": "高级",
+      "subcategory": "Ale Keg",
+      "subcategoryZh": "艾尔啤酒",
+      "source": "Wildflour wiki pasted English table",
+      "description": "A creamy but tart IPA flavored with coconut and ginger.",
+      "descriptionZh": "",
+      "energy": 50,
+      "health": 22
+    },
+    {
+      "id": "brewer_advanced_ale_keg_scarecrow_stout",
+      "name": "Scarecrow Stout",
+      "nameEn": "Scarecrow Stout",
+      "machineId": "ale_keg",
+      "inputs": [
+        {
+          "itemId": "cream",
+          "qty": 1
+        }
+      ],
+      "output": {
+        "itemId": "scarecrow_stout",
+        "qty": 1
+      },
+      "minutes": 1600,
+      "module": "brewer",
+      "moduleZh": "酿酒师",
+      "mode": "advanced",
+      "modeZh": "高级",
+      "subcategory": "Ale Keg",
+      "subcategoryZh": "艾尔啤酒",
+      "source": "Wildflour wiki pasted English table",
+      "description": "Gus's special recipe - a rich stout brewed with yams and cream.",
+      "descriptionZh": "",
+      "energy": 50,
+      "health": 22
+    },
+    {
+      "id": "brewer_advanced_ale_keg_scrooge_tripel",
+      "name": "Scrooge Tripel",
+      "nameEn": "Scrooge Tripel",
+      "machineId": "ale_keg",
+      "inputs": [
+        {
+          "itemId": "cindersap_cinnamon",
+          "qty": 1
+        }
+      ],
+      "output": {
+        "itemId": "scrooge_tripel",
+        "qty": 1
+      },
+      "minutes": 1600,
+      "module": "brewer",
+      "moduleZh": "酿酒师",
+      "mode": "advanced",
+      "modeZh": "高级",
+      "subcategory": "Ale Keg",
+      "subcategoryZh": "艾尔啤酒",
+      "source": "Wildflour wiki pasted English table",
+      "description": "A strongly brewed ale with notes of plum and spices. Bah Humbug not included.",
+      "descriptionZh": "",
+      "energy": 50,
+      "health": 22
+    },
+    {
+      "id": "brewer_advanced_ale_keg_snowman_cream_ale",
+      "name": "Snowman Cream Ale",
+      "nameEn": "Snowman Cream Ale",
+      "machineId": "ale_keg",
+      "inputs": [
+        {
+          "itemId": "cindersap_cinnamon",
+          "qty": 1
+        }
+      ],
+      "output": {
+        "itemId": "snowman_cream_ale",
+        "qty": 1
+      },
+      "minutes": 1600,
+      "module": "brewer",
+      "moduleZh": "酿酒师",
+      "mode": "advanced",
+      "modeZh": "高级",
+      "subcategory": "Ale Keg",
+      "subcategoryZh": "艾尔啤酒",
+      "source": "Wildflour wiki pasted English table",
+      "description": "A rich and creamy ale flavored with orange and cinnamon.",
+      "descriptionZh": "",
+      "energy": 50,
+      "health": 22
+    },
+    {
+      "id": "brewer_advanced_ale_keg_wednesdays_void_lager",
+      "name": "Wednesdays Void Lager",
+      "nameEn": "Wednesdays Void Lager",
+      "machineId": "ale_keg",
+      "inputs": [
+        {
+          "itemId": "void_essence",
+          "qty": 1
+        }
+      ],
+      "output": {
+        "itemId": "wednesdays_void_lager",
+        "qty": 1
+      },
+      "minutes": 1600,
+      "module": "brewer",
+      "moduleZh": "酿酒师",
+      "mode": "advanced",
+      "modeZh": "高级",
+      "subcategory": "Ale Keg",
+      "subcategoryZh": "艾尔啤酒",
+      "source": "Wildflour wiki pasted English table",
+      "description": "Rumor has it this ale exists because a black cat knocked a void essence into an otherwise normal pumpkin ale.",
+      "descriptionZh": "",
+      "energy": 50,
+      "health": 22
+    }
+  ]
+}

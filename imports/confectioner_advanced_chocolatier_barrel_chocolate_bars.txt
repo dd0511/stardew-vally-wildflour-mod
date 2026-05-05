@@ -1,0 +1,62 @@
+Confectioner
+Chocolatier Barrel
+Chocolate Bars
+Image	Name	Description	Ingredients	Processing Time	Sell Price	Energy / Health
+Black Forest Chocolate Bar.png	Black Forest Chocolate Bar	An artisan dark chocolate bar with cherry bits.	Cherry.png Cherry (1)
+Dark Chocolate.png Dark Chocolate (1)	Time Icon.png 1000m (≈17h)	
+Gold.png
+620g
+Energy.png
+65	
+Health.png
+29
+Creme Brulee Chocolate Bar.png	Creme Brulee Chocolate Bar	An artisan white chocolate bar with caramel bits.	Caramel.png Caramel (1)
+White Chocolate.png White Chocolate (1)	Time Icon.png 1000m (≈17h)	
+Gold.png
+750g
+Energy.png
+65	
+Health.png
+29
+Cupid Chocolate Bar.png	Cupid Chocolate Bar	An artisan white chocolate bar with wild strawberry bits.	Wild Strawberry.png Wild Strawberry (1)
+or
+Salmonberry.png Salmonberry (1)
+White Chocolate.png White Chocolate (1)	Time Icon.png 1000m (≈17h)	
+Gold.png
+132g
+Energy.png
+65	
+Health.png
+29
+Galaxy Chocolate Bar.png	Galaxy Chocolate Bar	An artisan dark chocolate bar made with the flavor of a stardrop?	Stardrop Tea.png Stardrop Tea (1)
+Dark Chocolate.png Dark Chocolate (1)	Time Icon.png 1000m (≈17h)	
+Gold.png
+600g
+Energy.png
+65	
+Health.png
+29
+Jazzy Chocolate Bar.png	Jazzy Chocolate Bar	An artisan white chocolate bar with blue jazz bits.	Blue Jazz.png Blue Jazz (1)
+White Chocolate.png White Chocolate (1)	Time Icon.png 1000m (≈17h)	
+Gold.png
+426g
+Energy.png
+65	
+Health.png
+29
+Razzle Dazzle Chocolate Bar.png	Razzle Dazzle Chocolate Bar	An artisan milk chocolate bar with raspberry bits.	Wild Raspberry.png Wild Raspberry (1) ✶
+Milk Chocolate.png Milk Chocolate (1)	Time Icon.png 1000m (≈17h)	
+Gold.png
+230g
+Energy.png
+65	
+Health.png
+29
+Zesty Chocolate Bar.png	Zesty Chocolate Bar	An artisan white chocolate bar with lemon bits.	Petite Lemon.png Petite Lemon (1) ✶
+White Chocolate.png White Chocolate (1)	Time Icon.png 1000m (≈17h)	
+Gold.png
+457g
+Energy.png
+65	
+Health.png
+29

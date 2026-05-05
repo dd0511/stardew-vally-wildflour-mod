@@ -1,0 +1,99 @@
+Brewer
+Artisan Mead Keg
+Image	Name	Description	Ingredients	Processing Time	Sell Price	Energy / Health
+Beach Party Mead.png	Beach Party Mead	It's hard not to have a beach party if this starfruit and jasmine-flavored mead is around.	Starfruit.png Starfruit (1)
+Gem Isle Jasmine.png Gem Isle Jasmine (1) ✶	Time Icon.png 1600m (≈27h)	
+Gold.png
+1,585g
+Energy.png
+50	
+Health.png
+22
+Falling Petals Mead.png	Falling Petals Mead	A springtime specialty, mead brewed with strawberries and blue jazz.	Blue Jazz.png Blue Jazz (1)
+Strawberry.png Strawberry (1)	Time Icon.png 1600m (≈27h)	
+Gold.png
+210g
+Energy.png
+50	
+Health.png
+22
+Farmhouse Cider Mead.png	Farmhouse Cider Mead	Mead brewed with apples and ginger, best enjoyed on a crisp, autumn evening.	Apple.png Apple (1)
+Ginger.png Ginger (1)	Time Icon.png 1600m (≈27h)	
+Gold.png
+280g
+Energy.png
+50	
+Health.png
+22
+Fireworks Mead.png	Fireworks Mead	Blueberries and raspberries come together for this flavorful, summer mead.	Blueberry.png Blueberry (1)
+Wild Raspberry.png Wild Raspberry (1) ✶	Time Icon.png 1600m (≈27h)	
+Gold.png
+160g
+Energy.png
+50	
+Health.png
+22
+Gentle Breeze Mead.png	Gentle Breeze Mead	Mead flavored with dandelions and chamomile, for a delicate, floral flavor.	Dandelion.png Dandelion (1)
+Forest Chamomile.png Forest Chamomile (1) ✶	Time Icon.png 1600m (≈27h)	
+Gold.png
+152g
+Energy.png
+50	
+Health.png
+22
+Leaf Pile Mead.png	Leaf Pile Mead	This mead has an added sweetness from maple syrup and a tart finish from freshly-foraged blackberries.	Maple Syrup.png Maple Syrup (1)
+Blackberry.png Blackberry (1)	Time Icon.png 1600m (≈27h)	
+Gold.png
+460g
+Energy.png
+50	
+Health.png
+22
+Picnic Basket Mead.png	Picnic Basket Mead	This mead is flavored with elderberries and almonds, perfect for a romantic summer picnic in the forest.	Elderberry Blossoms.png Elderberry Blossoms (1) ✶
+St Cannoli Almond.png St Cannoli Almond (1) ✶	Time Icon.png 1600m (≈27h)	
+Gold.png
+895g
+Energy.png
+50	
+Health.png
+22
+Spellbound Mead.png	Spellbound Mead	The combination of crystal fruit and mint yields a mead that tastes almost...magical.	Crystal Fruit.png Crystal Fruit (1)
+Pelican Mint.png Pelican Mint (1) ✶	Time Icon.png 1600m (≈27h)	
+Gold.png
+358g
+Energy.png
+50	
+Health.png
+22
+Sunny Daze Mead.png	Sunny Daze Mead	Mead brewed with lemon and basil for an herbal, citrus kick.	Sweet Basil.png Sweet Basil (1) ✶
+Petite Lemon.png Petite Lemon (1) ✶	Time Icon.png 1600m (≈27h)	
+Gold.png
+207g
+Energy.png
+50	
+Health.png
+22
+Twinkle Mead.png	Twinkle Mead	Crocus and Fairy Rose petals provide both flavor and color to this floral mead.	Crocus.png Crocus (1)
+Fairy Rose.png Fairy Rose (1)	Time Icon.png 1600m (≈27h)	
+Gold.png
+315g
+Energy.png
+50	
+Health.png
+22
+Wyrd Sisters Mead.png	Wyrd Sisters Mead	The addition of wormwood makes this rosey mead rather potent. Best left to more magically inclined to enjoy amongst their covens.	Wormwood.png Wormwood (1) ✶
+Fairy Rose.png Fairy Rose (1)	Time Icon.png 1600m (≈27h)	
+Gold.png
+225g
+Energy.png
+50	
+Health.png
+22
+Yule Log Mead.png	Yule Log Mead	Mead flavored with cinnamon and spices to keep you cozy and warm on cold winter nights.	Cindersap Cinnamon.png Cindersap Cinnamon (1) ✶
+Star Anise.png Star Anise (1) ✶	Time Icon.png 1600m (≈27h)	
+Gold.png
+710g
+Energy.png
+50	
+Health.png
+22

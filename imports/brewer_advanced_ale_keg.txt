@@ -1,0 +1,101 @@
+Brewer
+Ale Keg
+Image	Name	Description	Ingredients	Processing Time	Sell Price	Energy / Health
+Bobbin For Aleples.png	Bobbin For Aleples	A crisp, autumnal ale brewed with apples and thyme.	Apple.png Apple (1)
+Lemon Thyme.png Lemon Thyme (1)	Time Icon.png 1600m (≈27h)	
+Gold.png
+287g
+Energy.png
+50	
+Health.png
+22
+Bonfire Ale.png	Bonfire Ale	A rich and sweet ale made with marsh mallows and the smoke of hardwood.	Marsh Mallow.png Marsh Mallow (1)
+or
+Calico Vanilla.png Calico Vanilla (1) ✶
+Hardwood.png Hardwood (1)	Time Icon.png 1600m (≈27h)	
+Gold.png
+82g
+Energy.png
+50	
+Health.png
+22
+Dust Sprite Stout.png	Dust Sprite Stout	A dark and creamy stout made with coal and coffee beans. Don't knock it 'til you try it.	Coal.png Coal (1)
+Coffee Bean.png Coffee Bean (1)	Time Icon.png 1600m (≈27h)	
+Gold.png
+57g
+Energy.png
+50	
+Health.png
+22
+Jingle Ale The Way.png	Jingle Ale The Way	A warming winter ale made with vanilla beans and brown sugar.	Brown Sugar.png Brown Sugar (1)
+Calico Vanilla.png Calico Vanilla (1) ✶	Time Icon.png 1600m (≈27h)	
+Gold.png
+330g
+Energy.png
+50	
+Health.png
+22
+Lavender Haze IPA.png	Lavender Haze IPA	A tart IPA with a hint of floral flavor from lavender and lemons.	Forest Lavender.png Forest Lavender (1) ✶
+Petite Lemon.png Petite Lemon (1) ✶	Time Icon.png 1600m (≈27h)	
+Gold.png
+177g
+Energy.png
+50	
+Health.png
+22
+Livin Off The Land Ale.png	Livin Off The Land Ale	A fruity ale made with spring orchard fruit.	Cherry.png Cherry (1)
+Apricot.png Apricot (1)	Time Icon.png 1600m (≈27h)	
+Gold.png
+237g
+Energy.png
+50	
+Health.png
+22
+Pelican Pilsner.png	Pelican Pilsner	A local favorite in Pelican Town, this refreshing summer ale is brewed with mango and spice berries.	Mango.png Mango (1)
+Spice Berry.png Spice Berry (1)	Time Icon.png 1600m (≈27h)	
+Gold.png
+337g
+Energy.png
+50	
+Health.png
+22
+Sandcastle IPA.png	Sandcastle IPA	A creamy but tart IPA flavored with coconut and ginger.	Coconut.png Coconut (1)
+Ginger.png Ginger (1)	Time Icon.png 1600m (≈27h)	
+Gold.png
+292g
+Energy.png
+50	
+Health.png
+22
+Scarecrow Stout.png	Scarecrow Stout	Gus's special recipe - a rich stout brewed with yams and cream.	Yam.png Yam (1)
+Cream.png Cream (1) ✶	Time Icon.png 1600m (≈27h)	
+Gold.png
+462g
+Energy.png
+50	
+Health.png
+22
+Scrooge Tripel.png	Scrooge Tripel	A strongly brewed ale with notes of plum and spices. Bah Humbug not included.	Wild Plum.png Wild Plum (1)
+Cindersap Cinnamon.png Cindersap Cinnamon (1) ✶	Time Icon.png 1600m (≈27h)	
+Gold.png
+275g
+Energy.png
+50	
+Health.png
+22
+Snowman Cream Ale.png	Snowman Cream Ale	A rich and creamy ale flavored with orange and cinnamon.	Orange.png Orange (1)
+Cindersap Cinnamon.png Cindersap Cinnamon (1) ✶	Time Icon.png 1600m (≈27h)	
+Gold.png
+325g
+Energy.png
+50	
+Health.png
+22
+Wednesdays Void Lager.png	Wednesdays Void Lager	Rumor has it this ale exists because a black cat knocked a void essence into an otherwise normal pumpkin ale.	Pumpkin.png Pumpkin (1)
+Void Essence.png Void Essence (1)	Time Icon.png 1600m (≈27h)	
+Gold.png
+837g
+Energy.png
+50	
+Health.png
+22

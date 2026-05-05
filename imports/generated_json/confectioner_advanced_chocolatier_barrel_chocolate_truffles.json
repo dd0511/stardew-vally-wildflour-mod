@@ -1,0 +1,463 @@
+{
+  "items": [
+    {
+      "id": "dark_chocolate_truffles",
+      "name": "Dark Chocolate Truffles",
+      "zh": "",
+      "category": "Confectioner Product",
+      "categoryZh": "糖果师成品",
+      "subcategory": "Chocolate Truffles",
+      "subcategoryZh": "巧克力松露",
+      "basePrice": 650,
+      "tags": [
+        "confectioner",
+        "advanced",
+        "chocolatier_barrel",
+        "chocolate_truffles",
+        "chocolate_truffle",
+        "crafted_output",
+        "product"
+      ],
+      "description": "A bite-sized confection made with dark chocolate and cream.",
+      "descriptionZh": "",
+      "energy": 65,
+      "health": 29
+    },
+    {
+      "id": "cream",
+      "name": "Cream",
+      "zh": "",
+      "category": "Ingredient",
+      "categoryZh": "原料",
+      "basePrice": 0,
+      "tags": [
+        "ingredient",
+        "basic_material",
+        "used_as_input",
+        "dairy"
+      ]
+    },
+    {
+      "id": "floral_chocolate_truffles",
+      "name": "Floral Chocolate Truffles",
+      "zh": "",
+      "category": "Confectioner Product",
+      "categoryZh": "糖果师成品",
+      "subcategory": "Chocolate Truffles",
+      "subcategoryZh": "巧克力松露",
+      "basePrice": 347,
+      "tags": [
+        "confectioner",
+        "advanced",
+        "chocolatier_barrel",
+        "chocolate_truffles",
+        "chocolate_truffle",
+        "crafted_output",
+        "product"
+      ],
+      "description": "A bite-sized confection made with white chocolate and edible flowers.",
+      "descriptionZh": "",
+      "energy": 65,
+      "health": 29
+    },
+    {
+      "id": "any_edible_flower",
+      "name": "Any Edible Flower",
+      "zh": "",
+      "category": "Ingredient",
+      "categoryZh": "原料",
+      "basePrice": 0,
+      "tags": [
+        "ingredient",
+        "basic_material",
+        "used_as_input",
+        "generic_input",
+        "flower"
+      ],
+      "isGeneric": true,
+      "acceptedTags": [
+        "generic_input",
+        "flower"
+      ]
+    },
+    {
+      "id": "white_chocolate",
+      "name": "White Chocolate",
+      "zh": "",
+      "category": "Ingredient",
+      "categoryZh": "原料",
+      "basePrice": 0,
+      "tags": [
+        "ingredient",
+        "basic_material",
+        "used_as_input",
+        "cacao"
+      ]
+    },
+    {
+      "id": "fruity_chocolate_truffles",
+      "name": "Fruity Chocolate Truffles",
+      "zh": "",
+      "category": "Confectioner Product",
+      "categoryZh": "糖果师成品",
+      "subcategory": "Chocolate Truffles",
+      "subcategoryZh": "巧克力松露",
+      "basePrice": 210,
+      "tags": [
+        "confectioner",
+        "advanced",
+        "chocolatier_barrel",
+        "chocolate_truffles",
+        "chocolate_truffle",
+        "crafted_output",
+        "product"
+      ],
+      "description": "A bite-sized confection made with dark chocolate and fruit.",
+      "descriptionZh": "",
+      "energy": 65,
+      "health": 29
+    },
+    {
+      "id": "any_fruit",
+      "name": "Any Fruit",
+      "zh": "",
+      "category": "Ingredient",
+      "categoryZh": "原料",
+      "basePrice": 0,
+      "tags": [
+        "ingredient",
+        "basic_material",
+        "used_as_input",
+        "generic_input",
+        "fruit"
+      ],
+      "isGeneric": true,
+      "acceptedTags": [
+        "generic_input",
+        "fruit"
+      ]
+    },
+    {
+      "id": "dark_chocolate",
+      "name": "Dark Chocolate",
+      "zh": "",
+      "category": "Ingredient",
+      "categoryZh": "原料",
+      "basePrice": 0,
+      "tags": [
+        "ingredient",
+        "basic_material",
+        "used_as_input",
+        "cacao"
+      ]
+    },
+    {
+      "id": "milk_chocolate_truffles",
+      "name": "Milk Chocolate Truffles",
+      "zh": "",
+      "category": "Confectioner Product",
+      "categoryZh": "糖果师成品",
+      "subcategory": "Chocolate Truffles",
+      "subcategoryZh": "巧克力松露",
+      "basePrice": 650,
+      "tags": [
+        "confectioner",
+        "advanced",
+        "chocolatier_barrel",
+        "chocolate_truffles",
+        "chocolate_truffle",
+        "crafted_output",
+        "product"
+      ],
+      "description": "A bite-sized confection made with milk chocolate and cream.",
+      "descriptionZh": "",
+      "energy": 65,
+      "health": 29
+    },
+    {
+      "id": "nutty_chocolate_truffles",
+      "name": "Nutty Chocolate Truffles",
+      "zh": "",
+      "category": "Confectioner Product",
+      "categoryZh": "糖果师成品",
+      "subcategory": "Chocolate Truffles",
+      "subcategoryZh": "巧克力松露",
+      "basePrice": 787,
+      "tags": [
+        "confectioner",
+        "advanced",
+        "chocolatier_barrel",
+        "chocolate_truffles",
+        "chocolate_truffle",
+        "crafted_output",
+        "product"
+      ],
+      "description": "A bite-sized confection made with milk chocolate and nuts.",
+      "descriptionZh": "",
+      "energy": 65,
+      "health": 29
+    },
+    {
+      "id": "any_nut_item",
+      "name": "Any Nut item",
+      "zh": "",
+      "category": "Ingredient",
+      "categoryZh": "原料",
+      "basePrice": 0,
+      "tags": [
+        "ingredient",
+        "basic_material",
+        "used_as_input",
+        "nut"
+      ]
+    },
+    {
+      "id": "milk_chocolate",
+      "name": "Milk Chocolate",
+      "zh": "",
+      "category": "Ingredient",
+      "categoryZh": "原料",
+      "basePrice": 0,
+      "tags": [
+        "ingredient",
+        "basic_material",
+        "used_as_input",
+        "dairy",
+        "cacao"
+      ]
+    },
+    {
+      "id": "white_chocolate_truffles",
+      "name": "White Chocolate Truffles",
+      "zh": "",
+      "category": "Confectioner Product",
+      "categoryZh": "糖果师成品",
+      "subcategory": "Chocolate Truffles",
+      "subcategoryZh": "巧克力松露",
+      "basePrice": 650,
+      "tags": [
+        "confectioner",
+        "advanced",
+        "chocolatier_barrel",
+        "chocolate_truffles",
+        "chocolate_truffle",
+        "crafted_output",
+        "product"
+      ],
+      "description": "A bite-sized confection made with white chocolate and cream.",
+      "descriptionZh": "",
+      "energy": 65,
+      "health": 29
+    }
+  ],
+  "machines": [
+    {
+      "id": "chocolatier_barrel",
+      "name": "Chocolatier Barrel",
+      "zh": "巧克力师桶",
+      "defaultMinutes": 1000,
+      "module": "confectioner",
+      "moduleZh": "糖果师",
+      "tags": [
+        "confectioner",
+        "chocolatier_barrel",
+        "chocolate_truffle",
+        "chocolate_truffles"
+      ]
+    }
+  ],
+  "recipes": [
+    {
+      "id": "confectioner_advanced_chocolatier_barrel_dark_chocolate_truffles",
+      "name": "Dark Chocolate Truffles",
+      "nameEn": "Dark Chocolate Truffles",
+      "machineId": "chocolatier_barrel",
+      "inputs": [
+        {
+          "itemId": "cream",
+          "qty": 1
+        }
+      ],
+      "output": {
+        "itemId": "dark_chocolate_truffles",
+        "qty": 1
+      },
+      "minutes": 1000,
+      "module": "confectioner",
+      "moduleZh": "糖果师",
+      "mode": "advanced",
+      "modeZh": "高级",
+      "subcategory": "Chocolate Truffles",
+      "subcategoryZh": "巧克力松露",
+      "source": "Wildflour wiki pasted English table",
+      "description": "A bite-sized confection made with dark chocolate and cream.",
+      "descriptionZh": "",
+      "energy": 65,
+      "health": 29
+    },
+    {
+      "id": "confectioner_advanced_chocolatier_barrel_floral_chocolate_truffles",
+      "name": "Floral Chocolate Truffles",
+      "nameEn": "Floral Chocolate Truffles",
+      "machineId": "chocolatier_barrel",
+      "inputs": [
+        {
+          "tag": "flower",
+          "itemId": "any_edible_flower",
+          "qty": 1,
+          "isGeneric": true,
+          "acceptedTags": [
+            "generic_input",
+            "flower"
+          ]
+        },
+        {
+          "itemId": "white_chocolate",
+          "qty": 1
+        }
+      ],
+      "output": {
+        "itemId": "floral_chocolate_truffles",
+        "qty": 1
+      },
+      "minutes": 1000,
+      "module": "confectioner",
+      "moduleZh": "糖果师",
+      "mode": "advanced",
+      "modeZh": "高级",
+      "subcategory": "Chocolate Truffles",
+      "subcategoryZh": "巧克力松露",
+      "source": "Wildflour wiki pasted English table",
+      "description": "A bite-sized confection made with white chocolate and edible flowers.",
+      "descriptionZh": "",
+      "energy": 65,
+      "health": 29
+    },
+    {
+      "id": "confectioner_advanced_chocolatier_barrel_fruity_chocolate_truffles",
+      "name": "Fruity Chocolate Truffles",
+      "nameEn": "Fruity Chocolate Truffles",
+      "machineId": "chocolatier_barrel",
+      "inputs": [
+        {
+          "tag": "fruit",
+          "itemId": "any_fruit",
+          "qty": 1,
+          "isGeneric": true,
+          "acceptedTags": [
+            "generic_input",
+            "fruit"
+          ]
+        },
+        {
+          "itemId": "dark_chocolate",
+          "qty": 1
+        }
+      ],
+      "output": {
+        "itemId": "fruity_chocolate_truffles",
+        "qty": 1
+      },
+      "minutes": 1000,
+      "module": "confectioner",
+      "moduleZh": "糖果师",
+      "mode": "advanced",
+      "modeZh": "高级",
+      "subcategory": "Chocolate Truffles",
+      "subcategoryZh": "巧克力松露",
+      "source": "Wildflour wiki pasted English table",
+      "description": "A bite-sized confection made with dark chocolate and fruit.",
+      "descriptionZh": "",
+      "energy": 65,
+      "health": 29
+    },
+    {
+      "id": "confectioner_advanced_chocolatier_barrel_milk_chocolate_truffles",
+      "name": "Milk Chocolate Truffles",
+      "nameEn": "Milk Chocolate Truffles",
+      "machineId": "chocolatier_barrel",
+      "inputs": [
+        {
+          "itemId": "cream",
+          "qty": 1
+        }
+      ],
+      "output": {
+        "itemId": "milk_chocolate_truffles",
+        "qty": 1
+      },
+      "minutes": 1000,
+      "module": "confectioner",
+      "moduleZh": "糖果师",
+      "mode": "advanced",
+      "modeZh": "高级",
+      "subcategory": "Chocolate Truffles",
+      "subcategoryZh": "巧克力松露",
+      "source": "Wildflour wiki pasted English table",
+      "description": "A bite-sized confection made with milk chocolate and cream.",
+      "descriptionZh": "",
+      "energy": 65,
+      "health": 29
+    },
+    {
+      "id": "confectioner_advanced_chocolatier_barrel_nutty_chocolate_truffles",
+      "name": "Nutty Chocolate Truffles",
+      "nameEn": "Nutty Chocolate Truffles",
+      "machineId": "chocolatier_barrel",
+      "inputs": [
+        {
+          "itemId": "any_nut_item",
+          "qty": 1
+        },
+        {
+          "itemId": "milk_chocolate",
+          "qty": 1
+        }
+      ],
+      "output": {
+        "itemId": "nutty_chocolate_truffles",
+        "qty": 1
+      },
+      "minutes": 1000,
+      "module": "confectioner",
+      "moduleZh": "糖果师",
+      "mode": "advanced",
+      "modeZh": "高级",
+      "subcategory": "Chocolate Truffles",
+      "subcategoryZh": "巧克力松露",
+      "source": "Wildflour wiki pasted English table",
+      "description": "A bite-sized confection made with milk chocolate and nuts.",
+      "descriptionZh": "",
+      "energy": 65,
+      "health": 29
+    },
+    {
+      "id": "confectioner_advanced_chocolatier_barrel_white_chocolate_truffles",
+      "name": "White Chocolate Truffles",
+      "nameEn": "White Chocolate Truffles",
+      "machineId": "chocolatier_barrel",
+      "inputs": [
+        {
+          "itemId": "cream",
+          "qty": 1
+        }
+      ],
+      "output": {
+        "itemId": "white_chocolate_truffles",
+        "qty": 1
+      },
+      "minutes": 1000,
+      "module": "confectioner",
+      "moduleZh": "糖果师",
+      "mode": "advanced",
+      "modeZh": "高级",
+      "subcategory": "Chocolate Truffles",
+      "subcategoryZh": "巧克力松露",
+      "source": "Wildflour wiki pasted English table",
+      "description": "A bite-sized confection made with white chocolate and cream.",
+      "descriptionZh": "",
+      "energy": 65,
+      "health": 29
+    }
+  ]
+}

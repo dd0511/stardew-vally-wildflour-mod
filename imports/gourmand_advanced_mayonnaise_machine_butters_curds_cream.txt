@@ -1,0 +1,74 @@
+Gourmand
+Mayonnaise Machine
+Butters Curds and Cream
+Image	Name	Description	Ingredients	Processing Time	Sell Price	Energy / Health
+Apple Butter.png	Apple Butter	Made with the farmer's secret family recipe - warm and sweet and perfect for morning toast or slathered on the side of a muffin.	Apple.png Apple (2)	Time Icon.png 180m (≈3h)	
+Gold.png
+275g
+Energy.png
+38	
+Health.png
+17
+Butter.png	Butter	Milk churned by hand into glorious butter.	Milk.png Any Milk (2) ✶	Time Icon.png 180m (≈3h)	
+Gold.png
+343g
+Energy.png
+38	
+Health.png
+17
+Buttermilk.png	Buttermilk	Although it smells a bit unpleasant, this ingredient helps create tender cornbread and fluffy pancakes.	Byproduct of making Butter	Time Icon.png 180m (≈3h)	
+Gold.png
+155g
+Energy.png
+13	
+Health.png
+5
+Cream.png	Cream	Cream is essential to baking certain pastries and whipping up soft, fluffy frostings!	Byproduct of making Butter	Time Icon.png 180m (≈3h)	
+Gold.png
+185g
+Energy.png
+25	
+Health.png
+11
+Honey Butter.png	Honey Butter	Made with the farmer's secret family recipe and the help of some lovely bumblebees.	Honey.png Honey (2)	Time Icon.png 180m (≈3h)	
+Gold.png
+275g
+Energy.png
+38	
+Health.png
+17
+Lemon Curd.png	Lemon Curd ♣	Its luscious, creamy texture is due to high quality egg yolks from very happy chickens.	Petite Lemon.png Petite Lemon (2)	Time Icon.png 180m (≈3h)	
+Gold.png
+151g
+Energy.png
+38	
+Health.png
+17
+Lime Curd.png	Lime Curd ♣	Its luscious, creamy texture is due to high quality egg yolks from very happy chickens.	Petite Lime.png Petite Lime (2)	Time Icon.png 180m (≈3h)	
+Gold.png
+151g
+Energy.png
+38	
+Health.png
+17
+Maple Butter.png	Maple Butter	Made with the farmer's secret family recipe and locally sourced maple syrup.	Maple Syrup.png Maple Syrup (2)	Time Icon.png 180m (≈3h)	
+Gold.png
+550g
+Energy.png
+38	
+Health.png
+17
+Orange Curd.png	Orange Curd	Its luscious, creamy texture is due to high quality egg yolks from very happy chickens.	Orange.png Orange (2)	Time Icon.png 180m (≈3h)	
+Gold.png
+275g
+Energy.png
+38	
+Health.png
+17
+Pumpkin Butter.png	Pumpkin Butter	Made with the farmer's secret family recipe - perfect for the pumpkin spice lover in all of us.	Pumpkin.png Pumpkin (2)	Time Icon.png 180m (≈3h)	
+Gold.png
+880g
+Energy.png
+38	
+Health.png
+17

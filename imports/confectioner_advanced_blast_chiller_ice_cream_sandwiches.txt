@@ -1,0 +1,164 @@
+Confectioner
+Blast Chiller
+Ice Cream Sandwiches
+Image	Name	Description	Ingredients	Processing Time	Sell Price	Energy / Health
+Birdie's Banana Ice Cream Sandwich.png	Birdie's Banana Ice Cream Sandwich	Birdie's Banana Ice Cream sandwiched between two cookies for a fun frozen treat.	Birdie's Banana Ice Cream.png Birdie's Banana Ice Cream (1)
+Cookie.png Cookie (1)	Time Icon.png 1200m (≈20h)	
+Gold.png
+4,832g
+Energy.png
+138	
+Health.png
+62
+Birthday Blast Ice Cream Sandwich.png	Birthday Blast Ice Cream Sandwich	Birthday Blast Ice Cream sandwiched between two cookies for a fun frozen treat.	Birthday Blast Ice Cream.png Birthday Blast Ice Cream (1)
+Cookie.png Cookie (1)	Time Icon.png 1200m (≈20h)	
+Gold.png
+3,860g
+Energy.png
+138	
+Health.png
+62
+Blackberry Cobbler Ice Cream Sandwich.png	Blackberry Cobbler Ice Cream Sandwich	Blackberry Cobbler Ice Cream sandwiched between two cookies for a fun frozen treat.	Blackberry Cobbler Ice Cream.png Blackberry Cobbler Ice Cream (1)
+Cookie.png Cookie (1)	Time Icon.png 1200m (≈20h)	
+Gold.png
+2,450g
+Energy.png
+138	
+Health.png
+62
+Chocolate Lover's Ice Cream Sandwich.png	Chocolate Lover's Ice Cream Sandwich	Chocolate Lover's Ice Cream sandwiched between two cookies for a fun frozen treat.	Chocolate Lover's Ice Cream.png Chocolate Lover's Ice Cream (1)
+Cookie.png Cookie (1)	Time Icon.png 1200m (≈20h)	
+Gold.png
+3,548g
+Energy.png
+138	
+Health.png
+62
+Cookie Monster Ice Cream Sandwich.png	Cookie Monster Ice Cream Sandwich	Cookie Monster Ice Cream sandwiched between two cookies for a fun frozen treat.	Cookie Monster Ice Cream.png Cookie Monster Ice Cream (1)
+Cookie.png Cookie (1)	Time Icon.png 1200m (≈20h)	
+Gold.png
+4,730g
+Energy.png
+138	
+Health.png
+62
+Eggnog Spice Ice Cream Sandwich.png	Eggnog Spice Ice Cream Sandwich	Eggnog Spice Ice Cream sandwiched between two cookies for a fun frozen treat.	Eggnog Spice Ice Cream.png Eggnog Spice Ice Cream (1)
+Cookie.png Cookie (1)	Time Icon.png 1200m (≈20h)	
+Gold.png
+3,032g
+Energy.png
+138	
+Health.png
+62
+Gingerbread Latte Ice Cream Sandwich.png	Gingerbread Latte Ice Cream Sandwich	Gingerbread Latte Ice Cream sandwiched between two cookies for a fun frozen treat.	Gingerbread Latte Ice Cream.png Gingerbread Latte Ice Cream (1)
+Cookie.png Cookie (1)	Time Icon.png 1200m (≈20h)	
+Gold.png
+2,570g
+Energy.png
+138	
+Health.png
+62
+Granny's Apple Pie Ice Cream Sandwich.png	Granny's Apple Pie Ice Cream Sandwich	Granny's Apple PieE Ice Cream sandwiched between two cookies for a fun frozen treat.	Granny's Apple Pie Ice Cream.png Granny's Apple Pie Ice Cream (1)
+Cookie.png Cookie (1)	Time Icon.png 1200m (≈20h)	
+Gold.png
+4,010g
+Energy.png
+138	
+Health.png
+62
+Hopeless Romantic Ice Cream Sandwich.png	Hopeless Romantic Ice Cream Sandwich	Hopeless Romantic Ice Cream sandwiched between two cookies for a fun frozen treat.	Hopeless Romantic Ice Cream.png Hopeless Romantic Ice Cream (1)
+Cookie.png Cookie (1)	Time Icon.png 1200m (≈20h)	
+Gold.png
+7,592g
+Energy.png
+138	
+Health.png
+62
+Horchata Ice Cream Sandwich.png	Horchata Ice Cream Sandwich	Horchata Ice Cream sandwiched between two cookies for a fun frozen treat.	Horchata Ice Cream.png Horchata Ice Cream (1)
+Cookie.png Cookie (1)	Time Icon.png 1200m (≈20h)	
+Gold.png
+4,010g
+Energy.png
+138	
+Health.png
+62
+Key Lime Pie Milkshake Ice Cream Sandwich.png	Key Lime Pie Milkshake Ice Cream Sandwich	Key Lime Pie Ice Cream sandwiched between two cookies for a fun frozen treat.	Key Lime Pie Ice Cream.png Key Lime Pie Ice Cream (1)
+Cookie.png Cookie (1)	Time Icon.png 1200m (≈20h)	
+Gold.png
+2,978g
+Energy.png
+138	
+Health.png
+62
+Lavender Fields Ice Cream Sandwich.png	Lavender Fields Ice Cream Sandwich	Lavender Fields Ice Cream sandwiched between two cookies for a fun frozen treat.	Lavender Fields Ice Cream.png Lavender Fields Ice Cream (1)
+Cookie.png Cookie (1)	Time Icon.png 1200m (≈20h)	
+Gold.png
+2,709g
+Energy.png
+138	
+Health.png
+62
+Lemon Dream Ice Cream Sandwich.png	Lemon Dream Ice Cream Sandwich	Lemon Dream Ice Cream sandwiched between two cookies for a fun frozen treat.	Lemon Dream Ice Cream.png Lemon Dream Ice Cream (1)
+Cookie.png Cookie (1)	Time Icon.png 1200m (≈20h)	
+Gold.png
+2,978g
+Energy.png
+138	
+Health.png
+62
+Nuts 4 Cherries Ice Cream Sandwich.png	Nuts 4 Cherries Ice Cream Sandwich	Nuts 4 Cherries Ice Cream sandwiched between two cookies for a fun frozen treat.	Nuts 4 Cherries Ice Cream.png Nuts 4 Cherries Ice Cream (1)
+Cookie.png Cookie (1)	Time Icon.png 1200m (≈20h)	
+Gold.png
+3,560g
+Energy.png
+138	
+Health.png
+62
+Peppermint Bark Ice Cream Sandwich.png	Peppermint Bark Ice Cream Sandwich	Peppermint Bark Ice Cream sandwiched between two cookies for a fun frozen treat.	Peppermint Bark Ice Cream.png Peppermint Bark Ice Cream (1)
+Cookie.png Cookie (1)	Time Icon.png 1200m (≈20h)	
+Gold.png
+2,312g
+Energy.png
+138	
+Health.png
+62
+Pumpkin Pie Ice Cream Sandwich.png	Pumpkin Pie Ice Cream Sandwich	Pumpkin Pie Ice Cream sandwiched between two cookies for a fun frozen treat.	Pumpkin Pie Ice Cream.png Pumpkin Pie Ice Cream (1)
+Cookie.png Cookie (1)	Time Icon.png 1200m (≈20h)	
+Gold.png
+8,300g
+Energy.png
+138	
+Health.png
+62
+Red Velvet Ice Cream Sandwich.png	Red Velvet Ice Cream Sandwich	Red Velvet Ice Cream sandwiched between two cookies for a fun frozen treat.	Red Velvet Ice Cream.png Red Velvet Ice Cream (1)
+Cookie.png Cookie (1)	Time Icon.png 1200m (≈20h)	
+Gold.png
+3,950g
+Energy.png
+138	
+Health.png
+62
+Strawberry Sunset Ice Cream Sandwich.png	Strawberry Sunset Ice Cream Sandwich	Strawberry Sunset Ice Cream sandwiched between two cookies for a fun frozen treat.	Strawberry Sunset Ice Cream.png Strawberry Sunset Ice Cream (1)
+Cookie.png Cookie (1)	Time Icon.png 1200m (≈20h)	
+Gold.png
+3,650g
+Energy.png
+138	
+Health.png
+62
+Unicorn Ice Cream Sandwich.png	Unicorn Ice Cream Sandwich	Unicorn Ice Cream sandwiched between two cookies for a fun frozen treat.	Unicorn Ice Cream.png Unicorn Ice Cream (1)
+Cookie.png Cookie (1)	Time Icon.png 1200m (≈20h)	
+Gold.png
+12,332g
+Energy.png
+138	
+Health.png
+62
+Very Vanilla Ice Cream Sandwich.png	Very Vanilla Ice Cream Sandwich	Very Vanilla Ice Cream sandwiched between two cookies for a fun frozen treat.	Very Vanilla Ice Cream.png Very Vanilla Ice Cream (1)
+Cookie.png Cookie (1)	Time Icon.png 1200m (≈20h)	
+Gold.png
+3,938g
+Energy.png
+138	
+Health.png
+62

@@ -1,0 +1,36 @@
+Confectioner
+Chocolatier Barrel
+Chocolate Dipped Treats
+Image	Name	Description	Ingredients	Processing Time	Sell Price	Energy / Health
+Chocolate Apple.png	Chocolate Apple	A freshly-picked apple dipped in a rich chocolate coating and served on a stick.	Apple.png Apple (1)
+Milk Chocolate.png Milk Chocolate (1)	Time Icon.png 1000m (≈17h)	
+Gold.png
+650g
+Energy.png
+65	
+Health.png
+29
+Chocolate Covered Marshmallows.png	Chocolate Covered Marshmallows	Marshmallows dipped in milk chocolate.	Any Marshmallows made in the Marshmallow Mixer (1)
+Milk Chocolate.png Milk Chocolate (1)	Time Icon.png 1000m (≈17h)	
+Gold.png
+2,371g
+Energy.png
+65	
+Health.png
+29
+Chocolate Covered Strawberries.png	Chocolate Covered Strawberries	Fresh strawberries dipped in dark chocolate.	Strawberry.png Strawberry (1)
+Dark Chocolate.png Dark Chocolate (1)	Time Icon.png 1000m (≈17h)	
+Gold.png
+760g
+Energy.png
+65	
+Health.png
+29
+S'mores.png	S'mores	Marshmallows sandwiched between chocolate and graham crackers.	Marsh Mallow.png Marsh Mallow (1)
+Brown Sugar.png Brown Sugar (1)	Time Icon.png 1000m (≈17h)	
+Gold.png
+237g
+Energy.png
+65	
+Health.png
+29

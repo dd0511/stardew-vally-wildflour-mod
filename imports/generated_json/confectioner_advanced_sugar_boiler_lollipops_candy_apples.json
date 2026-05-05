@@ -1,0 +1,618 @@
+{
+  "items": [
+    {
+      "id": "candy_apple",
+      "name": "Candy Apple",
+      "zh": "",
+      "category": "Confectioner Product",
+      "categoryZh": "糖果师成品",
+      "subcategory": "Lollipops and Candy Apples",
+      "subcategoryZh": "棒棒糖与糖苹果",
+      "basePrice": 262,
+      "tags": [
+        "confectioner",
+        "advanced",
+        "sugar_boiler",
+        "lollipops_and_candy_apples",
+        "lollipop",
+        "crafted_output",
+        "product"
+      ],
+      "description": "A freshly-picked apple dipped in a sweet candy coating and served on a stick.",
+      "descriptionZh": "",
+      "energy": 65,
+      "health": 29
+    },
+    {
+      "id": "apple",
+      "name": "Apple",
+      "zh": "",
+      "category": "Ingredient",
+      "categoryZh": "原料",
+      "basePrice": 0,
+      "tags": [
+        "ingredient",
+        "basic_material",
+        "used_as_input",
+        "fruit"
+      ]
+    },
+    {
+      "id": "caramel_apple",
+      "name": "Caramel Apple",
+      "zh": "",
+      "category": "Confectioner Product",
+      "categoryZh": "糖果师成品",
+      "subcategory": "Lollipops and Candy Apples",
+      "subcategoryZh": "棒棒糖与糖苹果",
+      "basePrice": 425,
+      "tags": [
+        "confectioner",
+        "advanced",
+        "sugar_boiler",
+        "lollipops_and_candy_apples",
+        "lollipop",
+        "crafted_output",
+        "product"
+      ],
+      "description": "A freshly-picked apple dipped in a caramel coating and served on a stick.",
+      "descriptionZh": "",
+      "energy": 65,
+      "health": 29
+    },
+    {
+      "id": "flower_power_pop",
+      "name": "Flower Power Pop",
+      "zh": "",
+      "category": "Confectioner Product",
+      "categoryZh": "糖果师成品",
+      "subcategory": "Lollipops and Candy Apples",
+      "subcategoryZh": "棒棒糖与糖苹果",
+      "basePrice": 246,
+      "tags": [
+        "confectioner",
+        "advanced",
+        "sugar_boiler",
+        "lollipops_and_candy_apples",
+        "lollipop",
+        "crafted_output",
+        "product"
+      ],
+      "description": "An edible flower lollipop! Almost too pretty to eat. Almost.",
+      "descriptionZh": "",
+      "energy": 65,
+      "health": 29
+    },
+    {
+      "id": "any_edible_flower",
+      "name": "Any Edible Flower",
+      "zh": "",
+      "category": "Ingredient",
+      "categoryZh": "原料",
+      "basePrice": 0,
+      "tags": [
+        "ingredient",
+        "basic_material",
+        "used_as_input",
+        "generic_input",
+        "flower"
+      ],
+      "isGeneric": true,
+      "acceptedTags": [
+        "generic_input",
+        "flower"
+      ]
+    },
+    {
+      "id": "honey",
+      "name": "Honey",
+      "zh": "",
+      "category": "Ingredient",
+      "categoryZh": "原料",
+      "basePrice": 0,
+      "tags": [
+        "ingredient",
+        "basic_material",
+        "used_as_input",
+        "sweetener"
+      ]
+    },
+    {
+      "id": "jack_o_lantern_lollipop",
+      "name": "Jack O Lantern Lollipop",
+      "zh": "",
+      "category": "Confectioner Product",
+      "categoryZh": "糖果师成品",
+      "subcategory": "Lollipops and Candy Apples",
+      "subcategoryZh": "棒棒糖与糖苹果",
+      "basePrice": 1140,
+      "tags": [
+        "confectioner",
+        "advanced",
+        "sugar_boiler",
+        "lollipops_and_candy_apples",
+        "lollipop",
+        "crafted_output",
+        "product"
+      ],
+      "description": "Pumpkin and brown sugar lollipop shaped into a festive jack o lantern.",
+      "descriptionZh": "",
+      "energy": 65,
+      "health": 29
+    },
+    {
+      "id": "brown_sugar",
+      "name": "Brown Sugar",
+      "zh": "",
+      "category": "Ingredient",
+      "categoryZh": "原料",
+      "basePrice": 0,
+      "tags": [
+        "ingredient",
+        "basic_material",
+        "used_as_input",
+        "sweetener"
+      ]
+    },
+    {
+      "id": "kooky_for_cookies_pop",
+      "name": "Kooky for Cookies Pop",
+      "zh": "",
+      "category": "Confectioner Product",
+      "categoryZh": "糖果师成品",
+      "subcategory": "Lollipops and Candy Apples",
+      "subcategoryZh": "棒棒糖与糖苹果",
+      "basePrice": 555,
+      "tags": [
+        "confectioner",
+        "advanced",
+        "sugar_boiler",
+        "lollipops_and_candy_apples",
+        "lollipop",
+        "crafted_output",
+        "product"
+      ],
+      "description": "It's a cookie on a stick! Fun!",
+      "descriptionZh": "",
+      "energy": 65,
+      "health": 29
+    },
+    {
+      "id": "mush_pop",
+      "name": "Mush Pop",
+      "zh": "",
+      "category": "Confectioner Product",
+      "categoryZh": "糖果师成品",
+      "subcategory": "Lollipops and Candy Apples",
+      "subcategoryZh": "棒棒糖与糖苹果",
+      "basePrice": 230,
+      "tags": [
+        "confectioner",
+        "advanced",
+        "sugar_boiler",
+        "lollipops_and_candy_apples",
+        "lollipop",
+        "crafted_output",
+        "product"
+      ],
+      "description": "A fairy's favorite treat.",
+      "descriptionZh": "",
+      "energy": 65,
+      "health": 29
+    },
+    {
+      "id": "prismatic_swirl_lollipop",
+      "name": "Prismatic Swirl Lollipop",
+      "zh": "",
+      "category": "Confectioner Product",
+      "categoryZh": "糖果师成品",
+      "subcategory": "Lollipops and Candy Apples",
+      "subcategoryZh": "棒棒糖与糖苹果",
+      "basePrice": 6550,
+      "tags": [
+        "confectioner",
+        "advanced",
+        "sugar_boiler",
+        "lollipops_and_candy_apples",
+        "lollipop",
+        "crafted_output",
+        "product"
+      ],
+      "description": "Staring at the swirl for too long can result in becoming hypnotized into eating more lollipops.",
+      "descriptionZh": "",
+      "energy": 65,
+      "health": 29
+    },
+    {
+      "id": "sugar",
+      "name": "Sugar",
+      "zh": "",
+      "category": "Ingredient",
+      "categoryZh": "原料",
+      "basePrice": 0,
+      "tags": [
+        "ingredient",
+        "basic_material",
+        "used_as_input",
+        "sweetener"
+      ]
+    },
+    {
+      "id": "skelly_lollipop",
+      "name": "Skelly Lollipop",
+      "zh": "",
+      "category": "Confectioner Product",
+      "categoryZh": "糖果师成品",
+      "subcategory": "Lollipops and Candy Apples",
+      "subcategoryZh": "棒棒糖与糖苹果",
+      "basePrice": 89,
+      "tags": [
+        "confectioner",
+        "advanced",
+        "sugar_boiler",
+        "lollipops_and_candy_apples",
+        "lollipop",
+        "crafted_output",
+        "product"
+      ],
+      "description": "The perfect treat for Sprits' Eve!",
+      "descriptionZh": "",
+      "energy": 65,
+      "health": 29
+    },
+    {
+      "id": "spooky_candy_apple",
+      "name": "Spooky Candy Apple",
+      "zh": "",
+      "category": "Confectioner Product",
+      "categoryZh": "糖果师成品",
+      "subcategory": "Lollipops and Candy Apples",
+      "subcategoryZh": "棒棒糖与糖苹果",
+      "basePrice": 1075,
+      "tags": [
+        "confectioner",
+        "advanced",
+        "sugar_boiler",
+        "lollipops_and_candy_apples",
+        "lollipop",
+        "crafted_output",
+        "product"
+      ],
+      "description": "A freshly-picked apple dipped in a sweet but spooky candy coating and served on a stick.",
+      "descriptionZh": "",
+      "energy": 65,
+      "health": 29
+    },
+    {
+      "id": "unconcerned_chimp_pop",
+      "name": "Unconcerned Chimp Pop",
+      "zh": "",
+      "category": "Confectioner Product",
+      "categoryZh": "糖果师成品",
+      "subcategory": "Lollipops and Candy Apples",
+      "subcategoryZh": "棒棒糖与糖苹果",
+      "basePrice": 587,
+      "tags": [
+        "confectioner",
+        "advanced",
+        "sugar_boiler",
+        "lollipops_and_candy_apples",
+        "lollipop",
+        "crafted_output",
+        "product"
+      ],
+      "description": "Just an unassuming banana-flavored lollipop.",
+      "descriptionZh": "",
+      "energy": 65,
+      "health": 29
+    }
+  ],
+  "machines": [
+    {
+      "id": "sugar_boiler",
+      "name": "Sugar Boiler",
+      "zh": "煮糖锅",
+      "defaultMinutes": 480,
+      "module": "confectioner",
+      "moduleZh": "糖果师",
+      "tags": [
+        "confectioner",
+        "sugar_boiler",
+        "lollipop",
+        "lollipops_and_candy_apples"
+      ]
+    }
+  ],
+  "recipes": [
+    {
+      "id": "confectioner_advanced_sugar_boiler_candy_apple",
+      "name": "Candy Apple",
+      "nameEn": "Candy Apple",
+      "machineId": "sugar_boiler",
+      "inputs": [
+        {
+          "itemId": "apple",
+          "qty": 1
+        }
+      ],
+      "output": {
+        "itemId": "candy_apple",
+        "qty": 1
+      },
+      "minutes": 480,
+      "module": "confectioner",
+      "moduleZh": "糖果师",
+      "mode": "advanced",
+      "modeZh": "高级",
+      "subcategory": "Lollipops and Candy Apples",
+      "subcategoryZh": "棒棒糖与糖苹果",
+      "source": "Wildflour wiki pasted English table",
+      "description": "A freshly-picked apple dipped in a sweet candy coating and served on a stick.",
+      "descriptionZh": "",
+      "energy": 65,
+      "health": 29
+    },
+    {
+      "id": "confectioner_advanced_sugar_boiler_caramel_apple",
+      "name": "Caramel Apple",
+      "nameEn": "Caramel Apple",
+      "machineId": "sugar_boiler",
+      "inputs": [
+        {
+          "itemId": "apple",
+          "qty": 1
+        }
+      ],
+      "output": {
+        "itemId": "caramel_apple",
+        "qty": 1
+      },
+      "minutes": 480,
+      "module": "confectioner",
+      "moduleZh": "糖果师",
+      "mode": "advanced",
+      "modeZh": "高级",
+      "subcategory": "Lollipops and Candy Apples",
+      "subcategoryZh": "棒棒糖与糖苹果",
+      "source": "Wildflour wiki pasted English table",
+      "description": "A freshly-picked apple dipped in a caramel coating and served on a stick.",
+      "descriptionZh": "",
+      "energy": 65,
+      "health": 29
+    },
+    {
+      "id": "confectioner_advanced_sugar_boiler_flower_power_pop",
+      "name": "Flower Power Pop",
+      "nameEn": "Flower Power Pop",
+      "machineId": "sugar_boiler",
+      "inputs": [
+        {
+          "tag": "flower",
+          "itemId": "any_edible_flower",
+          "qty": 1,
+          "isGeneric": true,
+          "acceptedTags": [
+            "generic_input",
+            "flower"
+          ]
+        },
+        {
+          "itemId": "honey",
+          "qty": 1
+        }
+      ],
+      "output": {
+        "itemId": "flower_power_pop",
+        "qty": 1
+      },
+      "minutes": 480,
+      "module": "confectioner",
+      "moduleZh": "糖果师",
+      "mode": "advanced",
+      "modeZh": "高级",
+      "subcategory": "Lollipops and Candy Apples",
+      "subcategoryZh": "棒棒糖与糖苹果",
+      "source": "Wildflour wiki pasted English table",
+      "description": "An edible flower lollipop! Almost too pretty to eat. Almost.",
+      "descriptionZh": "",
+      "energy": 65,
+      "health": 29
+    },
+    {
+      "id": "confectioner_advanced_sugar_boiler_jack_o_lantern_lollipop",
+      "name": "Jack O Lantern Lollipop",
+      "nameEn": "Jack O Lantern Lollipop",
+      "machineId": "sugar_boiler",
+      "inputs": [
+        {
+          "itemId": "brown_sugar",
+          "qty": 1
+        }
+      ],
+      "output": {
+        "itemId": "jack_o_lantern_lollipop",
+        "qty": 1
+      },
+      "minutes": 480,
+      "module": "confectioner",
+      "moduleZh": "糖果师",
+      "mode": "advanced",
+      "modeZh": "高级",
+      "subcategory": "Lollipops and Candy Apples",
+      "subcategoryZh": "棒棒糖与糖苹果",
+      "source": "Wildflour wiki pasted English table",
+      "description": "Pumpkin and brown sugar lollipop shaped into a festive jack o lantern.",
+      "descriptionZh": "",
+      "energy": 65,
+      "health": 29
+    },
+    {
+      "id": "confectioner_advanced_sugar_boiler_kooky_for_cookies_pop",
+      "name": "Kooky for Cookies Pop",
+      "nameEn": "Kooky for Cookies Pop",
+      "machineId": "sugar_boiler",
+      "inputs": [
+        {
+          "itemId": "brown_sugar",
+          "qty": 1
+        }
+      ],
+      "output": {
+        "itemId": "kooky_for_cookies_pop",
+        "qty": 1
+      },
+      "minutes": 480,
+      "module": "confectioner",
+      "moduleZh": "糖果师",
+      "mode": "advanced",
+      "modeZh": "高级",
+      "subcategory": "Lollipops and Candy Apples",
+      "subcategoryZh": "棒棒糖与糖苹果",
+      "source": "Wildflour wiki pasted English table",
+      "description": "It's a cookie on a stick! Fun!",
+      "descriptionZh": "",
+      "energy": 65,
+      "health": 29
+    },
+    {
+      "id": "confectioner_advanced_sugar_boiler_mush_pop",
+      "name": "Mush Pop",
+      "nameEn": "Mush Pop",
+      "machineId": "sugar_boiler",
+      "inputs": [
+        {
+          "itemId": "honey",
+          "qty": 1
+        }
+      ],
+      "output": {
+        "itemId": "mush_pop",
+        "qty": 1
+      },
+      "minutes": 480,
+      "module": "confectioner",
+      "moduleZh": "糖果师",
+      "mode": "advanced",
+      "modeZh": "高级",
+      "subcategory": "Lollipops and Candy Apples",
+      "subcategoryZh": "棒棒糖与糖苹果",
+      "source": "Wildflour wiki pasted English table",
+      "description": "A fairy's favorite treat.",
+      "descriptionZh": "",
+      "energy": 65,
+      "health": 29
+    },
+    {
+      "id": "confectioner_advanced_sugar_boiler_prismatic_swirl_lollipop",
+      "name": "Prismatic Swirl Lollipop",
+      "nameEn": "Prismatic Swirl Lollipop",
+      "machineId": "sugar_boiler",
+      "inputs": [
+        {
+          "itemId": "sugar",
+          "qty": 1
+        }
+      ],
+      "output": {
+        "itemId": "prismatic_swirl_lollipop",
+        "qty": 1
+      },
+      "minutes": 480,
+      "module": "confectioner",
+      "moduleZh": "糖果师",
+      "mode": "advanced",
+      "modeZh": "高级",
+      "subcategory": "Lollipops and Candy Apples",
+      "subcategoryZh": "棒棒糖与糖苹果",
+      "source": "Wildflour wiki pasted English table",
+      "description": "Staring at the swirl for too long can result in becoming hypnotized into eating more lollipops.",
+      "descriptionZh": "",
+      "energy": 65,
+      "health": 29
+    },
+    {
+      "id": "confectioner_advanced_sugar_boiler_skelly_lollipop",
+      "name": "Skelly Lollipop",
+      "nameEn": "Skelly Lollipop",
+      "machineId": "sugar_boiler",
+      "inputs": [
+        {
+          "itemId": "sugar",
+          "qty": 1
+        }
+      ],
+      "output": {
+        "itemId": "skelly_lollipop",
+        "qty": 1
+      },
+      "minutes": 480,
+      "module": "confectioner",
+      "moduleZh": "糖果师",
+      "mode": "advanced",
+      "modeZh": "高级",
+      "subcategory": "Lollipops and Candy Apples",
+      "subcategoryZh": "棒棒糖与糖苹果",
+      "source": "Wildflour wiki pasted English table",
+      "description": "The perfect treat for Sprits' Eve!",
+      "descriptionZh": "",
+      "energy": 65,
+      "health": 29
+    },
+    {
+      "id": "confectioner_advanced_sugar_boiler_spooky_candy_apple",
+      "name": "Spooky Candy Apple",
+      "nameEn": "Spooky Candy Apple",
+      "machineId": "sugar_boiler",
+      "inputs": [
+        {
+          "itemId": "apple",
+          "qty": 1
+        }
+      ],
+      "output": {
+        "itemId": "spooky_candy_apple",
+        "qty": 1
+      },
+      "minutes": 480,
+      "module": "confectioner",
+      "moduleZh": "糖果师",
+      "mode": "advanced",
+      "modeZh": "高级",
+      "subcategory": "Lollipops and Candy Apples",
+      "subcategoryZh": "棒棒糖与糖苹果",
+      "source": "Wildflour wiki pasted English table",
+      "description": "A freshly-picked apple dipped in a sweet but spooky candy coating and served on a stick.",
+      "descriptionZh": "",
+      "energy": 65,
+      "health": 29
+    },
+    {
+      "id": "confectioner_advanced_sugar_boiler_unconcerned_chimp_pop",
+      "name": "Unconcerned Chimp Pop",
+      "nameEn": "Unconcerned Chimp Pop",
+      "machineId": "sugar_boiler",
+      "inputs": [
+        {
+          "itemId": "brown_sugar",
+          "qty": 1
+        }
+      ],
+      "output": {
+        "itemId": "unconcerned_chimp_pop",
+        "qty": 1
+      },
+      "minutes": 480,
+      "module": "confectioner",
+      "moduleZh": "糖果师",
+      "mode": "advanced",
+      "modeZh": "高级",
+      "subcategory": "Lollipops and Candy Apples",
+      "subcategoryZh": "棒棒糖与糖苹果",
+      "source": "Wildflour wiki pasted English table",
+      "description": "Just an unassuming banana-flavored lollipop.",
+      "descriptionZh": "",
+      "energy": 65,
+      "health": 29
+    }
+  ]
+}
